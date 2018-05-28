@@ -52,7 +52,7 @@ X_grid = X_grid.reshape((len(X_grid), 1))
 #to have better prediction we resize the X
 plt.scatter(X, y, color = 'red')
 #here we dont use X_poly as we want to include every new matrix
-plt.plot(X, lin_reg_2.predict(poly_reg.fit_transform(X)), color = 'blue')
+plt.plot(X_grid, lin_reg_2.predict(poly_reg.fit_transform(X)), color = 'blue')
 plt.title('Truth or Bluff (Polynomial Regression)')
 plt.xlabel('Position level')
 plt.ylabel('Salary')
