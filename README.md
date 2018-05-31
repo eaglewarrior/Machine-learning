@@ -13,3 +13,5 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels........continue
 2) In multiple linear regression we have used dataset containing details of expenditure of startups and their profit using this model we can predict the profit of startup ,and also we have developed a model using backward elimination technique.
 
 3) In polynomial linear regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.
+
+4) In SVR linear regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.
