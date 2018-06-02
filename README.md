@@ -15,3 +15,5 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels........continue
 3) In polynomial linear regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.
 
 4) In SVR linear regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.
+
+5) In Decision Tree regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.
