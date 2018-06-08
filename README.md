@@ -22,3 +22,11 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels........continue
 6) In Random Forest regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.this algorithm gives the best result better than polynomial regression.
 # Classification
 1) In logistic regression we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .
+
+2) In Knn regression we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .
+
+3) In SVN regression we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .
+
+4) In Random Forest regression we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .
+
+5) In Decision Tree regression we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .
