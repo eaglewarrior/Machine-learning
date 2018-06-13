@@ -32,3 +32,5 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels........continue
 5) In Decision Tree regression we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .
 
 6) In kernel SVM we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .Kernel SVM is mostly used for complicated dataset where data is not linearly separable.
+
+6) In Naives bayes one of the most imp classification algorithm here we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .Naive bayes works on bayes probability theorem , before getting into coding one have to understand how the formulae works for classifiying which group the point belongs to.
