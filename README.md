@@ -39,4 +39,6 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels........continue
 
 1) In knn clustering  we have used a dataset containing details of  gender ,age, score etc using this model we can predict the which cluster the customer belongs to ,this is example of customer segmentation.
 
+# Association Rule Learning
 
+1)  Market Basket Analysis is a machine learning-based technique for identifying buying pattern from numerous retail transactions for helping the retailer in increasing the sales ,we use Apriori Algorithm which works like bayes rule approach to find realtionship between products by customers.
