@@ -44,3 +44,10 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels........continue
 1)  Market Basket Analysis is a machine learning-based technique for identifying buying pattern from numerous retail transactions for helping the retailer in increasing the sales ,we use Apriori Algorithm which works like bayes rule approach to find realtionship between products by customers.
 
 2) Analysing Market basket using Eclat algorithm for identifying buying pattern from numerous retail transactions for helping the retailer in increasing the sales.
+
+# Dimensionality Reduction
+In statistics, machine learning, and information theory, dimensionality reduction or dimension reduction is the process of reducing the number of random variables under consideration by obtaining a set of principal variables.
+Here in datasets we do it by the following algorithm 
+1) PCA algorithm 
+2) Kernel_pca 
+3) LDA 
