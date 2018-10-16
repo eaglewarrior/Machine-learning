@@ -51,3 +51,12 @@ Here in datasets we do it by the following algorithm
 1) PCA algorithm 
 2) Kernel_pca 
 3) LDA 
+
+# Deep Learning
+1) Artificial Neural Network 
+
+Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.
+Here we use a dataset descibing the customers leaving or retaining in bank and how several factors are affecting the retain and exit of customers .Using ANN in python.
+
+2) Convolutional Neural Network
+
