@@ -39,6 +39,9 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels,keras,........c
 
 1) In k-means clustering  we have used a dataset containing details of  gender ,age, score etc using this model we can predict the which cluster the customer belongs to ,this is example of customer segmentation.
 
+2)In Hierarchical_Clustering we have used the the mall.csv where we cluster people according to their income & spending habits 
+Here a interesting concept of dendogram is introduced which is helpful for knowing how many clusters we need for segmentation.
+
 # Association Rule Learning
 
 1)  Market Basket Analysis is a machine learning-based technique for identifying buying pattern from numerous retail transactions for helping the retailer in increasing the sales ,we use Apriori Algorithm which works like bayes rule approach to find realtionship between products by customers.
