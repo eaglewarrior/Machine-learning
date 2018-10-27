@@ -65,3 +65,8 @@ Here we use a dataset descibing the customers leaving or retaining in bank and h
 
 Convolutional neural networks. Sounds like a weird combination of biology and math with a little CS sprinkled in, but these networks have been some of the most influential innovations in the field of computer vision.Here we make a CNN which classifies or say identifies cat or dog images.
 
+# Model Selection 
+
+1) XGBoost
+XGboost is a very fast, scalable implementation of gradient boosting that has taken data science by storm, with models using XGBoost regularly winning many online data science competitions and used at scale across different industries
+ 
