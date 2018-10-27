@@ -68,5 +68,6 @@ Convolutional neural networks. Sounds like a weird combination of biology and ma
 # Model Selection 
 
 1) XGBoost
+
 XGboost is a very fast, scalable implementation of gradient boosting that has taken data science by storm, with models using XGBoost regularly winning many online data science competitions and used at scale across different industries
  
