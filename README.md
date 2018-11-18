@@ -7,7 +7,7 @@ This repo contains data preprocessing steps need to be known by begineers
 For every ML beginner python is recommended ,this repo is full of ML python algorithm.
 
 
-Python packages used : numpy,pandas,matploit,sklearn,statsmodels,keras,........continues will be added more.
+Python packages used : numpy,pandas,matploit,sklearn,statsmodels,keras,nltk,........continues will be added more.
 # Regression
 1) In linear regression we have used a dataset containing details of employee salary and years of experience using this model we can predict the salary of employee by years of experince.
 
