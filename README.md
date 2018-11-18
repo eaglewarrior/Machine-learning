@@ -65,6 +65,14 @@ Here we use a dataset descibing the customers leaving or retaining in bank and h
 
 Convolutional neural networks. Sounds like a weird combination of biology and math with a little CS sprinkled in, but these networks have been some of the most influential innovations in the field of computer vision.Here we make a CNN which classifies or say identifies cat or dog images.
 
+# Natural Language Processing
+Natural Language Processing (or NLP) is applying Machine Learning models to text and language. Teaching machines to understand what is said in spoken and written word is the focus of Natural Language Processing
+Here in this code I have done the following things:
+
+    Clean texts to prepare them for the Machine Learning models,
+    Create a Bag of Words model,
+    Apply Machine Learning models onto this Bag of Worlds model.
+
 # Model Selection 
 
 1) XGBoost
