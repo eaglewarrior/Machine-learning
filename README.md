@@ -79,3 +79,18 @@ Here in this code I have done the following things:
 
 XGboost is a very fast, scalable implementation of gradient boosting that has taken data science by storm, with models using XGBoost regularly winning many online data science competitions and used at scale across different industries
  
+ 
+2) K cross-fold validation
+
+Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
+
+The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation. When a specific value for k is chosen, it may be used in place of k in the reference to the model, such as k=10 becoming 10-fold cross-validation.
+
+3) Grid CV search
+
+GridSearchCV implements a “fit” and a “score” method. It also implements “predict”, “predict_proba”, “decision_function”, “transform” and “inverse_transform” if they are implemented in the estimator used.
+
+The parameters of the estimator used to apply these methods are optimized by cross-validated grid-search over a parameter grid.
+
+
+
