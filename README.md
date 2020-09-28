@@ -5,16 +5,22 @@ This repo contains data preprocessing steps need to be known by begineers
 
 
 For every ML beginner python is recommended ,this repo is full of ML python algorithm.
-# Contributing Guidelines
+# Contributing Guidelines for Hacktoberfest2020
 
 Star it
+
 Fork the repo
+
 Clone it onto your PC.
+
 Create a folder with your github username
+
 Create seperate files for all the issues you are solving and always open an issue which has all details of the process or method you will use to perform anomaly detection and wait till its is assigned (not more than 2-3 hours it will take , we are passionate open source developers )
+
 Open PRs for the issues you are solving. (You can open multiple PRs for different issues by branching).
 
 Python packages used : numpy,pandas,matploit,sklearn,statsmodels,keras,nltk,........continues will be added more.
+
 # Regression
 1) In linear regression we have used a dataset containing details of employee salary and years of experience using this model we can predict the salary of employee by years of experince.
 
