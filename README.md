@@ -108,6 +108,9 @@ Reinforcement Learning is a branch of Machine Learning, also called Online Learn
     Thompson Sampling
 
 
+## Recommendation Systems
+
+I have depicted two methods of building recommendation engine one with traditional methods and other with scalable algorithm using pyspark using a opensource book review dataset .
 
 
 
