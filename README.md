@@ -1,10 +1,10 @@
 # Machine-learning
-This repository will contain all the stuffs required for beginners in ML do follow and star this repo for regular updates 
+This repository will contain all the stuff required for beginners in ML. Do follow and star this repo for regular updates.
 
-This repo contains data preprocessing steps need to be known by begineers
+This repo contains data preprocessing steps that are needed to be known by beginners.
 
 
-For every ML beginner python is recommended ,this repo is full of ML python algorithm.
+For every ML beginner, Python is recommended. This repo is full of ML python algorithms.
 # Contributing Guidelines for Hacktoberfest2020
 
 1. Star it
@@ -28,6 +28,7 @@ Python packages used : numpy,pandas,matploit,sklearn,statsmodels,keras,nltk,....
 5) In Decision Tree regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.
 
 6) In Random Forest regression we have used dataset containing details of salary and years of experience ,this could be useful for HR dept. to detect the if the new joinee employee is giving right info about his/her salary.this algorithm gives the best result better than polynomial regression.
+
 # Classification
 1) In logistic regression we have used a dataset containing details of  salary ,age and product buyed using this model we can predict the whether the customer of certain age and salary will buy the product or not .
 
@@ -103,6 +104,13 @@ The parameters of the estimator used to apply these methods are optimized by cro
 # Reinforcement Learning
 
 Reinforcement Learning is a branch of Machine Learning, also called Online Learning. It is used to solve interacting problems where the data observed up to time t is considered to decide which action to take at time t + 1. It is also used for Artificial Intelligence when training machines to perform tasks such as walking. Desired outcomes provide the AI with reward, undesired with punishment. Machines learn through trial and error.
+
+## Main points in reinforcement learning are:
+1. Input: The input should be an initial state from which the model will start
+2. Output: There are many possible output as there are variety of solution to a particular problem
+3. Training: The training is based upon the input, The model will return a state and the user will decide to reward or punish the model based on its output.
+4. The model keeps continues to learn.
+5. The best solution is decided based on the maximum reward.
 
     Upper Confidence Bound (UCB)
     Thompson Sampling
