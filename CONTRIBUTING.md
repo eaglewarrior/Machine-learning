@@ -4,7 +4,7 @@
 4. Create a folder with your GitHub username
 5. Create separate files for all the issues you are solving and always open an issue which has all details of the process or method you will use to perform anomaly detection and wait till it is assigned (not more than 2-3 hours it will take, we are passionate open source developers )
 6. Open PRs for the issues you are solving. (You can open multiple PRs for different issues by branching).
-7. Make sure the data is only from the given category (No repititions)
+7. Make sure the data is only from the given category (No repititions of same data)
 
     a. Healthcare -covid, heart attack, cancer etc
 
