@@ -5,7 +5,7 @@ This repo contains data preprocessing steps need to be known by begineers
 
 
 For every ML beginner python is recommended ,this repo is full of ML python algorithm.
-# Contributing Guidelines for Hacktoberfest2020 [Closed  Thanks for contributing !!!] 
+# Contributing Guidelines for Hacktoberfest2021
 
 1. Star it
 2. Fork the repo
