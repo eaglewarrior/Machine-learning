@@ -13,6 +13,13 @@ For every ML beginner python is recommended ,this repo is full of ML python algo
 4. Create a folder with your GitHub username
 5. Create separate files for all the issues you are solving and always open an issue which has all details of the process or method you will use to perform anomaly detection and wait till it is assigned (not more than 2-3 hours it will take, we are passionate open source developers )
 6. Open PRs for the issues you are solving. (You can open multiple PRs for different issues by branching).
+7. Make sure the data is only from the given category (No repetitions of same data )
+
+    a. Healthcare -covid, heart attack, cancer, etc
+
+    b. Finance -stocks etc
+
+    c. Retail or CPG
 
 Python packages used : numpy,pandas,matploit,sklearn,statsmodels,keras,nltk,........continues will be added more.
 
