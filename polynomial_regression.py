@@ -32,7 +32,7 @@ lin_reg.fit(X, y)
 from sklearn.preprocessing import PolynomialFeatures
 poly_reg = PolynomialFeatures(degree=4)
 #we change the degree for better fit of poly reg line
-#the ooly will include col of one automatically featureof this lib
+#the ooly will include col of one automatically feature of this lib
 X_poly =poly_reg.fit_transform(X)
 #ye make this new with X_poly
 lin_reg_2=LinearRegression()
@@ -52,7 +52,7 @@ X_grid = X_grid.reshape((len(X_grid), 1))
 #to have better prediction we resize the X
 plt.scatter(X, y, color = 'red')
 #here we dont use X_poly as we want to include every new matrix
-plt.plot(X_grid, lin_reg_2.predict(poly_reg.fit_transform(X)), color = 'blue')
+plt.plot(X_grid, lin_reg_2.predict(poly_reg.fit_transform(X_grid)), color = 'blue')
 plt.title('Truth or Bluff (Polynomial Regression)')
 plt.xlabel('Position level')
 plt.ylabel('Salary')
@@ -60,40 +60,6 @@ plt.show()
 
 # Predicting a new result with Linear Regression
 #here we get salary of 6.5 years of experinence
-lin_reg.predict(6.5)
+print("Simple linear regression:", lin_reg.predict([[6.5]]))
 # Predicting a new result with Polynomial Regression
-lin_reg_2.predict(poly_reg.fit_transform(6.5))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print("Polynomial linear regression:", lin_reg_2.predict(poly_reg.fit_transform([[6.5]])))
