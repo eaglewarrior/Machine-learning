@@ -1,0 +1,757 @@
+team A,team B,Toss_Winner,Top Batsmen Points(Team A),Top Batsmen Points(Team B),Top Baller Points(Team A),Top Baller Points(Team B),Match Won after winning Toss Team A,Match Won after winning Toss Team B,runs in pp team a,runs in pp team b,Run Rate(Team A),Run Rate(Team B),Most Value Player Points(Team A),Most Value Player Points(Team B),Win ratio (Team A),Win ratio (Team B),Team A Ground,Team B Ground,winner,id,result,toss_decision,dl_applied,win_by_runs,win_by_wickets,player_of_match,umpire1,umpire2,umpire3,venue
+KKR,RCB,RCB,536,509,730,393,0,0,61,26,-0.147,-1.16,514.5,517.5,0,0,away,home,KKR,60,normal,field,0,140,0,BB McCullum,Asad Rauf,RE Koertzen,,M Chinnaswamy Stadium
+CSK,KXIP,CSK,807,804,564,538,0,0,53,63,-0.192,0.509,680,727,0,0,away,away,CSK,61,normal,bat,0,33,0,MEK Hussey,MR Benson,SL Shastri,,"Punjab Cricket Association Stadium, Mohali"
+RR,DC,RR,642,536,571,590,0,0,40,55,0.632,0.342,917,517.5,0,0,away,away,DC,62,normal,bat,0,0,9,MF Maharoof,Aleem Dar,GA Pratapkumar,,Feroz Shah Kotla
+MI,RCB,MI,556,509,970,393,0,0,47,40,0.57,-1.16,724,517.5,0,0,home,away,RCB,63,normal,bat,0,0,5,MV Boucher,SJ Davis,DJ Harper,,Wankhede Stadium
+DEC,KKR,DEC,617,536,603,730,0,0,39,26,-0.467,-0.147,598,514.5,0,0,away,home,KKR,64,normal,bat,0,0,5,DJ Hussey,BF Bowden,K Hariharan,,Eden Gardens
+KXIP,RR,KXIP,804,642,538,571,0,0,54,53,0.509,0.632,727,917,0,0,away,home,RR,65,normal,bat,0,0,6,SR Watson,Aleem Dar,RB Tiffin,,Sawai Mansingh Stadium
+DEC,DC,DEC,617,536,603,590,0,0,25,48,-0.467,0.342,598,517.5,0,0,away,away,DC,66,normal,bat,0,0,9,V Sehwag,IL Howell,AM Saheba,,"Rajiv Gandhi International Stadium, Uppal"
+CSK,MI,MI,807,556,564,970,0,0,53,52,-0.192,0.57,680,724,0,0,home,away,CSK,67,normal,field,0,6,0,ML Hayden,DJ Harper,GA Pratapkumar,,"MA Chidambaram Stadium, Chepauk"
+DEC,RR,RR,617,642,603,571,0,0,58,73,-0.467,0.632,598,917,0,0,away,away,RR,68,normal,field,0,0,3,YK Pathan,Asad Rauf,MR Benson,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,MI,MI,804,556,538,970,0,0,60,39,0.509,0.57,727,724,0,0,away,away,KXIP,69,normal,field,0,66,0,KC Sangakkara,Aleem Dar,AM Saheba,,"Punjab Cricket Association Stadium, Mohali"
+RCB,RR,RR,509,642,393,571,0,0,57,45,-1.16,0.632,517.5,917,0,0,home,away,RR,70,normal,field,0,0,7,SR Watson,MR Benson,IL Howell,,M Chinnaswamy Stadium
+KKR,CSK,KKR,536,807,730,564,0,0,61,45,-0.147,-0.192,514.5,680,0,0,away,home,CSK,71,normal,bat,0,0,9,JDP Oram,BF Bowden,AV Jayaprakash,,"MA Chidambaram Stadium, Chepauk"
+MI,DEC,DEC,556,617,970,603,0,0,27,60,0.57,-0.467,724,598,0,0,home,away,DEC,72,normal,field,0,0,10,AC Gilchrist,Asad Rauf,SL Shastri,,Dr DY Patil Sports Academy
+DC,KXIP,DC,536,804,590,538,0,0,45,55,0.342,0.509,517.5,727,0,0,away,away,KXIP,73,normal,bat,0,0,4,SM Katich,RE Koertzen,I Shivram,,"Punjab Cricket Association Stadium, Mohali"
+CSK,RCB,CSK,807,509,564,393,0,0,36,45,-0.192,-1.16,680,517.5,0,0,away,home,CSK,74,normal,bat,0,13,0,MS Dhoni,BR Doctrove,RB Tiffin,,M Chinnaswamy Stadium
+KKR,MI,KKR,536,556,730,970,0,0,40,38,-0.147,0.57,514.5,724,0,0,home,away,MI,75,normal,bat,0,0,7,ST Jayasuriya,BF Bowden,AV Jayaprakash,,Eden Gardens
+DC,RCB,RCB,536,509,590,393,0,0,58,55,0.342,-1.16,517.5,517.5,0,0,away,away,DC,76,normal,field,0,10,0,GD McGrath,Aleem Dar,I Shivram,,Feroz Shah Kotla
+DEC,KXIP,KXIP,617,804,603,538,0,0,50,41,-0.467,0.509,598,727,0,0,away,away,KXIP,77,normal,field,0,0,7,SE Marsh,BR Doctrove,RB Tiffin,,"Rajiv Gandhi International Stadium, Uppal"
+RR,KKR,RR,642,536,571,730,0,0,45,51,0.632,-0.147,917,514.5,0,0,home,away,RR,78,normal,bat,0,45,0,SA Asnodkar,RE Koertzen,GA Pratapkumar,,Sawai Mansingh Stadium
+CSK,DC,CSK,807,536,564,590,0,0,47,64,-0.192,0.342,680,517.5,0,0,home,away,DC,79,normal,bat,0,0,8,V Sehwag,BF Bowden,K Hariharan,,"MA Chidambaram Stadium, Chepauk"
+KXIP,KKR,KXIP,804,536,538,730,0,0,41,43,0.509,-0.147,727,514.5,0,0,away,away,KXIP,81,normal,bat,0,9,0,IK Pathan,DJ Harper,I Shivram,,"Punjab Cricket Association Stadium, Mohali"
+RCB,DEC,DEC,509,617,393,603,0,0,49,31,-1.16,-0.467,517.5,598,0,0,home,away,RCB,111,normal,field,0,3,0,P Kumar,BR Doctrove,SL Shastri,,M Chinnaswamy Stadium
+MI,DC,DC,556,536,970,590,0,0,50,37,0.57,0.342,724,517.5,0,0,home,away,MI,82,normal,field,0,29,0,SM Pollock,IL Howell,RE Koertzen,,Dr DY Patil Sports Academy
+CSK,RR,CSK,807,642,564,571,0,0,38,44,-0.192,0.632,680,917,0,0,away,home,RR,83,normal,bat,0,0,8,Sohail Tanvir,Asad Rauf,AV Jayaprakash,,Sawai Mansingh Stadium
+RCB,KXIP,KXIP,509,804,393,538,0,0,26,52,-1.16,0.509,517.5,727,0,0,home,away,KXIP,84,normal,field,0,0,6,S Sreesanth,SJ Davis,BR Doctrove,,M Chinnaswamy Stadium
+CSK,DEC,DEC,807,617,564,603,0,0,34,50,-0.192,-0.467,680,598,0,0,home,away,DEC,85,normal,field,0,0,7,AC Gilchrist,MR Benson,RB Tiffin,,"MA Chidambaram Stadium, Chepauk"
+RR,MI,MI,642,556,571,970,0,0,48,34,0.632,0.57,917,724,0,0,away,home,MI,86,normal,field,0,0,7,A Nehra,DJ Harper,RE Koertzen,,Dr DY Patil Sports Academy
+DC,CSK,CSK,536,807,590,564,0,0,50,62,0.342,-0.192,517.5,680,0,0,away,away,CSK,87,normal,field,0,0,4,MS Dhoni,Aleem Dar,RB Tiffin,,Feroz Shah Kotla
+KKR,RCB,KKR,536,509,730,393,0,0,41,35,-0.147,-1.16,514.5,517.5,0,0,home,away,KKR,88,normal,bat,0,5,0,SC Ganguly,Asad Rauf,IL Howell,,Eden Gardens
+DEC,RR,RR,617,642,603,571,0,0,50,50,-0.467,0.632,598,917,0,0,away,home,RR,89,normal,field,0,0,8,YK Pathan,MR Benson,AM Saheba,,Sawai Mansingh Stadium
+CSK,KXIP,KXIP,807,804,564,538,0,0,36,39,-0.192,0.509,680,727,0,0,home,away,CSK,91,normal,field,0,18,0,L Balaji,AV Jayaprakash,BG Jerling,,"MA Chidambaram Stadium, Chepauk"
+KKR,DEC,KKR,536,617,730,603,0,0,53,35,-0.147,-0.467,514.5,598,0,0,away,away,KKR,92,normal,bat,0,23,0,SC Ganguly,IL Howell,AM Saheba,,"Rajiv Gandhi International Stadium, Uppal"
+DC,RR,RR,536,642,590,571,0,0,43,55,0.342,0.632,517.5,917,0,0,away,home,RR,93,normal,field,0,0,3,SR Watson,SJ Davis,RE Koertzen,,Sawai Mansingh Stadium
+RCB,KXIP,RCB,509,804,393,538,0,0,47,21,-1.16,0.509,517.5,727,0,0,away,away,KXIP,94,normal,bat,0,0,9,SE Marsh,BR Doctrove,I Shivram,,"Punjab Cricket Association Stadium, Mohali"
+KKR,DC,KKR,536,536,730,590,0,0,50,42,-0.147,0.342,514.5,517.5,0,0,home,away,KKR,95,normal,bat,0,23,0,Shoaib Akhtar,Asad Rauf,IL Howell,,Eden Gardens
+CSK,MI,MI,807,556,564,970,0,0,35,37,-0.192,0.57,680,724,0,0,away,home,MI,96,normal,field,0,0,9,ST Jayasuriya,BR Doctrove,AM Saheba,,Wankhede Stadium
+DC,DEC,DEC,536,617,590,603,0,0,28,78,0.342,-0.467,517.5,598,0,0,away,away,DC,98,normal,field,0,12,0,A Mishra,BG Jerling,GA Pratapkumar,,Feroz Shah Kotla
+KKR,MI,MI,536,556,730,970,0,0,51,38,-0.147,0.57,514.5,724,0,0,away,home,MI,99,normal,field,0,0,8,SM Pollock,BR Doctrove,DJ Harper,,Wankhede Stadium
+DC,KXIP,DC,536,804,590,538,0,0,48,71,0.342,0.509,517.5,727,0,0,away,away,KXIP,100,normal,bat,1,6,0,DPMD Jayawardene,AV Jayaprakash,RE Koertzen,,Feroz Shah Kotla
+RR,RCB,RCB,642,509,571,393,0,0,27,68,0.632,-1.16,917,517.5,0,0,home,away,RR,101,normal,field,0,65,0,GC Smith,BF Bowden,SL Shastri,,Sawai Mansingh Stadium
+MI,DEC,DEC,556,617,970,603,0,0,68,73,0.57,-0.467,724,598,0,0,away,away,MI,102,normal,field,0,25,0,DJ Bravo,BR Doctrove,DJ Harper,,"Rajiv Gandhi International Stadium, Uppal"
+KKR,CSK,KKR,536,807,730,564,0,0,51,23,-0.147,-0.192,514.5,680,0,0,home,away,CSK,103,normal,bat,1,3,0,M Ntini,Asad Rauf,K Hariharan,,Eden Gardens
+RCB,DC,DC,509,536,393,590,0,0,57,32,-1.16,0.342,517.5,517.5,0,0,home,away,DC,104,normal,field,0,0,5,SP Goswami,SJ Davis,GA Pratapkumar,,M Chinnaswamy Stadium
+KKR,RR,RR,536,642,730,571,0,0,35,43,-0.147,0.632,514.5,917,0,0,home,away,RR,105,normal,field,0,0,6,YK Pathan,BG Jerling,RE Koertzen,,Eden Gardens
+KXIP,MI,MI,804,556,538,970,0,0,41,71,0.509,0.57,727,724,0,0,away,home,KXIP,106,normal,field,0,1,0,SE Marsh,BF Bowden,GA Pratapkumar,,Wankhede Stadium
+RCB,CSK,RCB,509,807,393,564,0,0,32,42,-1.16,-0.192,517.5,680,0,0,away,home,RCB,107,normal,bat,0,14,0,A Kumble,DJ Harper,I Shivram,,"MA Chidambaram Stadium, Chepauk"
+DEC,KXIP,KXIP,617,804,603,538,0,0,43,68,-0.467,0.509,598,727,0,0,away,away,KXIP,108,normal,field,0,0,6,SE Marsh,Asad Rauf,SJ Davis,,"Punjab Cricket Association Stadium, Mohali"
+MI,DC,DC,556,536,970,590,0,0,23,44,0.57,0.342,724,517.5,0,0,away,away,DC,109,normal,field,0,0,5,KD Karthik,BF Bowden,K Hariharan,,Feroz Shah Kotla
+RR,CSK,RR,642,807,571,564,0,0,42,74,0.632,-0.192,917,680,0,0,away,home,RR,110,normal,bat,0,10,0,JA Morkel,DJ Harper,SL Shastri,,"MA Chidambaram Stadium, Chepauk"
+DEC,RCB,DEC,617,509,603,393,0,0,60,56,-0.467,-1.16,598,517.5,0,0,away,away,RCB,80,normal,bat,0,0,5,R Vinay Kumar,Asad Rauf,RE Koertzen,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,KKR,KXIP,804,536,538,730,0,0,67,65,0.509,-0.147,727,514.5,0,0,away,home,KKR,112,normal,bat,0,0,3,Umar Gul,SJ Davis,I Shivram,,Eden Gardens
+MI,RR,RR,556,642,970,571,0,0,46,33,0.57,0.632,724,917,0,0,away,home,RR,113,normal,field,0,0,5,Sohail Tanvir,BF Bowden,K Hariharan,,Sawai Mansingh Stadium
+DEC,CSK,DEC,617,807,603,564,0,0,47,51,-0.467,-0.192,598,680,0,0,away,away,CSK,114,normal,bat,0,0,7,SK Raina,BG Jerling,AM Saheba,,"Rajiv Gandhi International Stadium, Uppal"
+RCB,MI,MI,509,556,393,970,0,0,29,36,-1.16,0.57,517.5,724,0,0,home,away,MI,90,normal,field,0,0,9,CRD Fernando,BF Bowden,AV Jayaprakash,,M Chinnaswamy Stadium
+KXIP,RR,RR,804,642,538,571,0,0,26,44,0.509,0.632,727,917,0,0,away,away,KXIP,97,normal,field,0,41,0,SE Marsh,SJ Davis,K Hariharan,,"Punjab Cricket Association Stadium, Mohali"
+RR,DC,DC,642,536,571,590,0,0,58,28,0.632,0.342,917,517.5,0,0,away,away,RR,115,normal,field,0,105,0,SR Watson,BF Bowden,RE Koertzen,,Wankhede Stadium
+KXIP,CSK,KXIP,804,807,538,564,0,0,35,35,0.509,-0.192,727,680,0,0,away,away,CSK,116,normal,bat,0,0,9,M Ntini,Asad Rauf,DJ Harper,,Wankhede Stadium
+CSK,RR,RR,807,642,564,571,0,0,42,41,-0.192,0.632,680,917,0,0,away,away,RR,117,normal,field,0,0,3,YK Pathan,BF Bowden,RE Koertzen,,Dr DY Patil Sports Academy
+MI,CSK,CSK,633,802,677,777,0.5,0.6,40,40,0.297,0.951,611.5,712,0,0,away,away,MI,118,normal,field,0,19,0,SR Tendulkar,BR Doctrove,K Hariharan,,Newlands
+RCB,RR,RCB,822,585,671,723,0.2,0.818181818,29,14,-0.191,-0.352,681.5,601.5,1,0,away,away,RCB,119,normal,bat,0,75,0,R Dravid,BR Doctrove,RB Tiffin,,Newlands
+KXIP,DC,DC,634,726,593,134,0.5,0.333333333,67,58,-0.483,0.311,634.5,681.5,1,0,away,away,DC,120,normal,field,1,0,10,DL Vettori,MR Benson,SD Ranade,,Newlands
+KKR,DEC,KKR,726,808,529,775,0.5,0.222222222,21,37,-0.789,0.203,484,751,1,0,away,away,DEC,121,normal,bat,0,0,8,RP Singh,MR Benson,BR Doctrove,,Newlands
+CSK,RCB,CSK,802,822,777,671,0.6,0.2,68,46,0.951,-0.191,712,681.5,1,0,away,away,CSK,122,normal,bat,0,92,0,M Muralitharan,BG Jerling,SJA Taufel,,St George's Park
+KXIP,KKR,KKR,634,726,593,529,0.5,0.5,46,60,-0.483,-0.789,634.5,484,0.5,0.5,away,away,KKR,123,normal,field,1,11,0,CH Gayle,DJ Harper,SD Ranade,,Kingsmead
+DEC,RCB,DEC,808,822,775,671,0.222222222,0.2,62,31,0.203,-0.191,751,681.5,0,1,away,away,DEC,124,normal,bat,0,24,0,AC Gilchrist,M Erasmus,AM Saheba,,Newlands
+DC,CSK,DC,726,802,134,777,0.333333333,0.6,59,61,0.311,0.951,681.5,712,0,1,away,away,DC,125,normal,bat,0,9,0,AB de Villiers,BR Doctrove,SJA Taufel,,Kingsmead
+RR,KKR,KKR,585,726,723,529,0.818181818,0.5,54,38,-0.352,-0.789,601.5,484,1,0,away,away,RR,126,tie,field,0,0,0,YK Pathan,MR Benson,M Erasmus,,Newlands
+RCB,KXIP,RCB,822,634,671,593,0.2,0.5,49,44,-0.191,-0.483,681.5,634.5,0,1,away,away,KXIP,127,normal,bat,0,0,7,RS Bopara,BR Doctrove,TH Wijewardene,,Kingsmead
+DEC,MI,DEC,808,633,775,677,0.222222222,0.5,55,50,0.203,0.297,751,611.5,1,0,away,away,DEC,128,normal,bat,0,12,0,PP Ojha,HDPK Dharmasena,SJA Taufel,,Kingsmead
+RCB,DC,RCB,822,726,671,134,0.2,0.333333333,45,43,-0.191,0.311,681.5,681.5,0,1,away,away,DC,129,normal,bat,0,0,6,TM Dilshan,S Asnani,BG Jerling,,St George's Park
+KXIP,RR,KXIP,634,585,593,723,0.5,0.818181818,38,32,-0.483,-0.352,634.5,601.5,0,0,away,away,KXIP,130,normal,bat,0,27,0,KC Sangakkara,M Erasmus,K Hariharan,,Newlands
+CSK,DEC,DEC,802,808,777,775,0.6,0.222222222,62,69,0.951,0.203,712,751,0,1,away,away,DEC,131,normal,field,0,0,6,HH Gibbs,IL Howell,TH Wijewardene,,Kingsmead
+MI,KKR,MI,633,726,677,529,0.5,0.5,61,47,0.297,-0.789,611.5,484,0,0,away,away,MI,132,normal,bat,0,92,0,SR Tendulkar,BG Jerling,RB Tiffin,,St George's Park
+DC,RR,DC,726,585,134,723,0.333333333,0.818181818,42,33,0.311,-0.352,681.5,601.5,0,1,away,away,RR,133,normal,bat,0,0,5,YK Pathan,GAV Baxter,RE Koertzen,,SuperSport Park
+KKR,RCB,KKR,726,822,529,671,0.5,0.2,45,46,-0.789,-0.191,484,681.5,1,0,away,away,RCB,134,normal,bat,0,0,5,MV Boucher,MR Benson,TH Wijewardene,,Kingsmead
+KXIP,MI,KXIP,634,633,593,677,0.5,0.5,26,23,-0.483,0.297,634.5,611.5,1,0,away,away,KXIP,135,normal,bat,0,3,0,KC Sangakkara,MR Benson,SL Shastri,,Kingsmead
+DEC,DC,DC,808,726,775,134,0.222222222,0.333333333,37,41,0.203,0.311,751,681.5,0,1,away,away,DC,136,normal,field,0,0,6,DP Nannes,GAV Baxter,AM Saheba,,SuperSport Park
+CSK,RR,RR,802,585,777,723,0.6,0.818181818,40,38,0.951,-0.352,712,601.5,0,1,away,away,CSK,137,normal,field,0,38,0,SK Raina,GAV Baxter,RE Koertzen,,SuperSport Park
+MI,KKR,MI,633,726,677,529,0.5,0.5,40,26,0.297,-0.789,611.5,484,0,0,away,away,MI,138,normal,bat,0,9,0,JP Duminy,M Erasmus,SK Tarapore,,Buffalo Park
+RCB,KXIP,RCB,822,634,671,593,0.2,0.5,38,35,-0.191,-0.483,681.5,634.5,0,1,away,away,RCB,139,normal,bat,0,8,0,Yuvraj Singh,HDPK Dharmasena,S Ravi,,Kingsmead
+DEC,RR,DEC,808,585,775,723,0.222222222,0.818181818,39,30,0.203,-0.352,751,601.5,0,1,away,away,RR,140,normal,bat,0,0,3,YK Pathan,S Asnani,BG Jerling,,St George's Park
+CSK,DC,DC,802,726,777,134,0.6,0.333333333,53,49,0.951,0.311,712,681.5,1,0,away,away,CSK,141,normal,field,0,18,0,SB Jakati,DJ Harper,RE Koertzen,,New Wanderers Stadium
+KKR,KXIP,KKR,726,634,529,593,0.5,0.5,28,51,-0.789,-0.483,484,634.5,0.5,0.5,away,away,KXIP,142,normal,bat,0,0,6,DPMD Jayawardene,S Asnani,MR Benson,,St George's Park
+MI,RCB,MI,633,822,677,671,0.5,0.2,25,51,0.297,-0.191,611.5,681.5,0,1,away,away,RCB,143,normal,bat,0,0,9,JH Kallis,RE Koertzen,TH Wijewardene,,New Wanderers Stadium
+CSK,DEC,CSK,802,808,777,775,0.6,0.222222222,53,52,0.951,0.203,712,751,0,1,away,away,CSK,144,normal,bat,0,78,0,MS Dhoni,BR Doctrove,M Erasmus,,Buffalo Park
+RR,KXIP,KXIP,585,634,723,593,0.818181818,0.5,57,29,-0.352,-0.483,601.5,634.5,0,0,away,away,RR,145,normal,field,0,78,0,GC Smith,SS Hazare,IL Howell,,Kingsmead
+KKR,DC,KKR,726,726,529,134,0.5,0.333333333,54,57,-0.789,0.311,484,681.5,1,0,away,away,DC,146,normal,bat,0,0,9,G Gambhir,GAV Baxter,IL Howell,,Kingsmead
+DEC,MI,DEC,808,633,775,677,0.222222222,0.5,37,41,0.203,0.297,751,611.5,1,0,away,away,DEC,147,normal,bat,0,19,0,RG Sharma,MR Benson,HDPK Dharmasena,,SuperSport Park
+RCB,RR,RR,822,585,671,723,0.2,0.818181818,29,31,-0.191,-0.352,681.5,601.5,1,0,away,away,RR,148,normal,field,0,0,7,A Singh,K Hariharan,DJ Harper,,SuperSport Park
+CSK,KXIP,CSK,802,634,777,593,0.6,0.5,57,53,0.951,-0.483,712,634.5,1,0,away,away,CSK,149,normal,bat,1,12,0,ML Hayden,DJ Harper,TH Wijewardene,,SuperSport Park
+MI,DC,MI,633,726,677,134,0.5,0.333333333,30,36,0.297,0.311,611.5,681.5,0.5,0.5,away,away,DC,150,normal,bat,0,0,7,A Nehra,M Erasmus,SK Tarapore,,Buffalo Park
+DEC,KXIP,KXIP,808,634,775,593,0.222222222,0.5,52,45,0.203,-0.483,751,634.5,0,1,away,away,KXIP,151,normal,field,0,0,3,DPMD Jayawardene,GAV Baxter,AM Saheba,,De Beers Diamond Oval
+RR,CSK,RR,585,802,723,777,0.818181818,0.6,34,37,-0.352,0.951,601.5,712,1,0,away,away,CSK,152,normal,bat,0,0,7,S Badrinath,GAV Baxter,HDPK Dharmasena,,De Beers Diamond Oval
+MI,RCB,MI,633,822,677,671,0.5,0.2,46,39,0.297,-0.191,611.5,681.5,0,1,away,away,MI,153,normal,bat,0,16,0,JP Duminy,BR Doctrove,BG Jerling,,St George's Park
+KKR,DC,DC,726,726,529,134,0.5,0.333333333,37,47,-0.789,0.311,484,681.5,1,0,away,away,DC,154,normal,field,0,0,7,A Mishra,SL Shastri,RB Tiffin,,New Wanderers Stadium
+DEC,RR,DEC,808,585,775,723,0.222222222,0.818181818,42,30,0.203,-0.352,751,601.5,0,1,away,away,DEC,155,normal,bat,0,53,0,DR Smith,GAV Baxter,HDPK Dharmasena,,De Beers Diamond Oval
+KKR,RCB,RCB,726,822,529,671,0.5,0.2,38,46,-0.789,-0.191,484,681.5,1,0,away,away,RCB,156,normal,field,0,0,6,LRPL Taylor,M Erasmus,SS Hazare,,SuperSport Park
+KXIP,MI,KXIP,634,633,593,677,0.5,0.5,51,42,-0.483,0.297,634.5,611.5,1,0,away,away,MI,157,normal,bat,0,0,8,Harbhajan Singh,SS Hazare,RE Koertzen,,SuperSport Park
+DC,DEC,DEC,726,808,134,775,0.333333333,0.222222222,56,50,0.311,0.203,681.5,751,1,0,away,away,DC,158,normal,field,0,12,0,R Bhatia,DJ Harper,SL Shastri,,Kingsmead
+CSK,RCB,CSK,802,822,777,671,0.6,0.2,52,33,0.951,-0.191,712,681.5,1,0,away,away,RCB,159,normal,bat,0,0,2,LRPL Taylor,BR Doctrove,DJ Harper,,Kingsmead
+RR,MI,RR,585,633,723,677,0.818181818,0.5,42,26,-0.352,0.297,601.5,611.5,1,0,away,away,RR,160,normal,bat,0,2,0,SK Warne,BR Doctrove,DJ Harper,,Kingsmead
+DC,KXIP,KXIP,726,634,134,593,0.333333333,0.5,38,37,0.311,-0.483,681.5,634.5,0,1,away,away,KXIP,161,normal,field,0,0,6,B Lee,HDPK Dharmasena,IL Howell,,OUTsurance Oval
+MI,CSK,MI,633,802,677,777,0.5,0.6,49,35,0.297,0.951,611.5,712,0,0,away,away,CSK,162,normal,bat,0,0,7,ML Hayden,SK Tarapore,SJA Taufel,,St George's Park
+KKR,DEC,DEC,726,808,529,775,0.5,0.222222222,31,50,-0.789,0.203,484,751,1,0,away,away,DEC,163,normal,field,0,0,6,RG Sharma,RE Koertzen,S Ravi,,New Wanderers Stadium
+KXIP,DEC,DEC,634,808,593,775,0.5,0.222222222,39,46,-0.483,0.203,634.5,751,1,0,away,away,KXIP,164,normal,field,0,1,0,Yuvraj Singh,S Ravi,RB Tiffin,,New Wanderers Stadium
+DC,RR,DC,726,585,134,723,0.333333333,0.818181818,35,24,0.311,-0.352,681.5,601.5,0,1,away,away,DC,165,normal,bat,0,14,0,AB de Villiers,SS Hazare,IL Howell,,OUTsurance Oval
+CSK,KKR,CSK,802,726,777,529,0.6,0.5,54,56,0.951,-0.789,712,484,0,0,away,away,KKR,166,normal,bat,0,0,7,BJ Hodge,SJA Taufel,RB Tiffin,,SuperSport Park
+DC,RCB,DC,726,822,134,671,0.333333333,0.2,37,27,0.311,-0.191,681.5,681.5,1,0,away,away,RCB,167,normal,bat,0,0,7,JH Kallis,IL Howell,RB Tiffin,,New Wanderers Stadium
+RR,KKR,KKR,585,726,723,529,0.818181818,0.5,46,29,-0.352,-0.789,601.5,484,1,0,away,away,KKR,168,normal,field,0,0,4,LR Shukla,BG Jerling,SJA Taufel,,Kingsmead
+CSK,KXIP,CSK,802,634,777,593,0.6,0.5,50,29,0.951,-0.483,712,634.5,1,0,away,away,CSK,169,normal,bat,0,24,0,M Muralitharan,BG Jerling,SJA Taufel,,Kingsmead
+MI,DC,DC,633,726,677,134,0.5,0.333333333,30,60,0.297,0.311,611.5,681.5,0.5,0.5,away,away,DC,170,normal,field,0,0,4,V Sehwag,IL Howell,S Ravi,,SuperSport Park
+RCB,DEC,RCB,822,808,671,775,0.2,0.222222222,33,64,-0.191,0.203,681.5,751,1,0,away,away,RCB,171,normal,bat,0,12,0,MK Pandey,IL Howell,S Ravi,,SuperSport Park
+DC,DEC,DEC,726,808,134,775,0.333333333,0.222222222,49,84,0.311,0.203,681.5,751,1,0,away,away,DEC,172,normal,field,0,0,6,AC Gilchrist,BR Doctrove,DJ Harper,,SuperSport Park
+CSK,RCB,RCB,802,822,777,671,0.6,0.2,52,59,0.951,-0.191,712,681.5,1,0,away,away,RCB,173,normal,field,0,0,6,MK Pandey,RE Koertzen,SJA Taufel,,New Wanderers Stadium
+DEC,RCB,RCB,808,822,775,671,0.222222222,0.2,31,36,0.203,-0.191,751,681.5,0,1,away,away,DEC,174,normal,field,0,6,0,A Kumble,RE Koertzen,SJA Taufel,,New Wanderers Stadium
+KKR,DEC,DEC,822,494,669,628,0.384615385,0.473684211,38,62,-0.341,-0.297,562.5,748.5,0.3,0.7,away,away,KKR,175,normal,field,0,11,0,AD Mathews,RE Koertzen,RB Tiffin,,Dr DY Patil Sports Academy
+MI,RR,MI,663,690,574,591,0.5,0.733333333,69,39,1.084,-0.514,699.5,577.5,0,1,home,away,MI,176,normal,bat,0,4,0,YK Pathan,RE Koertzen,RB Tiffin,,Brabourne Stadium
+KXIP,DC,DC,586,822,473,878,0.571428571,0.533333333,44,39,-0.478,0.021,603,822,1,0,away,away,DC,177,normal,field,0,0,5,G Gambhir,BR Doctrove,S Ravi,,"Punjab Cricket Association Stadium, Mohali"
+RCB,KKR,KKR,620,822,573,669,0.461538462,0.384615385,24,61,0.219,-0.341,822,562.5,0.5,0.5,away,home,KKR,178,normal,field,0,0,7,MK Tiwary,HDPK Dharmasena,AM Saheba,,Eden Gardens
+DEC,CSK,DEC,494,539,628,658,0.473684211,0.583333333,57,34,-0.297,0.374,748.5,698.5,0.7,0.3,away,home,DEC,179,normal,bat,0,31,0,WPUJC Vaas,K Hariharan,DJ Harper,,"MA Chidambaram Stadium, Chepauk"
+RR,DC,DC,690,822,591,878,0.733333333,0.533333333,47,60,-0.514,0.021,577.5,822,0,0,home,away,DC,180,normal,field,0,0,6,V Sehwag,BG Jerling,RE Koertzen,,"Sardar Patel Stadium, Motera"
+KXIP,RCB,KXIP,586,620,473,573,0.571428571,0.461538462,50,61,-0.478,0.219,603,822,0,0,away,home,RCB,181,normal,bat,0,0,8,JH Kallis,S Das,DJ Harper,,M Chinnaswamy Stadium
+CSK,KKR,CSK,539,822,658,669,0.583333333,0.384615385,31,45,0.374,-0.341,698.5,562.5,1,0,away,home,CSK,182,normal,bat,0,55,0,MS Dhoni,HDPK Dharmasena,AM Saheba,,Eden Gardens
+MI,DC,DC,663,822,574,878,0.5,0.533333333,67,56,1.084,0.021,699.5,822,1,0,away,away,MI,183,normal,field,0,98,0,SR Tendulkar,BR Doctrove,SK Tarapore,,Feroz Shah Kotla
+RR,RCB,RCB,690,620,591,573,0.733333333,0.461538462,31,59,-0.514,0.219,577.5,822,1,0,away,home,RCB,184,normal,field,0,0,10,JH Kallis,K Hariharan,DJ Harper,,M Chinnaswamy Stadium
+DC,CSK,DC,822,539,878,658,0.533333333,0.583333333,52,56,0.021,0.374,822,698.5,0.6,0.4,away,away,CSK,185,normal,bat,0,0,5,ML Hayden,BR Doctrove,SK Tarapore,,Feroz Shah Kotla
+DEC,KXIP,KXIP,494,586,628,473,0.473684211,0.571428571,56,27,-0.297,-0.478,748.5,603,0,1,away,away,DEC,186,normal,field,0,6,0,A Symonds,BF Bowden,M Erasmus,,Barabati Stadium
+RR,KKR,RR,690,822,591,669,0.733333333,0.384615385,56,38,-0.514,-0.341,577.5,562.5,0.6,0.4,home,away,RR,187,normal,bat,0,34,0,AA Jhunjhunwala,RE Koertzen,RB Tiffin,,"Sardar Patel Stadium, Motera"
+MI,RCB,MI,663,620,574,573,0.5,0.461538462,45,55,1.084,0.219,699.5,822,0.3,0.7,home,away,RCB,188,normal,bat,0,0,7,JH Kallis,HDPK Dharmasena,SS Hazare,,Brabourne Stadium
+DEC,DC,DEC,494,822,628,878,0.473684211,0.533333333,47,48,-0.297,0.021,748.5,822,0.4,0.6,away,away,DEC,189,normal,bat,0,10,0,A Symonds,BF Bowden,M Erasmus,,Barabati Stadium
+KXIP,CSK,CSK,586,539,473,658,0.571428571,0.583333333,38,42,-0.478,0.374,603,698.5,0,1,away,home,KXIP,190,tie,field,0,0,0,J Theron,K Hariharan,DJ Harper,,"MA Chidambaram Stadium, Chepauk"
+KKR,MI,KKR,822,663,669,574,0.384615385,0.5,41,57,-0.341,1.084,562.5,699.5,0,1,away,home,MI,191,normal,bat,0,0,7,SR Tendulkar,SS Hazare,SJA Taufel,,Brabourne Stadium
+RCB,CSK,CSK,620,539,573,658,0.461538462,0.583333333,38,29,0.219,0.374,822,698.5,1,0,home,away,RCB,192,normal,field,0,36,0,RV Uthappa,RE Koertzen,RB Tiffin,,M Chinnaswamy Stadium
+RR,KXIP,KXIP,690,586,591,473,0.733333333,0.571428571,53,76,-0.514,-0.478,577.5,603,0.3,0.7,away,away,RR,193,normal,field,0,31,0,AC Voges,BR Doctrove,SK Tarapore,,"Punjab Cricket Association Stadium, Mohali"
+CSK,MI,MI,539,663,658,574,0.583333333,0.5,51,63,0.374,1.084,698.5,699.5,0.5,0.5,away,home,MI,194,normal,field,0,0,5,SR Tendulkar,BF Bowden,AM Saheba,,Brabourne Stadium
+DC,RCB,RCB,822,620,878,573,0.533333333,0.461538462,55,54,0.021,0.219,822,822,0.5,0.5,away,home,DC,197,normal,field,0,17,0,KM Jadhav,BG Jerling,RE Koertzen,,M Chinnaswamy Stadium
+DEC,RR,DEC,494,690,628,591,0.473684211,0.733333333,50,42,-0.297,-0.514,748.5,577.5,0,0,away,home,RR,195,normal,bat,0,0,8,YK Pathan,HDPK Dharmasena,SJA Taufel,,"Sardar Patel Stadium, Motera"
+KKR,KXIP,KKR,822,586,669,473,0.384615385,0.571428571,64,46,-0.341,-0.478,562.5,603,0,1,away,away,KKR,196,normal,bat,0,39,0,MK Tiwary,BR Doctrove,S Ravi,,"Punjab Cricket Association Stadium, Mohali"
+RR,CSK,RR,690,539,591,658,0.733333333,0.583333333,58,58,-0.514,0.374,577.5,698.5,0.7,0.3,home,away,RR,198,normal,bat,0,17,0,NV Ojha,SS Hazare,SJA Taufel,,"Sardar Patel Stadium, Motera"
+MI,DEC,DEC,663,494,574,628,0.5,0.473684211,52,50,1.084,-0.297,699.5,748.5,0.5,0.5,home,away,MI,199,normal,field,0,41,0,Harbhajan Singh,S Das,K Hariharan,,Dr DY Patil Sports Academy
+DC,KKR,DC,822,822,878,669,0.533333333,0.384615385,62,36,0.021,-0.341,822,562.5,0.7,0.3,away,away,DC,200,normal,bat,0,40,0,DA Warner,SS Hazare,SJA Taufel,,Feroz Shah Kotla
+KXIP,MI,MI,586,663,473,574,0.571428571,0.5,48,45,-0.478,1.084,603,699.5,0,0,away,home,MI,201,normal,field,0,0,4,SL Malinga,BR Doctrove,SK Tarapore,,Brabourne Stadium
+RCB,CSK,RCB,620,539,573,658,0.461538462,0.583333333,52,56,0.219,0.374,822,698.5,1,0,away,home,CSK,202,normal,bat,0,0,5,M Vijay,BG Jerling,RE Koertzen,,"MA Chidambaram Stadium, Chepauk"
+DC,RR,DC,822,690,878,591,0.533333333,0.733333333,52,39,0.021,-0.514,822,577.5,0,0,away,away,DC,203,normal,bat,0,67,0,KD Karthik,HDPK Dharmasena,SJA Taufel,,Feroz Shah Kotla
+KKR,DEC,KKR,822,494,669,628,0.384615385,0.473684211,46,59,-0.341,-0.297,562.5,748.5,0.3,0.7,home,away,KKR,204,normal,bat,0,24,0,SC Ganguly,K Hariharan,DJ Harper,,Eden Gardens
+KXIP,RCB,KXIP,586,620,473,573,0.571428571,0.461538462,41,51,-0.478,0.219,603,822,0,0,away,away,RCB,205,normal,bat,0,0,6,KP Pietersen,BF Bowden,M Erasmus,,"Punjab Cricket Association Stadium, Mohali"
+CSK,RR,CSK,539,690,658,591,0.583333333,0.733333333,66,62,0.374,-0.514,698.5,577.5,0.3,0.7,home,away,CSK,206,normal,bat,0,23,0,M Vijay,RE Koertzen,RB Tiffin,,"MA Chidambaram Stadium, Chepauk"
+MI,DEC,MI,663,494,574,628,0.5,0.473684211,53,40,1.084,-0.297,699.5,748.5,0.5,0.5,home,away,MI,207,normal,bat,0,63,0,AT Rayudu,BR Doctrove,S Ravi,,Brabourne Stadium
+KKR,KXIP,KKR,822,586,669,473,0.384615385,0.571428571,53,69,-0.341,-0.478,562.5,603,0,1,home,away,KXIP,208,normal,bat,0,0,8,DPMD Jayawardene,S Asnani,DJ Harper,,Eden Gardens
+DC,RCB,DC,822,620,878,573,0.533333333,0.461538462,54,38,0.021,0.219,822,822,0.5,0.5,away,away,DC,209,normal,bat,0,37,0,PD Collingwood,BF Bowden,M Erasmus,,Feroz Shah Kotla
+RR,DEC,RR,690,494,591,628,0.733333333,0.473684211,48,52,-0.514,-0.297,577.5,748.5,0,0,away,away,RR,210,normal,bat,0,2,0,SK Warne,HDPK Dharmasena,SJA Taufel,,"Vidarbha Cricket Association Stadium, Jamtha"
+CSK,MI,CSK,539,663,658,574,0.583333333,0.5,42,46,0.374,1.084,698.5,699.5,0.5,0.5,home,away,CSK,211,normal,bat,0,24,0,SK Raina,S Asnani,DJ Harper,,"MA Chidambaram Stadium, Chepauk"
+KXIP,RR,KXIP,586,690,473,591,0.571428571,0.733333333,52,70,-0.478,-0.514,603,577.5,0.7,0.3,away,home,RR,212,normal,bat,0,0,9,MJ Lumb,S Ravi,SK Tarapore,,Sawai Mansingh Stadium
+KKR,DC,KKR,822,822,669,878,0.384615385,0.533333333,50,44,-0.341,0.021,562.5,822,0.3,0.7,home,away,KKR,213,normal,bat,0,14,0,SC Ganguly,BG Jerling,RE Koertzen,,Eden Gardens
+RCB,DEC,DEC,620,494,573,628,0.461538462,0.473684211,46,32,0.219,-0.297,822,748.5,1,0,home,away,DEC,214,normal,field,0,0,7,TL Suman,S Asnani,DJ Harper,,M Chinnaswamy Stadium
+MI,KXIP,MI,663,586,574,473,0.5,0.571428571,51,56,1.084,-0.478,699.5,603,0,0,away,away,KXIP,215,normal,bat,0,0,6,KC Sangakkara,M Erasmus,AM Saheba,,"Punjab Cricket Association Stadium, Mohali"
+CSK,DEC,CSK,539,494,658,628,0.583333333,0.473684211,55,37,0.374,-0.297,698.5,748.5,0.3,0.7,away,away,DEC,216,normal,bat,0,0,6,RJ Harris,HDPK Dharmasena,SJA Taufel,,"Vidarbha Cricket Association Stadium, Jamtha"
+KKR,RCB,RCB,822,620,669,573,0.384615385,0.461538462,61,48,-0.341,0.219,562.5,822,0.5,0.5,away,home,RCB,217,normal,field,0,0,7,R Vinay Kumar,K Hariharan,DJ Harper,,M Chinnaswamy Stadium
+DC,KXIP,DC,822,586,878,473,0.533333333,0.571428571,45,39,0.021,-0.478,822,603,0,1,away,away,KXIP,218,normal,bat,0,0,7,PP Chawla,BF Bowden,AM Saheba,,Feroz Shah Kotla
+MI,RR,RR,663,690,574,591,0.5,0.733333333,47,34,1.084,-0.514,699.5,577.5,0,1,away,home,MI,219,normal,field,0,37,0,SR Tendulkar,BR Doctrove,SK Tarapore,,Sawai Mansingh Stadium
+DEC,RCB,RCB,494,620,628,573,0.473684211,0.461538462,35,38,-0.297,0.219,748.5,822,0,1,away,away,DEC,220,normal,field,0,13,0,Harmeet Singh,RE Koertzen,RB Tiffin,,"Vidarbha Cricket Association Stadium, Jamtha"
+MI,DC,MI,663,822,574,878,0.5,0.533333333,44,69,1.084,0.021,699.5,822,1,0,home,away,MI,221,normal,bat,0,39,0,KA Pollard,S Asnani,DJ Harper,,Brabourne Stadium
+KKR,CSK,KKR,822,539,669,658,0.384615385,0.583333333,22,67,-0.341,0.374,562.5,698.5,0,1,away,home,CSK,222,normal,bat,0,0,9,R Ashwin,SS Hazare,SJA Taufel,,"MA Chidambaram Stadium, Chepauk"
+RR,RCB,RR,690,620,591,573,0.733333333,0.461538462,30,59,-0.514,0.219,577.5,822,1,0,home,away,RCB,223,normal,bat,0,0,5,KP Pietersen,BR Doctrove,S Ravi,,Sawai Mansingh Stadium
+CSK,DC,CSK,539,822,658,878,0.583333333,0.533333333,39,33,0.374,0.021,698.5,822,0.4,0.6,home,away,DC,224,normal,bat,0,0,6,G Gambhir,HDPK Dharmasena,SS Hazare,,"MA Chidambaram Stadium, Chepauk"
+KXIP,DEC,DEC,586,494,473,628,0.571428571,0.473684211,43,45,-0.478,-0.297,603,748.5,1,0,away,away,DEC,225,normal,field,0,0,5,RG Sharma,M Erasmus,AM Saheba,,Himachal Pradesh Cricket Association Stadium
+MI,RCB,RCB,663,620,574,573,0.5,0.461538462,34,34,1.084,0.219,699.5,822,0.3,0.7,away,home,MI,226,normal,field,0,57,0,R McLaren,HDPK Dharmasena,SJA Taufel,,M Chinnaswamy Stadium
+RR,KKR,RR,690,822,591,669,0.733333333,0.384615385,46,42,-0.514,-0.341,577.5,562.5,0.6,0.4,away,home,KKR,227,normal,bat,0,0,8,JD Unadkat,BG Jerling,RB Tiffin,,Eden Gardens
+KXIP,CSK,CSK,586,539,473,658,0.571428571,0.583333333,49,49,-0.478,0.374,603,698.5,0,1,away,away,CSK,228,normal,field,0,0,6,MS Dhoni,BF Bowden,AM Saheba,,Himachal Pradesh Cricket Association Stadium
+DEC,DC,DEC,494,822,628,878,0.473684211,0.533333333,38,39,-0.297,0.021,748.5,822,0.4,0.6,away,away,DEC,229,normal,bat,0,11,0,A Symonds,BR Doctrove,SK Tarapore,,Feroz Shah Kotla
+MI,KKR,MI,663,822,574,669,0.5,0.384615385,42,44,1.084,-0.341,699.5,562.5,1,0,away,home,KKR,230,normal,bat,0,0,9,M Kartik,BG Jerling,RE Koertzen,,Eden Gardens
+MI,RCB,MI,663,620,574,573,0.5,0.461538462,54,44,1.084,0.219,699.5,822,0.3,0.7,home,away,MI,231,normal,bat,0,35,0,KA Pollard,BR Doctrove,RB Tiffin,,Dr DY Patil Sports Academy
+CSK,DEC,CSK,539,494,658,628,0.583333333,0.473684211,39,23,0.374,-0.297,698.5,748.5,0.3,0.7,away,away,CSK,232,normal,bat,0,38,0,DE Bollinger,BR Doctrove,RB Tiffin,,Dr DY Patil Sports Academy
+DEC,RCB,DEC,494,620,628,573,0.473684211,0.461538462,27,33,-0.297,0.219,748.5,822,0,1,away,away,RCB,233,normal,bat,0,0,9,A Kumble,RE Koertzen,SJA Taufel,,Dr DY Patil Sports Academy
+CSK,MI,CSK,539,663,658,574,0.583333333,0.5,40,33,0.374,1.084,698.5,699.5,0.5,0.5,away,home,CSK,234,normal,bat,0,22,0,SK Raina,RE Koertzen,SJA Taufel,,Dr DY Patil Sports Academy
+CSK,KKR,CSK,602,523,441,491,0.590909091,0.45,45,52,0.443,0.433,685,690.5,0.5,0.5,home,away,CSK,235,normal,bat,0,2,0,S Anirudha,BR Doctrove,PR Reiffel,,"MA Chidambaram Stadium, Chepauk"
+DEC,RR,RR,479,553,691,384,0.5,0.666666667,44,31,0.222,-0.691,614,593.5,0.5,0.5,away,away,RR,236,normal,field,0,0,8,SK Trivedi,RE Koertzen,SK Tarapore,,"Rajiv Gandhi International Stadium, Uppal"
+KTK,RCB,KTK,422,501,414,595,0,0.421052632,61,48,-0.324,0.326,576,855.5,0,0,away,away,RCB,237,normal,bat,0,0,6,AB de Villiers,HDPK Dharmasena,K Hariharan,,Nehru Stadium
+DC,MI,DC,523,575,449,402,0.565217391,0.565217391,38,31,-0.448,0.04,855.5,748.5,0.5,0.5,away,away,MI,238,normal,bat,0,0,8,SL Malinga,AM Saheba,RB Tiffin,,Feroz Shah Kotla
+KXIP,PWI,KXIP,436,546,523,654,0.421052632,0,36,44,-0.051,-0.134,693,623,0,0,away,away,PWI,239,normal,bat,0,0,7,SB Wagh,BR Doctrove,PR Reiffel,,Dr DY Patil Sports Academy
+KKR,DEC,KKR,523,479,491,691,0.45,0.5,46,30,0.433,0.222,690.5,614,0.6,0.4,home,away,KKR,240,normal,bat,0,9,0,JH Kallis,RE Koertzen,SK Tarapore,,Eden Gardens
+DC,RR,DC,523,553,449,384,0.565217391,0.666666667,30,57,-0.448,-0.691,855.5,593.5,0.5,0.5,away,home,RR,241,normal,bat,0,0,6,SK Warne,Aleem Dar,RB Tiffin,,Sawai Mansingh Stadium
+RCB,MI,MI,501,575,595,402,0.421052632,0.565217391,24,40,0.326,0.04,855.5,748.5,0,1,home,away,MI,242,normal,field,0,0,9,SR Tendulkar,HDPK Dharmasena,AL Hill,,M Chinnaswamy Stadium
+CSK,KXIP,KXIP,602,436,441,523,0.590909091,0.421052632,31,65,0.443,-0.051,685,693,1,0,away,away,KXIP,243,normal,field,0,0,6,PC Valthaty,Asad Rauf,SL Shastri,,"Punjab Cricket Association Stadium, Mohali"
+KTK,PWI,KTK,422,546,414,654,0,0,37,44,-0.324,-0.134,576,623,0,0,away,away,PWI,244,normal,bat,0,0,4,MD Mishra,S Asnani,PR Reiffel,,Dr DY Patil Sports Academy
+DEC,RCB,RCB,479,501,691,595,0.5,0.421052632,41,28,0.222,0.326,614,855.5,0.6,0.4,away,away,DEC,245,normal,field,0,33,0,DW Steyn,RE Koertzen,S Ravi,,"Rajiv Gandhi International Stadium, Uppal"
+RR,KKR,KKR,553,523,384,491,0.666666667,0.45,31,62,-0.691,0.433,593.5,690.5,0.5,0.5,home,away,KKR,246,normal,field,0,0,9,G Gambhir,Aleem Dar,SS Hazare,,Sawai Mansingh Stadium
+MI,KTK,KTK,575,422,402,414,0.565217391,0,44,50,0.04,-0.324,748.5,576,0,0,home,away,KTK,247,normal,field,0,0,8,BB McCullum,BR Doctrove,PR Reiffel,,Wankhede Stadium
+CSK,RCB,CSK,602,501,441,595,0.590909091,0.421052632,45,33,0.443,0.326,685,855.5,0.5,0.5,home,away,CSK,248,normal,bat,0,21,0,MEK Hussey,HDPK Dharmasena,AL Hill,,"MA Chidambaram Stadium, Chepauk"
+DEC,KXIP,KXIP,479,436,691,523,0.5,0.421052632,48,62,0.222,-0.051,614,693,0.25,0.75,away,away,KXIP,249,normal,field,0,0,8,PC Valthaty,RE Koertzen,S Ravi,,"Rajiv Gandhi International Stadium, Uppal"
+PWI,DC,DC,546,523,654,449,0,0.565217391,63,67,-0.134,-0.448,623,855.5,0,0,away,away,DC,250,normal,field,0,0,3,Yuvraj Singh,Asad Rauf,AM Saheba,,Dr DY Patil Sports Academy
+RR,KKR,KKR,553,523,384,491,0.666666667,0.45,36,26,-0.691,0.433,593.5,690.5,0.5,0.5,away,home,KKR,251,normal,field,0,0,8,L Balaji,Aleem Dar,RB Tiffin,,Eden Gardens
+CSK,KTK,KTK,602,422,441,414,0.590909091,0,42,49,0.443,-0.324,685,576,0,0,away,away,KTK,252,normal,field,1,0,7,BB McCullum,K Hariharan,AL Hill,,Nehru Stadium
+DEC,DC,DEC,479,523,691,449,0.5,0.565217391,43,38,0.222,-0.448,614,855.5,0.5,0.5,away,away,DEC,253,normal,bat,0,16,0,S Sohal,PR Reiffel,RJ Tucker,,Feroz Shah Kotla
+PWI,MI,PWI,546,575,654,402,0,0.565217391,33,32,-0.134,0.04,623,748.5,0,0,away,home,MI,254,normal,bat,0,0,7,MM Patel,Asad Rauf,AM Saheba,,Wankhede Stadium
+KTK,KKR,KKR,422,523,414,491,0,0.45,45,37,-0.324,0.433,576,690.5,0,0,away,home,KTK,255,normal,field,0,6,0,DPMD Jayawardene,Aleem Dar,RB Tiffin,,Eden Gardens
+KXIP,RR,RR,436,553,523,384,0.421052632,0.666666667,77,45,-0.051,-0.691,693,593.5,0.5,0.5,away,away,KXIP,256,normal,field,0,48,0,SE Marsh,S Asnani,PR Reiffel,,"Punjab Cricket Association Stadium, Mohali"
+MI,CSK,CSK,575,602,402,441,0.565217391,0.590909091,40,44,0.04,0.443,748.5,685,0.5,0.5,home,away,MI,257,normal,field,0,8,0,Harbhajan Singh,Asad Rauf,AM Saheba,,Wankhede Stadium
+KKR,RCB,RCB,523,501,491,595,0.45,0.421052632,50,57,0.433,0.326,690.5,855.5,0.4,0.6,home,away,RCB,258,normal,field,0,0,9,CH Gayle,SS Hazare,RB Tiffin,,Eden Gardens
+DC,KXIP,KXIP,523,436,449,523,0.565217391,0.421052632,70,46,-0.448,-0.051,855.5,693,1,0,away,away,DC,259,normal,field,0,29,0,DA Warner,S Asnani,RE Koertzen,,Feroz Shah Kotla
+MI,DEC,DEC,575,479,402,691,0.565217391,0.5,57,41,0.04,0.222,748.5,614,0,1,away,away,MI,260,normal,field,0,37,0,SL Malinga,HDPK Dharmasena,AL Hill,,"Rajiv Gandhi International Stadium, Uppal"
+KTK,RR,RR,422,553,414,384,0,0.666666667,32,38,-0.324,-0.691,576,593.5,0,0,away,home,RR,261,normal,field,0,0,8,SK Warne,BR Doctrove,SK Tarapore,,Sawai Mansingh Stadium
+CSK,PWI,PWI,602,546,441,654,0.590909091,0,45,40,0.443,-0.134,685,623,0,0,home,away,CSK,262,normal,field,0,25,0,MEK Hussey,Aleem Dar,RB Tiffin,,"MA Chidambaram Stadium, Chepauk"
+DC,RCB,RCB,523,501,449,595,0.565217391,0.421052632,42,65,-0.448,0.326,855.5,855.5,0.6,0.4,away,away,RCB,263,normal,field,0,0,3,V Kohli,S Asnani,RJ Tucker,,Feroz Shah Kotla
+PWI,CSK,PWI,546,602,654,441,0,0.590909091,37,28,-0.134,0.443,623,685,0,0,away,away,CSK,264,normal,bat,0,0,8,DE Bollinger,Asad Rauf,SL Shastri,,Dr DY Patil Sports Academy
+DEC,KTK,KTK,479,422,691,414,0.5,0,20,29,0.222,-0.324,614,576,0,0,away,away,DEC,265,normal,field,0,55,0,I Sharma,HDPK Dharmasena,AL Hill,,Nehru Stadium
+KKR,DC,DC,523,523,491,449,0.45,0.565217391,42,41,0.433,-0.448,690.5,855.5,0.5,0.5,away,away,KKR,266,normal,field,0,17,0,MK Tiwary,PR Reiffel,RJ Tucker,,Feroz Shah Kotla
+MI,RR,RR,575,553,402,384,0.565217391,0.666666667,31,18,0.04,-0.691,748.5,593.5,0.7,0.3,away,home,RR,267,normal,field,0,0,7,J Botha,Asad Rauf,SK Tarapore,,Sawai Mansingh Stadium
+RCB,PWI,PWI,501,546,595,654,0.421052632,0,57,42,0.326,-0.134,855.5,623,0,0,home,away,RCB,268,normal,field,0,26,0,V Kohli,Aleem Dar,SS Hazare,,M Chinnaswamy Stadium
+DC,KTK,DC,523,422,449,414,0.565217391,0,34,37,-0.448,-0.324,855.5,576,0,0,away,away,DC,269,normal,bat,0,38,0,V Sehwag,HDPK Dharmasena,AL Hill,,Nehru Stadium
+KXIP,KKR,KKR,436,523,523,491,0.421052632,0.45,40,45,-0.051,0.433,693,690.5,0.3,0.7,away,home,KKR,270,normal,field,0,0,8,Iqbal Abdulla,AM Saheba,SL Shastri,,Eden Gardens
+PWI,RR,RR,546,553,654,384,0,0.666666667,49,34,-0.134,-0.691,623,593.5,0,0,away,home,RR,271,normal,field,0,0,6,LRPL Taylor,SK Tarapore,SJA Taufel,,Sawai Mansingh Stadium
+CSK,DEC,CSK,602,479,441,691,0.590909091,0.5,34,64,0.443,0.222,685,614,0.4,0.6,home,away,CSK,272,normal,bat,0,19,0,JA Morkel,Aleem Dar,RB Tiffin,,"MA Chidambaram Stadium, Chepauk"
+MI,KXIP,KXIP,575,436,402,523,0.565217391,0.421052632,35,24,0.04,-0.051,748.5,693,0.4,0.6,home,away,MI,273,normal,field,0,23,0,KA Pollard,HDPK Dharmasena,PR Reiffel,,Wankhede Stadium
+DC,KTK,KTK,523,422,449,414,0.565217391,0,42,67,-0.448,-0.324,855.5,576,0,0,away,away,KTK,274,normal,field,0,0,7,P Parameswaran,Asad Rauf,SL Shastri,,Feroz Shah Kotla
+KKR,DEC,DEC,523,479,491,691,0.45,0.5,41,41,0.433,0.222,690.5,614,0.6,0.4,away,away,KKR,275,normal,field,0,20,0,YK Pathan,S Asnani,RJ Tucker,,"Rajiv Gandhi International Stadium, Uppal"
+RR,CSK,RR,553,602,384,441,0.666666667,0.590909091,47,43,-0.691,0.443,593.5,685,0.5,0.5,away,home,CSK,276,normal,bat,0,0,8,MEK Hussey,SS Hazare,RB Tiffin,,"MA Chidambaram Stadium, Chepauk"
+MI,PWI,PWI,575,546,402,654,0.565217391,0,49,31,0.04,-0.134,748.5,623,0,0,home,away,MI,277,normal,field,0,21,0,R Sharma,HDPK Dharmasena,SJA Taufel,,Dr DY Patil Sports Academy
+KTK,KKR,KKR,422,523,414,491,0,0.45,35,43,-0.324,0.433,576,690.5,0,0,away,away,KTK,278,normal,field,0,17,0,BJ Hodge,S Ravi,RJ Tucker,,Nehru Stadium
+DEC,DC,DC,479,523,691,449,0.5,0.565217391,43,29,0.222,-0.448,614,855.5,0.5,0.5,away,away,DC,279,normal,field,0,0,4,V Sehwag,Asad Rauf,AM Saheba,,"Rajiv Gandhi International Stadium, Uppal"
+RCB,KXIP,KXIP,501,436,595,523,0.421052632,0.421052632,48,38,0.326,-0.051,855.5,693,0.25,0.75,home,away,RCB,280,normal,field,0,85,0,CH Gayle,Aleem Dar,RB Tiffin,,M Chinnaswamy Stadium
+CSK,KKR,CSK,602,523,441,491,0.590909091,0.45,15,33,0.443,0.433,685,690.5,0.5,0.5,away,home,KKR,281,normal,bat,1,10,0,Iqbal Abdulla,Asad Rauf,PR Reiffel,,Eden Gardens
+MI,DC,DC,575,523,402,449,0.565217391,0.565217391,50,23,0.04,-0.448,748.5,855.5,0.5,0.5,home,away,MI,282,normal,field,0,32,0,AT Rayudu,K Hariharan,SJA Taufel,,Wankhede Stadium
+KTK,RCB,KTK,422,501,414,595,0,0.421052632,49,79,-0.324,0.326,576,855.5,0,0,away,home,RCB,283,normal,bat,0,0,9,CH Gayle,Aleem Dar,SS Hazare,,M Chinnaswamy Stadium
+KXIP,PWI,KXIP,436,546,523,654,0.421052632,0,34,40,-0.051,-0.134,693,623,0,0,away,away,PWI,284,normal,bat,0,0,5,R Sharma,SK Tarapore,RJ Tucker,,"Punjab Cricket Association Stadium, Mohali"
+CSK,RR,RR,602,553,441,384,0.590909091,0.666666667,55,48,0.443,-0.691,685,593.5,0.5,0.5,away,home,CSK,285,normal,field,0,63,0,M Vijay,K Hariharan,SJA Taufel,,Sawai Mansingh Stadium
+DEC,PWI,DEC,479,546,691,654,0.5,0,50,52,0.222,-0.134,614,623,0,0,away,away,PWI,286,normal,bat,0,0,6,MR Marsh,Asad Rauf,AM Saheba,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,MI,MI,436,575,523,402,0.421052632,0.565217391,39,33,-0.051,0.04,693,748.5,0.6,0.4,away,away,KXIP,287,normal,field,0,76,0,BA Bhatt,SK Tarapore,RJ Tucker,,"Punjab Cricket Association Stadium, Mohali"
+RR,RCB,RCB,553,501,384,595,0.666666667,0.421052632,43,66,-0.691,0.326,593.5,855.5,0.3,0.7,home,away,RCB,288,normal,field,0,0,9,S Aravind,HDPK Dharmasena,K Hariharan,,Sawai Mansingh Stadium
+CSK,DC,CSK,602,523,441,449,0.590909091,0.565217391,42,52,0.443,-0.448,685,855.5,0.4,0.6,home,away,CSK,289,normal,bat,0,18,0,MS Dhoni,AM Saheba,SL Shastri,,"MA Chidambaram Stadium, Chepauk"
+KTK,KXIP,KXIP,422,436,414,523,0,0.421052632,62,49,-0.324,-0.051,576,693,0,0,away,home,KXIP,290,normal,field,0,0,6,KD Karthik,S Asnani,RJ Tucker,,Holkar Cricket Stadium
+KKR,RCB,RCB,523,501,491,595,0.45,0.421052632,33,65,0.433,0.326,690.5,855.5,0.4,0.6,away,home,RCB,291,normal,field,1,0,4,CH Gayle,RE Koertzen,RB Tiffin,,M Chinnaswamy Stadium
+DEC,MI,DEC,479,575,691,402,0.5,0.565217391,32,26,0.222,0.04,614,748.5,1,0,away,home,DEC,292,normal,bat,0,10,0,A Mishra,S Ravi,SK Tarapore,,Wankhede Stadium
+KXIP,DC,DC,436,523,523,449,0.421052632,0.565217391,43,42,-0.051,-0.448,693,855.5,0,1,away,away,KXIP,293,normal,field,0,29,0,PP Chawla,Asad Rauf,SL Shastri,,Himachal Pradesh Cricket Association Stadium
+RR,KTK,KTK,553,422,384,414,0.666666667,0,32,87,-0.691,-0.324,593.5,576,0,0,away,away,KTK,294,normal,field,0,0,8,BJ Hodge,PR Reiffel,RJ Tucker,,Holkar Cricket Stadium
+PWI,DEC,DEC,546,479,654,691,0,0.5,39,57,-0.134,0.222,623,614,0,0,away,away,DEC,295,normal,field,0,0,6,A Mishra,S Ravi,SK Tarapore,,Dr DY Patil Sports Academy
+KXIP,RCB,KXIP,436,501,523,595,0.421052632,0.421052632,30,34,-0.051,0.326,693,855.5,0.75,0.25,away,away,KXIP,296,normal,bat,0,111,0,AC Gilchrist,Asad Rauf,AM Saheba,,Himachal Pradesh Cricket Association Stadium
+CSK,KTK,CSK,602,422,441,414,0.590909091,0,41,40,0.443,-0.324,685,576,0,0,home,away,CSK,297,normal,bat,0,11,0,WP Saha,HDPK Dharmasena,RE Koertzen,,"MA Chidambaram Stadium, Chepauk"
+PWI,KKR,KKR,546,523,654,491,0,0.45,29,44,-0.134,0.433,623,690.5,0,0,away,away,KKR,298,normal,field,0,0,7,YK Pathan,S Ravi,SJA Taufel,,Dr DY Patil Sports Academy
+MI,RR,MI,575,553,402,384,0.565217391,0.666666667,26,52,0.04,-0.691,748.5,593.5,0.7,0.3,home,away,RR,299,normal,bat,0,0,10,SR Watson,RE Koertzen,PR Reiffel,,Wankhede Stadium
+DEC,KXIP,KXIP,479,436,691,523,0.5,0.421052632,58,45,0.222,-0.051,614,693,0.25,0.75,away,away,DEC,300,normal,field,0,82,0,S Dhawan,Asad Rauf,AM Saheba,,Himachal Pradesh Cricket Association Stadium
+DC,PWI,DC,523,546,449,654,0.565217391,0,33,0,-0.448,-0.134,855.5,623,0,0,away,away,,301,no result,bat,0,0,0,,SS Hazare,RJ Tucker,,Feroz Shah Kotla
+CSK,RCB,RCB,602,501,441,595,0.590909091,0.421052632,23,44,0.443,0.326,685,855.5,0.5,0.5,away,home,RCB,302,normal,field,0,0,8,CH Gayle,K Hariharan,RE Koertzen,,M Chinnaswamy Stadium
+KKR,MI,MI,523,575,491,402,0.45,0.565217391,46,54,0.433,0.04,690.5,748.5,0,1,home,away,MI,303,normal,field,0,0,5,JEC Franklin,SK Tarapore,SJA Taufel,,Eden Gardens
+RCB,CSK,CSK,501,602,595,441,0.421052632,0.590909091,44,25,0.326,0.443,855.5,685,0.5,0.5,away,away,CSK,304,normal,field,0,0,6,SK Raina,Asad Rauf,SJA Taufel,,Wankhede Stadium
+KKR,MI,MI,523,575,491,402,0.45,0.565217391,25,62,0.433,0.04,690.5,748.5,0,1,away,home,MI,305,normal,field,0,0,4,MM Patel,Asad Rauf,SJA Taufel,,Wankhede Stadium
+RCB,MI,MI,501,575,595,402,0.421052632,0.565217391,68,52,0.326,0.04,855.5,748.5,0,1,away,away,RCB,306,normal,field,0,43,0,CH Gayle,Asad Rauf,SJA Taufel,,"MA Chidambaram Stadium, Chepauk"
+CSK,RCB,CSK,602,501,441,595,0.590909091,0.421052632,56,47,0.443,0.326,685,855.5,0.5,0.5,home,away,CSK,307,normal,bat,0,58,0,M Vijay,Asad Rauf,SJA Taufel,,"MA Chidambaram Stadium, Chepauk"
+CSK,MI,MI,541,554,519,609,0.64516129,0.551724138,42,53,0.1,-0.1,724.5,698.5,0.6,0.4,home,away,MI,308,normal,field,0,0,8,RE Levi,JD Cloete,SJA Taufel,,"MA Chidambaram Stadium, Chepauk"
+KKR,DC,DC,508,508,636,520,0.518518519,0.5,46,48,0.561,0.617,774.5,771,0,1,home,away,DC,309,normal,field,0,0,8,IK Pathan,S Asnani,HDPK Dharmasena,,Eden Gardens
+PWI,MI,MI,458,554,405,609,0,0.551724138,30,27,-0.551,-0.1,429,698.5,0,1,away,home,PWI,310,normal,field,0,28,0,SPD Smith,AK Chaudhary,SJA Taufel,,Wankhede Stadium
+RR,KXIP,KXIP,596,661,763,665,0.642857143,0.413793103,57,45,0.201,-0.216,631,664,1,0,home,away,RR,311,normal,field,0,31,0,AM Rahane,BF Bowden,SK Tarapore,,Sawai Mansingh Stadium
+RCB,DC,DC,484,508,395,520,0.52,0.5,46,46,-0.022,0.617,771,771,0,1,home,away,RCB,312,normal,field,0,20,0,AB de Villiers,S Asnani,S Ravi,,M Chinnaswamy Stadium
+CSK,DEC,DEC,541,525,519,538,0.64516129,0.5,44,45,0.1,-0.509,724.5,638.5,0.5,0.5,away,away,CSK,313,normal,field,0,74,0,RA Jadeja,JD Cloete,HDPK Dharmasena,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+RR,KKR,KKR,596,508,763,636,0.642857143,0.518518519,37,27,0.201,0.561,631,774.5,0.42,0.57,home,away,RR,314,normal,field,0,22,0,BJ Hodge,BF Bowden,VA Kulkarni,,Sawai Mansingh Stadium
+PWI,KXIP,PWI,458,661,405,665,0,0.413793103,38,19,-0.551,-0.216,429,664,0,1,away,away,PWI,315,normal,bat,0,22,0,MN Samuels,S Das,SJA Taufel,,Subrata Roy Sahara Stadium
+DEC,MI,DEC,525,554,538,609,0.5,0.551724138,45,29,-0.509,-0.1,638.5,698.5,1,0,away,away,MI,316,normal,bat,0,0,5,RG Sharma,AK Chaudhary,JD Cloete,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+KKR,RCB,RCB,508,484,636,395,0.518518519,0.52,60,20,0.561,-0.022,774.5,771,0.28,0.71,away,home,KKR,317,normal,field,0,42,0,L Balaji,S Ravi,RJ Tucker,,M Chinnaswamy Stadium
+CSK,DC,DC,541,508,519,520,0.64516129,0.5,41,50,0.1,0.617,724.5,771,0.6,0.4,away,away,DC,318,normal,field,0,0,8,M Morkel,Asad Rauf,SK Tarapore,,Feroz Shah Kotla
+MI,RR,RR,554,596,609,763,0.551724138,0.642857143,54,44,-0.1,0.201,698.5,631,0.5,0.5,home,away,MI,319,normal,field,0,27,0,KA Pollard,Aleem Dar,BNJ Oxenford,,Wankhede Stadium
+RCB,CSK,RCB,484,541,395,519,0.52,0.64516129,56,52,-0.022,0.1,771,724.5,0.5,0.5,away,home,CSK,320,normal,bat,0,0,5,F du Plessis,HDPK Dharmasena,RJ Tucker,,"MA Chidambaram Stadium, Chepauk"
+PWI,KXIP,KXIP,458,661,405,665,0,0.413793103,29,38,-0.551,-0.216,429,664,0,1,away,away,KXIP,321,normal,field,0,0,7,AD Mascarenhas,VA Kulkarni,SK Tarapore,,"Punjab Cricket Association Stadium, Mohali"
+RR,KKR,RR,596,508,763,636,0.642857143,0.518518519,45,36,0.201,0.561,631,774.5,0.42,0.57,away,home,KKR,322,normal,bat,0,0,5,Shakib Al Hasan,Asad Rauf,S Asnani,,Eden Gardens
+CSK,PWI,CSK,541,458,519,405,0.64516129,0,50,34,0.1,-0.551,724.5,429,0,1,home,away,PWI,324,normal,bat,0,0,7,JD Ryder,Aleem Dar,BNJ Oxenford,,Subrata Roy Sahara Stadium
+KXIP,KKR,KKR,661,508,665,636,0.413793103,0.518518519,43,56,-0.216,0.561,664,774.5,0.25,0.75,away,home,KXIP,325,normal,field,0,2,0,SP Narine,Asad Rauf,S Asnani,,Eden Gardens
+RR,RCB,RR,596,484,763,395,0.642857143,0.52,26,48,0.201,-0.022,631,771,0.25,0.75,away,home,RR,326,normal,bat,0,59,0,AM Rahane,JD Cloete,RJ Tucker,,M Chinnaswamy Stadium
+MI,DC,DC,554,508,609,520,0.551724138,0.5,43,54,-0.1,0.617,698.5,771,1,0,home,away,DC,327,normal,field,0,0,7,S Nadeem,BF Bowden,SK Tarapore,,Wankhede Stadium
+DEC,RR,DEC,525,596,538,763,0.5,0.642857143,23,41,-0.509,0.201,638.5,631,0,1,away,home,RR,328,normal,bat,0,0,5,BJ Hodge,Aleem Dar,BNJ Oxenford,,Sawai Mansingh Stadium
+PWI,RCB,PWI,458,484,405,395,0,0.52,57,62,-0.551,-0.022,429,771,1,0,away,home,RCB,329,normal,bat,0,0,6,CH Gayle,S Asnani,S Das,,M Chinnaswamy Stadium
+KXIP,KKR,KXIP,661,508,665,636,0.413793103,0.518518519,58,42,-0.216,0.561,664,774.5,0.25,0.75,away,away,KKR,330,normal,bat,0,0,8,G Gambhir,JD Cloete,RJ Tucker,,"Punjab Cricket Association Stadium, Mohali"
+DEC,DC,DEC,525,508,538,520,0.5,0.5,45,53,-0.509,0.617,638.5,771,0.5,0.5,away,away,DC,323,normal,bat,0,0,5,KP Pietersen,BF Bowden,SK Tarapore,,Feroz Shah Kotla
+CSK,PWI,PWI,541,458,519,405,0.64516129,0,33,64,0.1,-0.551,724.5,429,0,1,home,away,CSK,332,normal,field,0,13,0,KMDN Kulasekara,Asad Rauf,S Das,,"MA Chidambaram Stadium, Chepauk"
+KXIP,RCB,RCB,661,484,665,395,0.413793103,0.52,42,53,-0.216,-0.022,664,771,0.6,0.4,away,away,RCB,333,normal,field,0,0,5,CH Gayle,S Ravi,RJ Tucker,,"Punjab Cricket Association Stadium, Mohali"
+RR,CSK,RR,596,541,763,519,0.642857143,0.64516129,41,36,0.201,0.1,631,724.5,0.5,0.5,away,home,CSK,334,normal,bat,0,0,7,F du Plessis,Aleem Dar,BNJ Oxenford,,"MA Chidambaram Stadium, Chepauk"
+PWI,DC,DC,458,508,405,520,0,0.5,41,45,-0.551,0.617,429,771,0,1,away,away,PWI,335,normal,field,0,20,0,SC Ganguly,Asad Rauf,S Das,,Feroz Shah Kotla
+MI,KXIP,MI,554,661,609,665,0.551724138,0.413793103,52,49,-0.1,-0.216,698.5,664,0.4,0.6,home,away,KXIP,336,normal,bat,0,0,6,SE Marsh,S Ravi,RJ Tucker,,Wankhede Stadium
+DEC,KKR,KKR,525,508,538,636,0.5,0.518518519,39,48,-0.509,0.561,638.5,774.5,0,1,away,home,KKR,337,normal,field,0,0,5,B Lee,BF Bowden,SK Tarapore,,Barabati Stadium
+RCB,RR,RR,484,596,395,763,0.52,0.642857143,39,42,-0.022,0.201,771,631,0.75,0.25,away,home,RCB,338,normal,field,0,46,0,AB de Villiers,Asad Rauf,S Asnani,,Sawai Mansingh Stadium
+PWI,DC,PWI,458,508,405,520,0,0.5,37,48,-0.551,0.617,429,771,0,1,away,away,DC,339,normal,bat,0,0,8,V Sehwag,S Ravi,RJ Tucker,,Subrata Roy Sahara Stadium
+KXIP,MI,KXIP,661,554,665,609,0.413793103,0.551724138,28,61,-0.216,-0.1,664,698.5,0.6,0.4,away,away,MI,340,normal,bat,0,0,4,AT Rayudu,Aleem Dar,BNJ Oxenford,,"Punjab Cricket Association Stadium, Mohali"
+DEC,PWI,DEC,525,458,538,405,0.5,0,44,40,-0.509,-0.551,638.5,429,1,0,away,away,DEC,341,normal,bat,0,18,0,CL White,S Ravi,RJ Tucker,,Subrata Roy Sahara Stadium
+DC,MI,MI,508,554,520,609,0.5,0.551724138,50,44,0.617,-0.1,771,698.5,0,1,away,away,DC,342,normal,field,0,37,0,V Sehwag,Aleem Dar,BNJ Oxenford,,Feroz Shah Kotla
+KXIP,CSK,KXIP,661,541,665,519,0.413793103,0.64516129,54,49,-0.216,0.1,664,724.5,0.2,0.8,away,home,KXIP,343,normal,bat,0,7,0,Mandeep Singh,BF Bowden,SK Tarapore,,"MA Chidambaram Stadium, Chepauk"
+KKR,RCB,KKR,508,484,636,395,0.518518519,0.52,43,48,0.561,-0.022,774.5,771,0.28,0.71,home,away,KKR,344,normal,bat,0,47,0,G Gambhir,Asad Rauf,BR Doctrove,,Eden Gardens
+DC,RR,DC,508,596,520,763,0.5,0.642857143,46,35,0.617,0.201,771,631,0.7,0.3,away,away,DC,345,normal,bat,0,1,0,V Sehwag,S Ravi,RJ Tucker,,Feroz Shah Kotla
+DEC,MI,MI,525,554,538,609,0.5,0.551724138,42,40,-0.509,-0.1,638.5,698.5,1,0,away,home,MI,346,normal,field,0,0,5,DW Steyn,AK Chaudhary,BNJ Oxenford,,Wankhede Stadium
+CSK,KKR,CSK,541,508,519,636,0.64516129,0.518518519,38,31,0.1,0.561,724.5,774.5,0.5,0.5,home,away,KKR,347,normal,bat,0,0,5,G Gambhir,BF Bowden,C ShamshuDCin,,"MA Chidambaram Stadium, Chepauk"
+DEC,PWI,DEC,525,458,538,405,0.5,0,43,37,-0.509,-0.551,638.5,429,1,0,away,away,DEC,348,normal,bat,0,13,0,KC Sangakkara,Aleem Dar,AK Chaudhary,,Barabati Stadium
+RR,DC,RR,596,508,763,520,0.642857143,0.5,33,48,0.201,0.617,631,771,0.3,0.7,home,away,DC,349,normal,bat,0,0,6,P Negi,JD Cloete,SJA Taufel,,Sawai Mansingh Stadium
+RCB,KXIP,KXIP,484,661,395,665,0.52,0.413793103,56,61,-0.022,-0.216,771,664,0.4,0.6,home,away,KXIP,350,normal,field,0,0,4,Azhar Mahmood,BF Bowden,C ShamshuDCin,,M Chinnaswamy Stadium
+MI,PWI,MI,554,458,609,405,0.551724138,0,33,53,-0.1,-0.551,698.5,429,1,0,away,away,MI,351,normal,bat,0,1,0,SL Malinga,Asad Rauf,S Asnani,,Subrata Roy Sahara Stadium
+CSK,DEC,CSK,541,525,519,538,0.64516129,0.5,42,37,0.1,-0.509,724.5,638.5,0.5,0.5,home,away,CSK,352,normal,bat,0,10,0,SK Raina,HDPK Dharmasena,BNJ Oxenford,,"MA Chidambaram Stadium, Chepauk"
+KKR,PWI,KKR,508,458,636,405,0.518518519,0,56,47,0.561,-0.551,774.5,429,1,0,home,away,KKR,353,normal,bat,0,7,0,SP Narine,BF Bowden,SK Tarapore,,Eden Gardens
+RR,KXIP,RR,596,661,763,665,0.642857143,0.413793103,68,45,0.201,-0.216,631,664,1,0,away,away,RR,354,normal,bat,0,43,0,SR Watson,JD Cloete,SJA Taufel,,"Punjab Cricket Association Stadium, Mohali"
+CSK,MI,MI,541,554,519,609,0.64516129,0.551724138,64,33,0.1,-0.1,724.5,698.5,0.6,0.4,away,home,MI,355,normal,field,0,0,2,DR Smith,Asad Rauf,S Asnani,,Wankhede Stadium
+DEC,RCB,RCB,525,484,538,395,0.5,0.52,52,46,-0.509,-0.022,638.5,771,0.6,0.4,away,home,RCB,356,normal,field,0,0,5,AB de Villiers,HDPK Dharmasena,BNJ Oxenford,,M Chinnaswamy Stadium
+DC,KKR,DC,508,508,520,636,0.5,0.518518519,46,46,0.617,0.561,771,774.5,1,0,away,away,KKR,357,normal,bat,0,0,6,JH Kallis,JD Cloete,S Ravi,,Feroz Shah Kotla
+PWI,RR,PWI,458,596,405,763,0,0.642857143,50,60,-0.551,0.201,429,631,1,0,away,away,RR,358,normal,bat,0,0,7,SR Watson,Asad Rauf,BR Doctrove,,Subrata Roy Sahara Stadium
+KXIP,DEC,DEC,661,525,665,538,0.413793103,0.5,35,49,-0.216,-0.509,664,638.5,0.5,0.5,away,away,KXIP,359,normal,field,0,25,0,Mandeep Singh,HDPK Dharmasena,BNJ Oxenford,,"Rajiv Gandhi International Stadium, Uppal"
+MI,RCB,RCB,554,484,609,395,0.551724138,0.52,51,40,-0.1,-0.022,698.5,771,0.5,0.5,home,away,RCB,360,normal,field,0,0,9,CH Gayle,BF Bowden,VA Kulkarni,,Wankhede Stadium
+DEC,DC,DEC,525,508,538,520,0.5,0.5,25,35,-0.509,0.617,638.5,771,0.5,0.5,away,away,DC,331,normal,bat,0,0,9,DA Warner,JD Cloete,SJA Taufel,,"Rajiv Gandhi International Stadium, Uppal"
+RR,CSK,CSK,596,541,763,519,0.642857143,0.64516129,28,36,0.201,0.1,631,724.5,0.5,0.5,home,away,CSK,361,normal,field,0,0,4,BW Hilfenhaus,BNJ Oxenford,C ShamshuDCin,,Sawai Mansingh Stadium
+RCB,PWI,PWI,484,458,395,405,0.52,0,66,50,-0.022,-0.551,771,429,0,1,away,away,RCB,362,normal,field,0,35,0,CH Gayle,BF Bowden,SK Tarapore,,Subrata Roy Sahara Stadium
+MI,KKR,MI,554,508,609,636,0.551724138,0.518518519,49,32,-0.1,0.561,698.5,774.5,0.6,0.4,away,home,MI,363,normal,bat,0,27,0,RG Sharma,S Ravi,SJA Taufel,,Eden Gardens
+DC,CSK,CSK,508,541,520,519,0.5,0.64516129,27,45,0.617,0.1,771,724.5,0.4,0.6,away,home,CSK,364,normal,field,0,0,9,BW Hilfenhaus,S Das,BR Doctrove,,"MA Chidambaram Stadium, Chepauk"
+RR,PWI,RR,596,458,763,405,0.642857143,0,45,33,0.201,-0.551,631,429,0,1,home,away,RR,365,normal,bat,0,45,0,A Chandila,BF Bowden,SK Tarapore,,Sawai Mansingh Stadium
+DEC,KXIP,DEC,525,661,538,665,0.5,0.413793103,47,44,-0.509,-0.216,638.5,664,0.5,0.5,away,away,KXIP,366,normal,bat,0,0,4,DJ Hussey,HDPK Dharmasena,BNJ Oxenford,,"Punjab Cricket Association Stadium, Mohali"
+RCB,MI,MI,484,554,395,609,0.52,0.551724138,40,32,-0.022,-0.1,771,698.5,0.5,0.5,home,away,MI,367,normal,field,0,0,5,AT Rayudu,S Das,BR Doctrove,,M Chinnaswamy Stadium
+KKR,CSK,CSK,508,541,636,519,0.518518519,0.64516129,50,51,0.561,0.1,774.5,724.5,0.5,0.5,home,away,CSK,368,normal,field,0,0,5,MEK Hussey,JD Cloete,SJA Taufel,,Eden Gardens
+KXIP,DC,KXIP,661,508,665,520,0.413793103,0.5,47,37,-0.216,0.617,664,771,0.3,0.7,away,away,DC,369,normal,bat,0,0,5,UT Yadav,HDPK Dharmasena,BNJ Oxenford,,Feroz Shah Kotla
+KKR,MI,MI,508,554,636,609,0.518518519,0.551724138,32,26,0.561,-0.1,774.5,698.5,0.4,0.6,away,home,KKR,370,normal,field,0,32,0,SP Narine,S Das,BR Doctrove,,Wankhede Stadium
+CSK,KXIP,KXIP,541,661,519,665,0.64516129,0.413793103,25,43,0.1,-0.216,724.5,664,0.8,0.2,away,away,KXIP,371,normal,field,0,0,6,AC Gilchrist,VA Kulkarni,SK Tarapore,,Himachal Pradesh Cricket Association Stadium
+RCB,DC,DC,484,508,395,520,0.52,0.5,42,51,-0.022,0.617,771,771,0,1,away,away,RCB,372,normal,field,0,21,0,CH Gayle,HDPK Dharmasena,C ShamshuDCin,,Feroz Shah Kotla
+RR,DEC,RR,596,525,763,538,0.642857143,0.5,41,58,0.201,-0.509,631,638.5,1,0,away,away,DEC,373,normal,bat,0,0,5,DW Steyn,S Ravi,SJA Taufel,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,DC,DC,661,508,665,520,0.413793103,0.5,20,44,-0.216,0.617,664,771,0.3,0.7,away,away,DC,374,normal,field,0,0,6,UT Yadav,BF Bowden,VA Kulkarni,,Himachal Pradesh Cricket Association Stadium
+KKR,PWI,KKR,508,458,636,405,0.518518519,0,27,40,0.561,-0.551,774.5,429,1,0,away,away,KKR,375,normal,bat,0,34,0,Shakib Al Hasan,S Asnani,BR Doctrove,,Subrata Roy Sahara Stadium
+DEC,RCB,RCB,525,484,538,395,0.5,0.52,23,40,-0.509,-0.022,638.5,771,0.6,0.4,away,away,DEC,376,normal,field,0,9,0,DW Steyn,S Ravi,SJA Taufel,,"Rajiv Gandhi International Stadium, Uppal"
+RR,MI,RR,596,554,763,609,0.642857143,0.551724138,31,44,0.201,-0.1,631,698.5,0.5,0.5,home,away,MI,377,normal,bat,0,0,10,DR Smith,HDPK Dharmasena,C ShamshuDCin,,Sawai Mansingh Stadium
+KKR,DC,KKR,508,508,636,520,0.518518519,0.5,48,49,0.561,0.617,774.5,771,0,1,away,away,KKR,378,normal,bat,0,18,0,YK Pathan,BR Doctrove,SJA Taufel,,Subrata Roy Sahara Stadium
+CSK,MI,MI,541,554,519,609,0.64516129,0.551724138,30,54,0.1,-0.1,724.5,698.5,0.6,0.4,away,away,CSK,379,normal,field,0,38,0,MS Dhoni,BF Bowden,HDPK Dharmasena,,M Chinnaswamy Stadium
+CSK,DC,DC,541,508,519,520,0.64516129,0.5,52,46,0.1,0.617,724.5,771,0.6,0.4,home,away,CSK,380,normal,field,0,86,0,M Vijay,BR Doctrove,SJA Taufel,,"MA Chidambaram Stadium, Chepauk"
+CSK,KKR,CSK,541,508,519,636,0.64516129,0.518518519,54,56,0.1,0.561,724.5,774.5,0.5,0.5,home,away,KKR,381,normal,bat,0,0,5,MS Bisla,BF Bowden,SJA Taufel,,"MA Chidambaram Stadium, Chepauk"
+DC,KKR,KKR,536,536,299,622,0.5,0.558823529,45,46,-0.848,-0.095,853.5,720,0.44,0.56,away,home,KKR,382,normal,field,0,0,6,SP Narine,S Ravi,SJA Taufel,,Eden Gardens
+RCB,MI,MI,674,546,678,747,0.516129032,0.55,31,38,0.457,0.441,853.5,912.5,0.45,0.55,home,away,RCB,383,normal,field,0,2,0,CH Gayle,VA Kulkarni,C ShamshuDCin,,M Chinnaswamy Stadium
+SRH,PWI,PWI,598,514,667,569,0,0.090909091,38,27,0.003,-1.006,850.5,604,0,0,home,away,SRH,384,normal,field,0,22,0,A Mishra,S Ravi,SJA Taufel,,"Rajiv Gandhi International Stadium, Uppal"
+RR,DC,RR,522,536,480,299,0.552631579,0.5,45,39,0.322,-0.848,873.5,853.5,0.6,0.4,away,away,RR,385,normal,bat,0,5,0,R Dravid,S Das,C ShamshuDCin,,Feroz Shah Kotla
+MI,CSK,MI,546,526,747,514,0.55,0.631578947,41,36,0.441,0.53,912.5,843,0.55,0.45,away,home,MI,386,normal,bat,0,9,0,KA Pollard,M Erasmus,VA Kulkarni,,"MA Chidambaram Stadium, Chepauk"
+PWI,KXIP,PWI,514,560,569,474,0.090909091,0.432432432,24,56,-1.006,0.226,604,632,0.75,0.25,away,away,KXIP,387,normal,bat,0,0,8,M Vohra,S Asnani,SJA Taufel,,Subrata Roy Sahara Stadium
+RCB,SRH,RCB,674,598,678,667,0.516129032,0,40,37,0.457,0.003,853.5,850.5,0.5,0.5,away,home,SRH,388,tie,bat,0,0,0,GH Vihari,AK Chaudhary,S Ravi,,"Rajiv Gandhi International Stadium, Uppal"
+RR,KKR,KKR,522,536,480,622,0.552631579,0.558823529,35,40,0.322,-0.095,873.5,720,0.5,0.5,home,away,RR,389,normal,field,0,19,0,SK Trivedi,Aleem Dar,S Das,,Sawai Mansingh Stadium
+MI,DC,MI,546,536,747,299,0.55,0.5,38,46,0.441,-0.848,912.5,853.5,0.5,0.5,home,away,MI,390,normal,bat,0,44,0,KD Karthik,M Erasmus,VA Kulkarni,,Wankhede Stadium
+SRH,RCB,SRH,598,674,667,678,0,0.516129032,43,38,0.003,0.457,850.5,853.5,0.5,0.5,away,home,RCB,432,normal,bat,0,0,7,V Kohli,S Ravi,SJA Taufel,,M Chinnaswamy Stadium
+KXIP,CSK,CSK,560,526,474,514,0.432432432,0.631578947,44,43,0.226,0.53,632,843,0.4,0.6,away,away,CSK,391,normal,field,0,0,10,MEK Hussey,Aleem Dar,C ShamshuDCin,,"Punjab Cricket Association Stadium, Mohali"
+KKR,RCB,RCB,536,674,622,678,0.558823529,0.516129032,44,64,-0.095,0.457,720,853.5,0.5,0.5,away,home,RCB,392,normal,field,0,0,8,CH Gayle,Asad Rauf,AK Chaudhary,,M Chinnaswamy Stadium
+RR,PWI,RR,522,514,480,569,0.552631579,0.090909091,29,38,0.322,-1.006,873.5,604,1,0,away,away,PWI,393,normal,bat,0,0,7,AJ Finch,M Erasmus,K Srinath,,Subrata Roy Sahara Stadium
+DC,SRH,DC,536,598,299,667,0.5,0,48,40,-0.848,0.003,853.5,850.5,0,0,away,away,SRH,394,normal,bat,0,0,3,A Mishra,Aleem Dar,Subroto Das,,Feroz Shah Kotla
+MI,PWI,MI,546,514,747,569,0.55,0.090909091,33,31,0.441,-1.006,912.5,604,0.75,0.25,home,away,MI,395,normal,bat,0,41,0,RG Sharma,S Ravi,SJA Taufel,,Wankhede Stadium
+RCB,CSK,CSK,674,526,678,514,0.516129032,0.631578947,48,39,0.457,0.53,853.5,843,0.42,0.58,away,home,CSK,396,normal,field,0,0,4,RA Jadeja,Asad Rauf,AK Chaudhary,,"MA Chidambaram Stadium, Chepauk"
+KKR,SRH,KKR,536,598,622,667,0.558823529,0,34,48,-0.095,0.003,720,850.5,0,0,home,away,KKR,397,normal,bat,0,48,0,G Gambhir,M Erasmus,VA Kulkarni,,Eden Gardens
+KXIP,RR,RR,560,522,474,480,0.432432432,0.552631579,48,38,0.226,0.322,632,873.5,0.3,0.7,away,home,RR,398,normal,field,0,0,6,JP Faulkner,Aleem Dar,C ShamshuDCin,,Sawai Mansingh Stadium
+PWI,CSK,PWI,514,526,569,514,0.090909091,0.631578947,35,45,-1.006,0.53,604,843,0.25,0.75,away,home,PWI,399,normal,bat,0,24,0,SPD Smith,Asad Rauf,AK Chaudhary,,"MA Chidambaram Stadium, Chepauk"
+KXIP,KKR,KKR,560,536,474,622,0.432432432,0.558823529,43,48,0.226,-0.095,632,720,0.45,0.55,away,away,KXIP,400,normal,field,0,4,0,MS Gony,CK Nandan,SJA Taufel,,"Punjab Cricket Association Stadium, Mohali"
+DC,RCB,RCB,536,674,299,678,0.5,0.516129032,25,41,-0.848,0.457,853.5,853.5,0.55,0.45,away,home,RCB,401,tie,field,0,0,0,V Kohli,M Erasmus,VA Kulkarni,,M Chinnaswamy Stadium
+SRH,PWI,PWI,598,514,667,569,0,0.090909091,58,26,0.003,-1.006,850.5,604,0,0,away,away,SRH,402,normal,field,0,11,0,A Mishra,Asad Rauf,AK Chaudhary,,Subrata Roy Sahara Stadium
+RR,MI,RR,522,546,480,747,0.552631579,0.55,39,32,0.322,0.441,873.5,912.5,0.44,0.56,home,away,RR,403,normal,bat,0,87,0,AM Rahane,Aleem Dar,C ShamshuDCin,,Sawai Mansingh Stadium
+CSK,DC,CSK,526,536,514,299,0.631578947,0.5,36,33,0.53,-0.848,843,853.5,0.6,0.4,away,away,CSK,404,normal,bat,0,86,0,MEK Hussey,M Erasmus,VA Kulkarni,,Feroz Shah Kotla
+KXIP,SRH,KXIP,560,598,474,667,0.432432432,0,47,27,0.226,0.003,632,850.5,0,0,away,home,SRH,405,normal,bat,0,0,5,GH Vihari,HDPK Dharmasena,CK Nandan,,"Rajiv Gandhi International Stadium, Uppal"
+KKR,CSK,KKR,536,526,622,514,0.558823529,0.631578947,31,48,-0.095,0.53,720,843,0.4,0.6,home,away,CSK,406,normal,bat,0,0,4,RA Jadeja,Asad Rauf,AK Chaudhary,,Eden Gardens
+RR,RCB,RCB,522,674,480,678,0.552631579,0.516129032,24,60,0.322,0.457,873.5,853.5,0.45,0.55,away,home,RCB,407,normal,field,0,0,7,R Vinay Kumar,Aleem Dar,C ShamshuDCin,,M Chinnaswamy Stadium
+MI,DC,MI,546,536,747,299,0.55,0.5,48,55,0.441,-0.848,912.5,853.5,0.5,0.5,away,away,DC,408,normal,bat,0,0,9,V Sehwag,HDPK Dharmasena,S Ravi,,Feroz Shah Kotla
+PWI,KXIP,KXIP,514,560,569,474,0.090909091,0.432432432,55,58,-1.006,0.226,604,632,0.75,0.25,away,away,KXIP,409,normal,field,0,0,7,DA Miller,M Erasmus,K Srinath,,"Punjab Cricket Association Stadium, Mohali"
+RR,CSK,RR,522,526,480,514,0.552631579,0.631578947,62,43,0.322,0.53,873.5,843,0.36,0.64,away,home,CSK,410,normal,bat,0,0,5,MEK Hussey,S Asnani,AK Chaudhary,,"MA Chidambaram Stadium, Chepauk"
+RCB,PWI,PWI,674,514,678,569,0.516129032,0.090909091,53,21,0.457,-1.006,853.5,604,1,0,home,away,RCB,411,normal,field,0,130,0,CH Gayle,Aleem Dar,C ShamshuDCin,,M Chinnaswamy Stadium
+DC,KXIP,KXIP,536,560,299,474,0.5,0.432432432,61,42,-0.848,0.226,853.5,632,0.5,0.5,away,away,KXIP,443,normal,field,0,0,5,Harmeet Singh,VA Kulkarni,K Srinath,,Feroz Shah Kotla
+KKR,MI,KKR,536,546,622,747,0.558823529,0.55,40,58,-0.095,0.441,720,912.5,0.2,0.8,home,away,MI,413,normal,bat,0,0,5,DR Smith,HDPK Dharmasena,S Ravi,,Eden Gardens
+SRH,CSK,SRH,598,526,667,514,0,0.631578947,45,45,0.003,0.53,850.5,843,0,0,away,home,CSK,414,normal,bat,0,0,5,MS Dhoni,Aleem Dar,S Das,,"MA Chidambaram Stadium, Chepauk"
+KXIP,KKR,KXIP,560,536,474,622,0.432432432,0.558823529,29,30,0.226,-0.095,632,720,0.45,0.55,away,home,KKR,415,normal,bat,0,0,6,JH Kallis,CK Nandan,S Ravi,,Eden Gardens
+SRH,RR,SRH,598,522,667,480,0,0.552631579,52,35,0.003,0.322,850.5,873.5,0,0,away,home,RR,416,normal,bat,0,0,8,JP Faulkner,VA Kulkarni,K Srinath,,Sawai Mansingh Stadium
+MI,RCB,MI,546,674,747,678,0.55,0.516129032,67,63,0.441,0.457,912.5,853.5,0.55,0.45,home,away,MI,417,normal,bat,0,58,0,DR Smith,Asad Rauf,S Asnani,,Wankhede Stadium
+CSK,KKR,KKR,526,536,514,622,0.631578947,0.558823529,37,43,0.53,-0.095,843,720,0.6,0.4,home,away,CSK,418,normal,field,0,14,0,MEK Hussey,Aleem Dar,SJA Taufel,,"MA Chidambaram Stadium, Chepauk"
+DC,PWI,PWI,536,514,299,569,0.5,0.090909091,55,45,-0.848,-1.006,853.5,604,0.7,0.3,away,away,DC,419,normal,field,0,15,0,DA Warner,CK Nandan,S Ravi,,Shaheed Veer Narayan Singh International Stadium
+RCB,RR,RR,674,522,678,480,0.516129032,0.552631579,36,55,0.457,0.322,853.5,873.5,0.55,0.45,away,home,RR,420,normal,field,0,0,4,SV Samson,M Erasmus,K Srinath,,Sawai Mansingh Stadium
+MI,KXIP,MI,546,560,747,474,0.55,0.432432432,29,46,0.441,0.226,912.5,632,0.4,0.6,home,away,MI,421,normal,bat,0,4,0,RG Sharma,Asad Rauf,AK Chaudhary,,Wankhede Stadium
+CSK,PWI,CSK,526,514,514,569,0.631578947,0.090909091,41,36,0.53,-1.006,843,604,0.75,0.25,home,away,CSK,422,normal,bat,0,37,0,MS Dhoni,S Das,SJA Taufel,,Subrata Roy Sahara Stadium
+MI,SRH,MI,546,598,747,667,0.55,0,37,34,0.441,0.003,912.5,850.5,0,0,away,home,SRH,423,normal,bat,0,0,7,I Sharma,Asad Rauf,S Asnani,,"Rajiv Gandhi International Stadium, Uppal"
+KKR,DC,KKR,536,536,622,299,0.558823529,0.5,36,36,-0.095,-0.848,720,853.5,0.56,0.44,away,away,DC,424,normal,bat,0,0,7,DA Warner,HDPK Dharmasena,CK Nandan,,Shaheed Veer Narayan Singh International Stadium
+CSK,KXIP,CSK,526,560,514,474,0.631578947,0.432432432,30,39,0.53,0.226,843,632,0.6,0.4,home,away,CSK,425,normal,bat,0,15,0,SK Raina,M Erasmus,VA Kulkarni,,"MA Chidambaram Stadium, Chepauk"
+RCB,PWI,RCB,674,514,678,569,0.516129032,0.090909091,34,48,0.457,-1.006,853.5,604,1,0,away,away,RCB,426,normal,bat,0,17,0,AB de Villiers,Aleem Dar,C ShamshuDCin,,Subrata Roy Sahara Stadium
+RR,KKR,RR,522,536,480,622,0.552631579,0.558823529,26,41,0.322,-0.095,873.5,720,0.5,0.5,away,home,KKR,427,normal,bat,0,0,8,YK Pathan,HDPK Dharmasena,CK Nandan,,Eden Gardens
+DC,SRH,DC,536,598,299,667,0.5,0,31,46,-0.848,0.003,853.5,850.5,0,0,away,home,SRH,428,normal,bat,0,0,6,DJG Sammy,Asad Rauf,S Asnani,,"Rajiv Gandhi International Stadium, Uppal"
+MI,CSK,MI,546,526,747,514,0.55,0.631578947,32,32,0.441,0.53,912.5,843,0.55,0.45,home,away,MI,430,normal,bat,0,60,0,MG Johnson,HDPK Dharmasena,CK Nandan,,Wankhede Stadium
+PWI,RR,PWI,514,522,569,480,0.090909091,0.552631579,61,53,-1.006,0.322,604,873.5,0,1,away,home,RR,431,normal,bat,0,0,5,AM Rahane,C ShamshuDCin,RJ Tucker,,Sawai Mansingh Stadium
+RCB,KXIP,KXIP,674,560,678,474,0.516129032,0.432432432,40,47,0.457,0.226,853.5,632,0.5,0.5,away,away,KXIP,448,normal,field,0,0,6,DA Miller,VA Kulkarni,NJ Llong,,"Punjab Cricket Association Stadium, Mohali"
+DC,RR,DC,536,522,299,480,0.5,0.552631579,42,49,-0.848,0.322,853.5,873.5,0.4,0.6,away,home,RR,433,normal,bat,0,0,9,AM Rahane,Aleem Dar,RJ Tucker,,Sawai Mansingh Stadium
+MI,KKR,MI,546,536,747,622,0.55,0.558823529,41,38,0.441,-0.095,912.5,720,0.8,0.2,home,away,MI,434,normal,bat,0,65,0,SR Tendulkar,HDPK Dharmasena,S Ravi,,Wankhede Stadium
+CSK,SRH,SRH,526,598,514,667,0.631578947,0,50,49,0.53,0.003,843,850.5,0,0,away,home,CSK,435,normal,field,0,77,0,SK Raina,S Das,NJ Llong,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,RR,RR,560,522,474,480,0.432432432,0.552631579,37,38,0.226,0.322,632,873.5,0.3,0.7,away,away,RR,436,normal,field,0,0,8,KK Cooper,HDPK Dharmasena,S Ravi,,"Punjab Cricket Association Stadium, Mohali"
+KKR,PWI,KKR,536,514,622,569,0.558823529,0.090909091,50,34,-0.095,-1.006,720,604,1,0,away,away,KKR,437,normal,bat,0,46,0,G Gambhir,Asad Rauf,S Asnani,,Subrata Roy Sahara Stadium
+RCB,DC,DC,674,536,678,299,0.516129032,0.5,40,49,0.457,-0.848,853.5,853.5,0.45,0.55,away,away,RCB,438,normal,field,0,4,0,JD Unadkat,NJ Llong,K Srinath,,Feroz Shah Kotla
+PWI,MI,PWI,514,546,569,747,0.090909091,0.55,36,37,-1.006,0.441,604,912.5,0.25,0.75,away,away,MI,439,normal,bat,0,0,5,MG Johnson,Asad Rauf,AK Chaudhary,,Subrata Roy Sahara Stadium
+SRH,KXIP,KXIP,598,560,667,474,0,0.432432432,37,41,0.003,0.226,850.5,632,0,0,away,away,SRH,440,normal,field,0,30,0,PA Patel,S Das,RJ Tucker,,"Punjab Cricket Association Stadium, Mohali"
+RCB,KKR,KKR,674,536,678,622,0.516129032,0.558823529,22,31,0.457,-0.095,853.5,720,0.5,0.5,away,away,KKR,441,normal,field,0,0,5,JH Kallis,NJ Llong,K Srinath,,JSCA International Stadium Complex
+CSK,RR,RR,526,522,514,480,0.631578947,0.552631579,37,24,0.53,0.322,843,873.5,0.64,0.36,away,home,RR,442,normal,field,0,0,5,SR Watson,HDPK Dharmasena,CK Nandan,,Sawai Mansingh Stadium
+SRH,MI,SRH,598,546,667,747,0,0.55,40,56,0.003,0.441,850.5,912.5,0,0,away,home,MI,444,normal,bat,0,0,7,KA Pollard,AK Chaudhary,SJA Taufel,,Wankhede Stadium
+RCB,KXIP,KXIP,674,560,678,474,0.516129032,0.432432432,52,39,0.457,0.226,853.5,632,0.5,0.5,home,away,KXIP,429,normal,field,0,0,7,AC Gilchrist,HDPK Dharmasena,S Ravi,,M Chinnaswamy Stadium
+CSK,DC,CSK,526,536,514,299,0.631578947,0.5,42,33,0.53,-0.848,843,853.5,0.6,0.4,home,away,CSK,446,normal,bat,0,33,0,MS Dhoni,C ShamshuDCin,RJ Tucker,,"MA Chidambaram Stadium, Chepauk"
+PWI,KKR,KKR,514,536,569,622,0.090909091,0.558823529,47,49,-1.006,-0.095,604,720,0,1,away,away,PWI,445,normal,field,0,7,0,MK Pandey,NJ Llong,K Srinath,,JSCA International Stadium Complex
+MI,RR,RR,546,522,747,480,0.55,0.552631579,49,29,0.441,0.322,912.5,873.5,0.56,0.44,home,away,MI,447,normal,field,0,14,0,AP Tare,Asad Rauf,S Asnani,,Wankhede Stadium
+KXIP,DC,DC,560,536,474,299,0.432432432,0.5,58,41,0.226,-0.848,632,853.5,0.5,0.5,away,away,KXIP,412,normal,field,0,7,0,DA Miller,HDPK Dharmasena,S Ravi,,Himachal Pradesh Cricket Association Stadium
+SRH,RR,SRH,598,522,667,480,0,0.552631579,21,33,0.003,0.322,850.5,873.5,0,0,home,away,SRH,449,normal,bat,0,23,0,A Mishra,Asad Rauf,AK Chaudhary,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,MI,MI,560,546,474,747,0.432432432,0.55,35,51,0.226,0.441,632,912.5,0.6,0.4,away,away,KXIP,450,normal,field,0,50,0,Azhar Mahmood,HDPK Dharmasena,CK Nandan,,Himachal Pradesh Cricket Association Stadium
+RCB,CSK,CSK,674,526,678,514,0.516129032,0.631578947,40,47,0.457,0.53,853.5,843,0.42,0.58,home,away,RCB,452,normal,field,0,24,0,V Kohli,C ShamshuDCin,RJ Tucker,,M Chinnaswamy Stadium
+PWI,DC,PWI,514,536,569,299,0.090909091,0.5,76,56,-1.006,-0.848,604,853.5,0.3,0.7,away,away,PWI,451,normal,bat,0,38,0,LJ Wright,NJ Llong,SJA Taufel,,Subrata Roy Sahara Stadium
+KKR,SRH,KKR,536,598,622,667,0.558823529,0,33,45,-0.095,0.003,720,850.5,0,0,away,home,SRH,453,normal,bat,0,0,5,PA Patel,Asad Rauf,S Asnani,,"Rajiv Gandhi International Stadium, Uppal"
+CSK,MI,CSK,526,546,514,747,0.631578947,0.55,47,56,0.53,0.441,843,912.5,0.45,0.55,away,away,CSK,454,normal,bat,0,48,0,MEK Hussey,NJ Llong,RJ Tucker,,Feroz Shah Kotla
+SRH,RR,SRH,598,522,667,480,0,0.552631579,27,44,0.003,0.322,850.5,873.5,0,0,away,away,RR,455,normal,bat,0,0,4,BJ Hodge,S Ravi,RJ Tucker,,Feroz Shah Kotla
+RR,MI,RR,522,546,480,747,0.552631579,0.55,42,45,0.322,0.441,873.5,912.5,0.44,0.56,away,away,MI,456,normal,bat,0,0,4,Harbhajan Singh,C ShamshuDCin,SJA Taufel,,Eden Gardens
+MI,CSK,MI,546,526,747,514,0.55,0.631578947,34,35,0.441,0.53,912.5,843,0.55,0.45,away,away,MI,457,normal,bat,0,23,0,KA Pollard,HDPK Dharmasena,SJA Taufel,,Eden Gardens
+KKR,MI,KKR,610,564,547,794,0.5,0.576923077,31,32,0.418,0.095,742,540,0.17,0.83,away,away,KKR,458,normal,bat,0,41,0,JH Kallis,M Erasmus,RK Illingworth,,Sheikh Zayed Stadium
+DC,RCB,RCB,610,577,475,516,0.446808511,0.555555556,30,50,-1.182,-0.428,601,601,0.45,0.55,away,away,RCB,459,normal,field,0,0,8,YS Chahal,Aleem Dar,S Ravi,,Sharjah Cricket Stadium
+CSK,KXIP,CSK,651,779,695,644,0.673913043,0.454545455,70,64,0.385,0.968,763,693,0.7,0.3,away,away,KXIP,460,normal,bat,0,0,6,GJ Maxwell,RK Illingworth,C ShamshuDCin,,Sheikh Zayed Stadium
+SRH,RR,RR,573,687,483,830,0.142857143,0.551020408,41,30,-0.399,0.06,632,523.5,0.33,0.67,away,away,RR,461,normal,field,0,0,4,AM Rahane,BF Bowden,RK Illingworth,,Sheikh Zayed Stadium
+MI,RCB,RCB,564,577,794,516,0.576923077,0.555555556,49,30,0.095,-0.428,540,601,0.53,0.46,away,away,RCB,462,normal,field,0,0,7,PA Patel,Aleem Dar,AK Chaudhary,,Dubai International Cricket Stadium
+KKR,DC,KKR,610,610,547,475,0.5,0.446808511,31,49,0.418,-1.182,742,601,0.55,0.45,away,away,DC,463,normal,bat,0,0,4,JP Duminy,Aleem Dar,VA Kulkarni,,Dubai International Cricket Stadium
+RR,KXIP,KXIP,687,779,830,644,0.551020408,0.454545455,54,39,0.06,0.968,523.5,693,0.73,0.27,away,away,KXIP,464,normal,field,0,0,7,GJ Maxwell,BF Bowden,M Erasmus,,Sharjah Cricket Stadium
+CSK,DC,CSK,651,610,695,475,0.673913043,0.446808511,34,24,0.385,-1.182,763,601,0.7,0.3,away,away,CSK,465,normal,bat,0,93,0,SK Raina,RK Illingworth,C ShamshuDCin,,Sheikh Zayed Stadium
+KXIP,SRH,SRH,779,573,644,483,0.454545455,0.142857143,43,45,0.968,-0.399,693,632,0,1,away,away,KXIP,466,normal,field,0,72,0,GJ Maxwell,M Erasmus,S Ravi,,Sharjah Cricket Stadium
+CSK,RR,RR,651,687,695,830,0.673913043,0.551020408,51,38,0.385,0.06,763,523.5,0.62,0.38,away,away,CSK,467,normal,field,0,7,0,RA Jadeja,HDPK Dharmasena,RK Illingworth,,Dubai International Cricket Stadium
+KKR,RCB,RCB,610,577,547,516,0.5,0.555555556,42,49,0.418,-0.428,742,601,0.5,0.5,away,away,KKR,468,normal,field,0,2,0,CA Lynn,Aleem Dar,VA Kulkarni,,Sharjah Cricket Stadium
+SRH,DC,SRH,573,610,483,475,0.142857143,0.446808511,55,44,-0.399,-1.182,632,601,1,0,away,away,SRH,469,normal,bat,0,4,0,AJ Finch,M Erasmus,S Ravi,,Dubai International Cricket Stadium
+MI,CSK,MI,564,651,794,695,0.576923077,0.673913043,31,51,0.095,0.385,540,763,0.6,0.4,away,away,CSK,470,normal,bat,0,0,7,MM Sharma,BF Bowden,M Erasmus,,Dubai International Cricket Stadium
+RCB,RR,RR,577,687,516,830,0.555555556,0.551020408,22,36,-0.428,0.06,601,523.5,0.55,0.45,away,away,RR,471,normal,field,0,0,6,PV Tambe,HDPK Dharmasena,C ShamshuDCin,,Sheikh Zayed Stadium
+KXIP,KKR,KKR,779,610,644,547,0.454545455,0.5,51,24,0.968,0.418,693,742,0.45,0.55,away,away,KXIP,472,normal,field,0,23,0,Sandeep Sharma,HDPK Dharmasena,RK Illingworth,,Sheikh Zayed Stadium
+MI,DC,MI,564,610,794,475,0.576923077,0.446808511,37,31,0.095,-1.182,540,601,0.5,0.5,away,away,DC,473,normal,bat,0,0,6,M Vijay,Aleem Dar,VA Kulkarni,,Sharjah Cricket Stadium
+SRH,CSK,SRH,573,651,483,695,0.142857143,0.673913043,37,47,-0.399,0.385,632,763,0,1,away,away,CSK,474,normal,bat,0,0,5,DR Smith,AK Chaudhary,VA Kulkarni,,Sharjah Cricket Stadium
+RCB,KXIP,KXIP,577,779,516,644,0.555555556,0.454545455,44,33,-0.428,0.968,601,693,0.42,0.58,away,away,KXIP,475,normal,field,0,0,5,Sandeep Sharma,BF Bowden,S Ravi,,Dubai International Cricket Stadium
+RR,KKR,RR,687,610,830,547,0.551020408,0.5,45,33,0.06,0.418,523.5,742,0.5,0.5,away,away,RR,476,tie,bat,0,0,0,JP Faulkner,Aleem Dar,AK Chaudhary,,Sheikh Zayed Stadium
+SRH,MI,MI,573,564,483,794,0.142857143,0.576923077,44,32,-0.399,0.095,632,540,0.5,0.5,away,away,SRH,477,normal,field,0,15,0,B Kumar,HDPK Dharmasena,M Erasmus,,Dubai International Cricket Stadium
+CSK,KKR,CSK,651,610,695,547,0.673913043,0.5,43,39,0.385,0.418,763,742,0.67,0.33,away,away,CSK,478,normal,bat,0,34,0,RA Jadeja,AK Chaudhary,NJ Llong,,JSCA International Stadium Complex
+KXIP,MI,KXIP,779,564,644,794,0.454545455,0.576923077,36,49,0.968,0.095,693,540,0.58,0.42,away,home,MI,479,normal,bat,0,0,5,CJ Anderson,BNJ Oxenford,C ShamshuDCin,,Wankhede Stadium
+DC,RR,RR,610,687,475,830,0.446808511,0.551020408,46,38,-1.182,0.06,601,523.5,0.5,0.5,away,away,RR,480,normal,field,0,0,7,KK Nair,SS Hazare,S Ravi,,Feroz Shah Kotla
+SRH,RCB,RCB,573,577,483,516,0.142857143,0.555555556,47,36,-0.399,-0.428,632,601,0.5,0.5,away,home,RCB,481,normal,field,0,0,4,AB de Villiers,HDPK Dharmasena,VA Kulkarni,,M Chinnaswamy Stadium
+RR,KKR,KKR,687,610,830,547,0.551020408,0.5,50,50,0.06,0.418,523.5,742,0.5,0.5,home,away,RR,482,normal,field,0,10,0,PV Tambe,NJ Llong,CK Nandan,,"Sardar Patel Stadium, Motera"
+DC,CSK,CSK,610,651,475,695,0.446808511,0.673913043,46,49,-1.182,0.385,601,763,0.3,0.7,away,away,CSK,483,normal,field,0,0,8,DR Smith,RM Deshpande,BNJ Oxenford,,Feroz Shah Kotla
+MI,RCB,RCB,564,577,794,516,0.576923077,0.555555556,50,64,0.095,-0.428,540,601,0.53,0.46,home,away,MI,484,normal,field,0,19,0,RG Sharma,S Ravi,K Srinath,,Wankhede Stadium
+DC,KKR,DC,610,610,475,547,0.446808511,0.5,29,52,-1.182,0.418,601,742,0.45,0.55,away,away,KKR,485,normal,bat,0,0,8,G Gambhir,BNJ Oxenford,C ShamshuDCin,,Feroz Shah Kotla
+KXIP,CSK,CSK,779,651,644,695,0.454545455,0.673913043,38,46,0.968,0.385,693,763,0.3,0.7,away,away,KXIP,486,normal,field,0,44,0,GJ Maxwell,HDPK Dharmasena,PG Pathak,,Barabati Stadium
+SRH,RR,RR,573,687,483,830,0.142857143,0.551020408,50,37,-0.399,0.06,632,523.5,0.33,0.67,away,home,SRH,487,normal,field,0,32,0,B Kumar,AK Chaudhary,NJ Llong,,"Sardar Patel Stadium, Motera"
+KXIP,RCB,RCB,779,577,644,516,0.454545455,0.555555556,64,34,0.968,-0.428,693,601,0.58,0.42,away,home,KXIP,488,normal,field,0,32,0,Sandeep Sharma,S Ravi,K Srinath,,M Chinnaswamy Stadium
+DC,SRH,SRH,610,573,475,483,0.446808511,0.142857143,52,44,-1.182,-0.399,601,632,0,1,away,away,SRH,489,normal,field,1,0,8,DW Steyn,RM Deshpande,BNJ Oxenford,,Feroz Shah Kotla
+MI,CSK,CSK,564,651,794,695,0.576923077,0.673913043,42,38,0.095,0.385,540,763,0.6,0.4,home,away,CSK,490,normal,field,0,0,4,DR Smith,HDPK Dharmasena,VA Kulkarni,,Wankhede Stadium
+KXIP,KKR,KKR,779,610,644,547,0.454545455,0.5,49,55,0.968,0.418,693,742,0.45,0.55,away,home,KKR,491,normal,field,0,0,9,G Gambhir,NJ Llong,CK Nandan,,Barabati Stadium
+RCB,RR,RCB,577,687,516,830,0.555555556,0.551020408,31,45,-0.428,0.06,601,523.5,0.55,0.45,home,away,RR,492,normal,bat,0,0,5,JP Faulkner,S Ravi,RJ Tucker,,M Chinnaswamy Stadium
+SRH,MI,SRH,573,564,483,794,0.142857143,0.576923077,43,38,-0.399,0.095,632,540,0.5,0.5,home,away,MI,493,normal,bat,0,0,7,AT Rayudu,HDPK Dharmasena,VA Kulkarni,,"Rajiv Gandhi International Stadium, Uppal"
+RR,CSK,RR,687,651,830,695,0.551020408,0.673913043,42,48,0.06,0.385,523.5,763,0.38,0.62,away,away,CSK,494,normal,bat,0,0,5,RA Jadeja,BNJ Oxenford,C ShamshuDCin,,JSCA International Stadium Complex
+RCB,DC,DC,577,610,516,475,0.555555556,0.446808511,34,46,-0.428,-1.182,601,601,0.55,0.45,home,away,RCB,495,normal,field,0,16,0,Yuvraj Singh,K Srinath,RJ Tucker,,M Chinnaswamy Stadium
+SRH,KXIP,KXIP,573,779,483,644,0.142857143,0.454545455,55,86,-0.399,0.968,632,693,1,0,home,away,KXIP,496,normal,field,0,0,6,WP Saha,VA Kulkarni,PG Pathak,,"Rajiv Gandhi International Stadium, Uppal"
+MI,KKR,KKR,564,610,794,547,0.576923077,0.5,37,45,0.095,0.418,540,742,0.83,0.17,away,home,KKR,497,normal,field,0,0,6,RV Uthappa,AK Chaudhary,NJ Llong,,Barabati Stadium
+RR,DC,DC,687,610,830,475,0.551020408,0.446808511,52,34,0.06,-1.182,523.5,601,0.5,0.5,home,away,RR,498,normal,field,0,62,0,AM Rahane,S Ravi,RJ Tucker,,"Sardar Patel Stadium, Motera"
+CSK,RCB,CSK,651,577,695,516,0.673913043,0.555555556,39,17,0.385,-0.428,763,601,0.57,0.43,away,away,RCB,499,normal,bat,0,0,5,AB de Villiers,BNJ Oxenford,C ShamshuDCin,,JSCA International Stadium Complex
+SRH,KKR,SRH,573,610,483,547,0.142857143,0.5,41,30,-0.399,0.418,632,742,0.5,0.5,home,away,KKR,500,normal,bat,0,0,7,UT Yadav,NJ Llong,CK Nandan,,"Rajiv Gandhi International Stadium, Uppal"
+MI,RR,MI,564,687,794,830,0.576923077,0.551020408,42,47,0.095,0.06,540,523.5,0.58,0.42,away,home,MI,501,normal,bat,0,25,0,MEK Hussey,S Ravi,RJ Tucker,,"Sardar Patel Stadium, Motera"
+DC,KXIP,KXIP,610,779,475,644,0.446808511,0.454545455,55,66,-1.182,0.968,601,693,0.42,0.58,away,away,KXIP,502,normal,field,0,0,4,AR Patel,HDPK Dharmasena,PG Pathak,,Feroz Shah Kotla
+RCB,SRH,RCB,577,573,516,483,0.555555556,0.142857143,25,51,-0.428,-0.399,601,632,0.5,0.5,away,home,SRH,503,normal,bat,0,0,7,DA Warner,AK Chaudhary,NJ Llong,,"Rajiv Gandhi International Stadium, Uppal"
+CSK,KKR,KKR,651,610,695,547,0.673913043,0.5,35,52,0.385,0.418,763,742,0.67,0.33,away,home,KKR,504,normal,field,0,0,8,RV Uthappa,RM Deshpande,C ShamshuDCin,,Eden Gardens
+KXIP,MI,MI,779,564,644,794,0.454545455,0.576923077,48,62,0.968,0.095,693,540,0.58,0.42,away,away,MI,505,normal,field,0,0,7,LMP Simmons,HDPK Dharmasena,VA Kulkarni,,"Punjab Cricket Association Stadium, Mohali"
+KKR,RCB,RCB,610,577,547,516,0.5,0.555555556,45,36,0.418,-0.428,742,601,0.5,0.5,home,away,KKR,506,normal,field,0,30,0,RV Uthappa,AK Chaudhary,CK Nandan,,Eden Gardens
+CSK,SRH,SRH,651,573,695,483,0.673913043,0.142857143,60,64,0.385,-0.399,763,632,1,0,away,away,SRH,507,normal,field,0,0,6,DA Warner,BNJ Oxenford,C ShamshuDCin,,JSCA International Stadium Complex
+MI,DC,DC,564,610,794,475,0.576923077,0.446808511,65,47,0.095,-1.182,540,601,0.5,0.5,home,away,MI,508,normal,field,0,15,0,MEK Hussey,S Ravi,RJ Tucker,,Wankhede Stadium
+KXIP,RR,RR,779,687,644,830,0.454545455,0.551020408,53,44,0.968,0.06,693,523.5,0.27,0.73,away,away,KXIP,509,normal,field,0,16,0,SE Marsh,HDPK Dharmasena,PG Pathak,,"Punjab Cricket Association Stadium, Mohali"
+RCB,CSK,CSK,577,651,516,695,0.555555556,0.673913043,34,64,-0.428,0.385,601,763,0.43,0.57,home,away,CSK,510,normal,field,0,0,8,MS Dhoni,AK Chaudhary,NJ Llong,,M Chinnaswamy Stadium
+SRH,KKR,KKR,573,610,483,547,0.142857143,0.5,49,49,-0.399,0.418,632,742,0.5,0.5,away,home,KKR,511,normal,field,0,0,4,YK Pathan,RM Deshpande,BNJ Oxenford,,Eden Gardens
+DC,KXIP,KXIP,610,779,475,644,0.446808511,0.454545455,44,48,-1.182,0.968,601,693,0.42,0.58,away,away,KXIP,512,normal,field,0,0,7,M Vohra,HDPK Dharmasena,VA Kulkarni,,"Punjab Cricket Association Stadium, Mohali"
+RR,MI,MI,687,564,830,794,0.551020408,0.576923077,35,71,0.06,0.095,523.5,540,0.42,0.58,away,home,MI,513,normal,field,0,0,5,CJ Anderson,K Srinath,RJ Tucker,,Wankhede Stadium
+KKR,KXIP,KXIP,610,779,547,644,0.5,0.454545455,55,46,0.418,0.968,742,693,0.55,0.45,home,away,KKR,514,normal,field,0,28,0,UT Yadav,NJ Llong,S Ravi,,Eden Gardens
+MI,CSK,CSK,564,651,794,695,0.576923077,0.673913043,53,60,0.095,0.385,540,763,0.6,0.4,home,away,CSK,515,normal,field,0,0,7,SK Raina,VA Kulkarni,BNJ Oxenford,,Brabourne Stadium
+KXIP,CSK,CSK,779,651,644,695,0.454545455,0.673913043,70,100,0.968,0.385,693,763,0.3,0.7,away,away,KXIP,516,normal,field,0,24,0,V Sehwag,HDPK Dharmasena,RJ Tucker,,Wankhede Stadium
+KXIP,KKR,KKR,779,610,644,547,0.454545455,0.5,32,59,0.968,0.418,693,742,0.45,0.55,away,away,KKR,517,normal,field,0,0,3,MK Pandey,HDPK Dharmasena,BNJ Oxenford,,M Chinnaswamy Stadium
+MI,KKR,KKR,782,598,546,634,0.568965517,0.527272727,37,38,-0.043,0.253,701.5,627,0.72,0.28,away,home,KKR,518,normal,field,0,0,7,M Morkel,S Ravi,C ShamshuDCin,,Eden Gardens
+CSK,DC,DC,578,598,657,712,0.660714286,0.411764706,59,40,0.709,-0.049,754.5,678,0.71,0.29,home,away,CSK,519,normal,field,0,1,0,A Nehra,RK Illingworth,VA Kulkarni,,"MA Chidambaram Stadium, Chepauk"
+RR,KXIP,KXIP,570,508,533,590,0.543859649,0.490196078,35,51,0.062,-1.436,603.5,572.5,0.62,0.38,away,away,RR,520,normal,field,0,26,0,JP Faulkner,SD Fry,CB Gaffaney,,Maharashtra Cricket Association Stadium
+CSK,SRH,CSK,578,749,657,696,0.660714286,0.285714286,49,46,0.709,-0.239,754.5,657,0.75,0.25,home,away,CSK,521,normal,bat,0,45,0,BB McCullum,RK Illingworth,VA Kulkarni,,"MA Chidambaram Stadium, Chepauk"
+KKR,RCB,RCB,598,617,634,546,0.527272727,0.511111111,53,41,0.253,1.037,627,678,0.57,0.43,home,away,RCB,522,normal,field,0,0,3,CH Gayle,S Ravi,C ShamshuDCin,,Eden Gardens
+DC,RR,RR,598,570,712,533,0.411764706,0.543859649,51,42,-0.049,0.062,678,603.5,0.43,0.57,away,away,RR,523,normal,field,0,0,3,DJ Hooda,SD Fry,CB Gaffaney,,Feroz Shah Kotla
+KXIP,MI,MI,508,782,590,546,0.490196078,0.568965517,57,17,-1.436,-0.043,572.5,701.5,0.5,0.5,away,home,KXIP,524,normal,field,0,18,0,GJ Bailey,AK Chaudhary,K Srinivasan,,Wankhede Stadium
+RCB,SRH,SRH,617,749,546,696,0.511111111,0.285714286,47,65,1.037,-0.239,678,657,0.5,0.5,home,away,SRH,525,normal,field,0,0,8,DA Warner,RM Deshpande,RK Illingworth,,M Chinnaswamy Stadium
+MI,RR,MI,782,570,546,533,0.568965517,0.543859649,31,42,-0.043,0.062,701.5,603.5,0.64,0.36,away,home,RR,526,normal,bat,0,0,7,SPD Smith,AK Chaudhary,SD Fry,,"Sardar Patel Stadium, Motera"
+KXIP,DC,KXIP,508,598,590,712,0.490196078,0.411764706,69,38,-1.436,-0.049,572.5,678,0.64,0.36,away,away,DC,528,normal,bat,0,0,5,MA Agarwal,CB Gaffaney,K Srinath,,Maharashtra Cricket Association Stadium
+SRH,RR,RR,749,570,696,533,0.285714286,0.543859649,41,47,-0.239,0.062,657,603.5,0.4,0.6,away,away,RR,529,normal,field,0,0,6,AM Rahane,PG Pathak,S Ravi,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+MI,CSK,MI,782,578,546,657,0.568965517,0.660714286,35,36,-0.043,0.709,701.5,754.5,0.5,0.5,home,away,CSK,530,normal,bat,0,0,6,A Nehra,AK Chaudhary,M Erasmus,,Wankhede Stadium
+DC,SRH,DC,598,749,712,696,0.411764706,0.285714286,31,90,-0.049,-0.239,678,657,0,1,away,away,DC,531,normal,bat,0,4,0,JP Duminy,PG Pathak,S Ravi,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+KXIP,KKR,KKR,508,598,590,634,0.490196078,0.527272727,40,50,-1.436,0.253,572.5,627,0.4,0.6,away,away,KKR,532,normal,field,0,0,4,AD Russell,SD Fry,CK Nandan,,Maharashtra Cricket Association Stadium
+CSK,RR,CSK,578,570,657,533,0.660714286,0.543859649,48,53,0.709,0.062,754.5,603.5,0.67,0.33,away,home,RR,533,normal,bat,0,0,8,AM Rahane,AK Chaudhary,M Erasmus,,"Sardar Patel Stadium, Motera"
+MI,RCB,RCB,782,617,546,546,0.568965517,0.511111111,39,47,-0.043,1.037,701.5,678,0.53,0.47,away,home,MI,534,normal,field,0,18,0,Harbhajan Singh,RK Illingworth,VA Kulkarni,,M Chinnaswamy Stadium
+DC,KKR,KKR,598,598,712,634,0.411764706,0.527272727,48,33,-0.049,0.253,678,627,0.46,0.53,away,away,KKR,535,normal,field,0,0,6,UT Yadav,SD Fry,CB Gaffaney,,Feroz Shah Kotla
+RR,KXIP,KXIP,570,508,533,590,0.543859649,0.490196078,34,48,0.062,-1.436,603.5,572.5,0.62,0.38,home,away,KXIP,536,tie,field,0,0,0,SE Marsh,M Erasmus,S Ravi,,"Sardar Patel Stadium, Motera"
+SRH,KKR,KKR,749,598,696,634,0.285714286,0.527272727,43,40,-0.239,0.253,657,627,0.25,0.75,away,away,SRH,537,normal,field,1,16,0,DA Warner,RK Illingworth,VA Kulkarni,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+CSK,RCB,RCB,578,617,657,546,0.660714286,0.511111111,43,49,0.709,1.037,754.5,678,0.56,0.44,away,home,CSK,538,normal,field,0,27,0,SK Raina,JD Cloete,C ShamshuDCin,,M Chinnaswamy Stadium
+DC,MI,MI,598,782,712,546,0.411764706,0.568965517,45,38,-0.049,-0.043,678,701.5,0.5,0.5,away,away,DC,539,normal,field,0,37,0,SS Iyer,SD Fry,CK Nandan,,Feroz Shah Kotla
+RR,RCB,RCB,570,617,533,546,0.543859649,0.511111111,45,48,0.062,1.037,603.5,678,0.54,0.46,home,away,RCB,540,normal,field,0,0,9,MA Starc,M Erasmus,S Ravi,,"Sardar Patel Stadium, Motera"
+MI,SRH,MI,782,749,546,696,0.568965517,0.285714286,48,49,-0.043,-0.239,701.5,657,0.5,0.5,home,away,MI,541,normal,bat,0,20,0,SL Malinga,HDPK Dharmasena,CB Gaffaney,,Wankhede Stadium
+CSK,KXIP,CSK,578,508,657,590,0.660714286,0.490196078,46,52,0.709,-1.436,754.5,572.5,0.53,0.47,home,away,CSK,542,normal,bat,0,97,0,BB McCullum,JD Cloete,C ShamshuDCin,,"MA Chidambaram Stadium, Chepauk"
+DC,RCB,RCB,598,617,712,546,0.411764706,0.511111111,54,39,-0.049,1.037,678,678,0.38,0.62,away,away,RCB,543,normal,field,0,0,10,VR Aaron,M Erasmus,S Ravi,,Feroz Shah Kotla
+SRH,KXIP,KXIP,749,508,696,590,0.285714286,0.490196078,38,50,-0.239,-1.436,657,572.5,0.5,0.5,away,away,SRH,544,normal,field,0,20,0,TA Boult,HDPK Dharmasena,CB Gaffaney,,"Punjab Cricket Association Stadium, Mohali"
+CSK,KKR,KKR,578,598,657,634,0.660714286,0.527272727,56,36,0.709,0.253,754.5,627,0.64,0.36,home,away,CSK,547,normal,field,0,2,0,DJ Bravo,RM Deshpande,VA Kulkarni,,"MA Chidambaram Stadium, Chepauk"
+RCB,RR,RR,617,570,546,533,0.511111111,0.543859649,50,36,1.037,0.062,678,603.5,0.46,0.54,home,away,,546,no result,field,0,0,0,,JD Cloete,PG Pathak,,M Chinnaswamy Stadium
+CSK,KKR,KKR,578,598,657,634,0.660714286,0.527272727,52,0,0.709,0.253,754.5,627,0.64,0.36,away,home,KKR,527,normal,field,0,0,7,AD Russell,AK Chaudhary,M Erasmus,,Eden Gardens
+KXIP,DC,DC,508,598,590,712,0.490196078,0.411764706,53,54,-1.436,-0.049,572.5,678,0.64,0.36,away,away,DC,548,normal,field,0,0,9,NM Coulter-Nile,RK Illingworth,S Ravi,,Feroz Shah Kotla
+MI,RR,RR,782,570,546,533,0.568965517,0.543859649,27,41,-0.043,0.062,701.5,603.5,0.64,0.36,home,away,MI,549,normal,field,0,8,0,AT Rayudu,HDPK Dharmasena,CK Nandan,,Wankhede Stadium
+KKR,RCB,RCB,598,617,634,546,0.527272727,0.511111111,47,55,0.253,1.037,627,678,0.57,0.43,away,home,RCB,550,normal,field,0,0,7,Mandeep Singh,JD Cloete,PG Pathak,,M Chinnaswamy Stadium
+SRH,CSK,CSK,749,578,696,657,0.285714286,0.660714286,61,62,-0.239,0.709,657,754.5,0.25,0.75,home,away,SRH,551,normal,field,0,22,0,DA Warner,AK Chaudhary,K Srinivasan,,"Rajiv Gandhi International Stadium, Uppal"
+MI,KXIP,MI,782,508,546,590,0.568965517,0.490196078,76,54,-0.043,-1.436,701.5,572.5,0.5,0.5,away,away,MI,552,normal,bat,0,23,0,LMP Simmons,RK Illingworth,VA Kulkarni,,"Punjab Cricket Association Stadium, Mohali"
+RR,DC,DC,570,598,533,712,0.543859649,0.411764706,51,45,0.062,-0.049,603.5,678,0.57,0.43,away,away,RR,553,normal,field,0,14,0,AM Rahane,HDPK Dharmasena,CB Gaffaney,,Brabourne Stadium
+CSK,RCB,CSK,578,617,657,546,0.660714286,0.511111111,43,55,0.709,1.037,754.5,678,0.56,0.44,home,away,CSK,554,normal,bat,0,24,0,SK Raina,C ShamshuDCin,K Srinath,,"MA Chidambaram Stadium, Chepauk"
+KKR,SRH,SRH,598,749,634,696,0.527272727,0.285714286,37,42,0.253,-0.239,627,657,0.75,0.25,home,away,KKR,555,normal,field,0,35,0,UT Yadav,AK Chaudhary,M Erasmus,,Eden Gardens
+DC,MI,DC,598,782,712,546,0.411764706,0.568965517,55,33,-0.049,-0.043,678,701.5,0.5,0.5,away,home,MI,556,normal,bat,0,0,5,Harbhajan Singh,HDPK Dharmasena,CB Gaffaney,,Wankhede Stadium
+RCB,KXIP,KXIP,617,508,546,590,0.511111111,0.490196078,44,41,1.037,-1.436,678,572.5,0.36,0.64,home,away,RCB,557,normal,field,0,138,0,CH Gayle,RK Illingworth,VA Kulkarni,,M Chinnaswamy Stadium
+KKR,DC,KKR,598,598,634,712,0.527272727,0.411764706,68,34,0.253,-0.049,627,678,0.53,0.46,home,away,KKR,545,normal,bat,0,13,0,PP Chawla,AK Chaudhary,M Erasmus,,Eden Gardens
+SRH,RR,RR,749,570,696,533,0.285714286,0.543859649,56,36,-0.239,0.062,657,603.5,0.4,0.6,away,away,SRH,558,normal,field,0,7,0,EJG Morgan,JD Cloete,C ShamshuDCin,,Brabourne Stadium
+CSK,MI,CSK,578,782,657,546,0.660714286,0.568965517,44,61,0.709,-0.043,754.5,701.5,0.5,0.5,home,away,MI,559,normal,bat,0,0,6,HH Pandya,CB Gaffaney,CK Nandan,,"MA Chidambaram Stadium, Chepauk"
+KXIP,KKR,KXIP,508,598,590,634,0.490196078,0.527272727,45,57,-1.436,0.253,572.5,627,0.4,0.6,away,home,KKR,560,normal,bat,0,0,1,AD Russell,AK Chaudhary,HDPK Dharmasena,,Eden Gardens
+SRH,DC,SRH,749,598,696,712,0.285714286,0.411764706,41,49,-0.239,-0.049,657,678,1,0,away,away,SRH,561,normal,bat,0,6,0,MC Henriques,VA Kulkarni,S Ravi,,Shaheed Veer Narayan Singh International Stadium
+RCB,MI,RCB,617,782,546,546,0.511111111,0.568965517,39,45,1.037,-0.043,678,701.5,0.47,0.53,away,home,RCB,562,normal,bat,0,39,0,AB de Villiers,JD Cloete,C ShamshuDCin,,Wankhede Stadium
+CSK,RR,CSK,578,570,657,533,0.660714286,0.543859649,36,40,0.709,0.062,754.5,603.5,0.67,0.33,home,away,CSK,563,normal,bat,0,12,0,RA Jadeja,M Erasmus,CK Nandan,,"MA Chidambaram Stadium, Chepauk"
+SRH,KXIP,SRH,749,508,696,590,0.285714286,0.490196078,56,47,-0.239,-1.436,657,572.5,0.5,0.5,home,away,SRH,564,normal,bat,0,5,0,DA Warner,AK Chaudhary,HDPK Dharmasena,,"Rajiv Gandhi International Stadium, Uppal"
+CSK,DC,CSK,578,598,657,712,0.660714286,0.411764706,16,28,0.709,-0.049,754.5,678,0.71,0.29,away,away,DC,565,normal,bat,0,0,6,Z Khan,RK Illingworth,VA Kulkarni,,Shaheed Veer Narayan Singh International Stadium
+KXIP,RCB,RCB,508,617,590,546,0.490196078,0.511111111,72,61,-1.436,1.037,572.5,678,0.64,0.36,away,away,KXIP,566,normal,field,0,22,0,AR Patel,JD Cloete,C ShamshuDCin,,"Punjab Cricket Association Stadium, Mohali"
+MI,KKR,KKR,782,598,546,634,0.568965517,0.527272727,46,50,-0.043,0.253,701.5,627,0.72,0.28,home,away,MI,567,normal,field,0,5,0,HH Pandya,RK Illingworth,VA Kulkarni,,Wankhede Stadium
+SRH,RCB,SRH,749,617,696,546,0.285714286,0.511111111,68,83,-0.239,1.037,657,678,0.5,0.5,home,away,RCB,568,normal,bat,1,0,6,V Kohli,AK Chaudhary,HDPK Dharmasena,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,CSK,KXIP,508,578,590,657,0.490196078,0.660714286,41,47,-1.436,0.709,572.5,754.5,0.47,0.53,away,away,CSK,569,normal,bat,0,0,7,P Negi,CK Nandan,C ShamshuDCin,,"Punjab Cricket Association Stadium, Mohali"
+RR,KKR,RR,570,598,533,634,0.543859649,0.527272727,66,53,0.062,0.253,603.5,627,0.57,0.43,away,away,RR,570,normal,bat,0,9,0,SR Watson,RM Deshpande,RK Illingworth,,Brabourne Stadium
+DC,RCB,RCB,598,617,712,546,0.411764706,0.511111111,54,2,-0.049,1.037,678,678,0.38,0.62,away,home,,571,no result,field,0,0,0,,HDPK Dharmasena,K Srinivasan,,M Chinnaswamy Stadium
+SRH,MI,SRH,749,782,696,546,0.285714286,0.568965517,29,38,-0.239,-0.043,657,701.5,0.5,0.5,home,away,MI,572,normal,bat,0,0,9,MJ McClenaghan,CB Gaffaney,K Srinath,,"Rajiv Gandhi International Stadium, Uppal"
+MI,CSK,MI,782,578,546,657,0.568965517,0.660714286,48,54,-0.043,0.709,701.5,754.5,0.5,0.5,home,away,MI,573,normal,bat,0,25,0,KA Pollard,HDPK Dharmasena,RK Illingworth,,Wankhede Stadium
+RCB,RR,RCB,617,570,546,533,0.511111111,0.543859649,41,40,1.037,0.062,678,603.5,0.46,0.54,away,away,RCB,574,normal,bat,0,71,0,AB de Villiers,AK Chaudhary,C ShamshuDCin,,Maharashtra Cricket Association Stadium
+RCB,CSK,CSK,617,578,546,657,0.511111111,0.660714286,29,34,1.037,0.709,678,754.5,0.44,0.56,away,away,CSK,575,normal,field,0,0,3,A Nehra,AK Chaudhary,CB Gaffaney,,JSCA International Stadium Complex
+MI,CSK,CSK,782,578,546,657,0.568965517,0.660714286,61,31,-0.043,0.709,701.5,754.5,0.5,0.5,away,away,MI,576,normal,field,0,41,0,RG Sharma,HDPK Dharmasena,RK Illingworth,,Eden Gardens
+MI,RPS,MI,659,764,393,719,0.553846154,0,37,57,-0.146,0.015,566,486.5,0,0,home,away,RPS,577,normal,bat,0,0,9,AM Rahane,HDPK Dharmasena,CK Nandan,,Wankhede Stadium
+DC,KKR,KKR,610,610,580,833,0.410714286,0.53968254,35,47,-0.155,0.106,959,559,0.4,0.6,away,home,KKR,578,normal,field,0,0,9,AD Russell,S Ravi,C ShamshuDCin,,Eden Gardens
+KXIP,GL,GL,662,513,563,500,0.448275862,0,52,57,-0.646,-0.374,364,630.5,0,0,away,away,GL,579,normal,field,0,0,5,AJ Finch,AK Chaudhary,VA Kulkarni,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+RCB,SRH,SRH,613,603,692,650,0.527272727,0.35,49,56,0.932,0.245,959,825.5,0.5,0.5,home,away,RCB,580,normal,field,0,45,0,AB de Villiers,HDPK Dharmasena,VK Sharma,,M Chinnaswamy Stadium
+KKR,MI,MI,610,659,833,393,0.53968254,0.553846154,40,53,0.106,-0.146,559,566,0.31,0.69,home,away,MI,581,normal,field,0,0,6,RG Sharma,Nitin Menon,S Ravi,,Eden Gardens
+RPS,GL,RPS,764,513,719,500,0,0,57,62,0.015,-0.374,486.5,630.5,0,0,away,away,GL,582,normal,bat,0,0,7,AJ Finch,VA Kulkarni,CK Nandan,,Saurashtra Cricket Association Stadium
+KXIP,DC,DC,662,610,563,580,0.448275862,0.410714286,37,28,-0.646,-0.155,364,959,0.56,0.44,away,away,DC,583,normal,field,0,0,8,A Mishra,S Ravi,C ShamshuDCin,,Feroz Shah Kotla
+SRH,KKR,SRH,603,610,650,833,0.35,0.53968254,36,36,0.245,0.106,825.5,559,0.3,0.7,home,away,KKR,584,normal,bat,0,0,8,G Gambhir,AK Chaudhary,CK Nandan,,"Rajiv Gandhi International Stadium, Uppal"
+MI,GL,GL,659,513,393,500,0.553846154,0,31,42,-0.146,-0.374,566,630.5,0,0,home,away,GL,585,normal,field,0,0,3,AJ Finch,HDPK Dharmasena,VK Sharma,,Wankhede Stadium
+RPS,KXIP,RPS,764,662,719,563,0,0.448275862,49,50,0.015,-0.646,486.5,364,0,0,away,away,KXIP,586,normal,bat,0,0,6,M Vohra,S Ravi,C ShamshuDCin,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+RCB,DC,DC,613,610,692,580,0.527272727,0.410714286,63,51,0.932,-0.155,959,959,0.64,0.36,home,away,DC,587,normal,field,0,0,7,Q de Kock,VA Kulkarni,A Nand Kishore,,M Chinnaswamy Stadium
+MI,SRH,SRH,659,603,393,650,0.553846154,0.35,40,33,-0.146,0.245,566,825.5,0.7,0.3,away,home,SRH,588,normal,field,0,0,7,DA Warner,HDPK Dharmasena,VK Sharma,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,KKR,KKR,662,610,563,833,0.448275862,0.53968254,41,65,-0.646,0.106,364,559,0.35,0.56,away,away,KKR,589,normal,field,0,0,6,RV Uthappa,S Ravi,C ShamshuDCin,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+RCB,MI,MI,613,659,692,393,0.527272727,0.553846154,49,51,0.932,-0.146,959,566,0.47,0.53,away,home,MI,590,normal,field,0,0,6,RG Sharma,AK Chaudhary,CK Nandan,,Wankhede Stadium
+GL,SRH,SRH,513,603,500,650,0,0.35,50,63,-0.374,0.245,630.5,825.5,0,0,away,away,SRH,591,normal,field,0,0,10,B Kumar,K Bharatan,HDPK Dharmasena,,Saurashtra Cricket Association Stadium
+RCB,RPS,RPS,613,764,692,719,0.527272727,0,48,36,0.932,0.015,959,486.5,0,0,away,away,RCB,592,normal,field,0,13,0,AB de Villiers,CB Gaffaney,VK Sharma,,Maharashtra Cricket Association Stadium
+DC,MI,MI,610,659,580,393,0.410714286,0.553846154,41,52,-0.155,-0.146,959,566,0.5,0.5,away,away,DC,593,normal,field,0,10,0,SV Samson,S Ravi,C ShamshuDCin,,Feroz Shah Kotla
+KXIP,SRH,SRH,662,603,563,650,0.448275862,0.35,35,65,-0.646,0.245,364,825.5,0.3,0.7,away,home,SRH,594,normal,field,0,0,5,Mustafizur Rahman,AK Chaudhary,CK Nandan,,"Rajiv Gandhi International Stadium, Uppal"
+RCB,GL,RCB,613,513,692,500,0.527272727,0,50,72,0.932,-0.374,959,630.5,0,0,away,away,GL,595,normal,bat,0,0,6,V Kohli,K Bharatan,BNJ Oxenford,,Saurashtra Cricket Association Stadium
+RPS,KKR,KKR,764,610,719,833,0,0.53968254,31,59,0.015,0.106,486.5,559,0,0,away,away,KKR,596,normal,field,0,0,2,SA Yadav,CB Gaffaney,A Nand Kishore,,Maharashtra Cricket Association Stadium
+MI,KXIP,KXIP,659,662,393,563,0.553846154,0.448275862,39,40,-0.146,-0.646,566,364,0.5,0.5,away,away,MI,597,normal,field,0,25,0,PA Patel,Nitin Menon,RJ Tucker,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+SRH,RPS,RPS,603,764,650,719,0.35,0,27,46,0.245,0.015,825.5,486.5,0,0,home,away,RPS,598,normal,field,1,34,0,AB Dinda,AY Dandekar,CK Nandan,,"Rajiv Gandhi International Stadium, Uppal"
+GL,DC,DC,513,610,500,580,0,0.410714286,71,22,-0.374,-0.155,630.5,959,0,0,away,away,GL,599,normal,field,0,1,0,CH Morris,M Erasmus,S Ravi,,Feroz Shah Kotla
+KKR,MI,MI,610,659,833,393,0.53968254,0.553846154,59,64,0.106,-0.146,559,566,0.31,0.69,away,home,MI,600,normal,field,0,0,6,RG Sharma,Nitin Menon,RJ Tucker,,Wankhede Stadium
+RPS,GL,GL,764,513,719,500,0,0,48,72,0.015,-0.374,486.5,630.5,0,0,away,away,GL,601,normal,field,0,0,3,DR Smith,CB Gaffaney,BNJ Oxenford,,Maharashtra Cricket Association Stadium
+DC,KKR,KKR,610,610,580,833,0.410714286,0.53968254,37,43,-0.155,0.106,959,559,0.4,0.6,away,away,DC,602,normal,field,0,27,0,CR Brathwaite,KN Ananthapadmanabhan,M Erasmus,,Feroz Shah Kotla
+SRH,RCB,RCB,603,613,650,692,0.35,0.527272727,49,45,0.245,0.932,825.5,959,0.5,0.5,home,away,SRH,603,normal,field,0,15,0,DA Warner,AK Chaudhary,HDPK Dharmasena,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,GL,GL,662,513,563,500,0.448275862,0,59,36,-0.646,-0.374,364,630.5,0,0,away,away,KXIP,604,normal,field,0,23,0,AR Patel,BNJ Oxenford,VK Sharma,,Saurashtra Cricket Association Stadium
+RPS,MI,MI,764,659,719,393,0,0.553846154,54,47,0.015,-0.146,486.5,566,0,0,away,away,MI,605,normal,field,0,0,8,RG Sharma,AY Dandekar,RJ Tucker,,Maharashtra Cricket Association Stadium
+RCB,KKR,KKR,613,610,692,833,0.527272727,0.53968254,40,37,0.932,0.106,959,559,0.5,0.5,home,away,KKR,606,normal,field,0,0,5,AD Russell,M Erasmus,S Ravi,,M Chinnaswamy Stadium
+GL,DC,DC,513,610,500,580,0,0.410714286,35,61,-0.374,-0.155,630.5,959,0,0,away,away,DC,607,normal,field,0,0,8,RR Pant,CB Gaffaney,BNJ Oxenford,,Saurashtra Cricket Association Stadium
+KKR,KXIP,KXIP,610,662,833,563,0.53968254,0.448275862,40,37,0.106,-0.646,559,364,0.56,0.35,home,away,KKR,608,normal,field,0,7,0,AD Russell,AK Chaudhary,HDPK Dharmasena,,Eden Gardens
+DC,RPS,RPS,610,764,580,719,0.410714286,0,48,50,-0.155,0.015,959,486.5,0,0,away,away,RPS,609,normal,field,0,0,7,AM Rahane,C ShamshuDCin,RJ Tucker,,Feroz Shah Kotla
+GL,SRH,SRH,513,603,500,650,0,0.35,26,38,-0.374,0.245,630.5,825.5,0,0,away,home,SRH,610,normal,field,0,0,5,B Kumar,M Erasmus,S Ravi,,"Rajiv Gandhi International Stadium, Uppal"
+RPS,RCB,RCB,764,613,719,692,0,0.527272727,60,46,0.015,0.932,486.5,959,0,0,away,home,RCB,611,normal,field,0,0,7,V Kohli,CB Gaffaney,BNJ Oxenford,,M Chinnaswamy Stadium
+KXIP,DC,DC,662,610,563,580,0.448275862,0.410714286,45,51,-0.646,-0.155,364,959,0.56,0.44,away,away,KXIP,612,normal,field,0,9,0,MP Stoinis,HDPK Dharmasena,CK Nandan,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+SRH,MI,MI,603,659,650,393,0.35,0.553846154,51,32,0.245,-0.146,825.5,566,0.3,0.7,away,away,SRH,613,normal,field,0,85,0,A Nehra,S Ravi,C ShamshuDCin,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+KKR,GL,GL,610,513,833,500,0.53968254,0,28,46,0.106,-0.374,559,630.5,0,0,home,away,GL,614,normal,field,0,0,5,P Kumar,M Erasmus,RJ Tucker,,Eden Gardens
+RCB,KXIP,KXIP,613,662,692,563,0.527272727,0.448275862,56,50,0.932,-0.646,959,364,0.375,0.625,away,away,RCB,615,normal,field,0,1,0,SR Watson,AK Chaudhary,HDPK Dharmasena,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+SRH,RPS,SRH,603,764,650,719,0.35,0,34,25,0.245,0.015,825.5,486.5,0,0,away,away,SRH,616,normal,bat,0,4,0,A Zampa,CB Gaffaney,VK Sharma,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+RCB,MI,MI,613,659,692,393,0.527272727,0.553846154,25,39,0.932,-0.146,959,566,0.47,0.53,home,away,MI,617,normal,field,0,0,6,KH Pandya,AY Dandekar,C ShamshuDCin,,M Chinnaswamy Stadium
+SRH,DC,DC,603,610,650,580,0.35,0.410714286,51,50,0.245,-0.155,825.5,959,0.83,0.17,home,away,DC,618,normal,field,0,0,7,CH Morris,K Bharatan,M Erasmus,,"Rajiv Gandhi International Stadium, Uppal"
+MI,KXIP,MI,659,662,393,563,0.553846154,0.448275862,21,32,-0.146,-0.646,566,364,0.5,0.5,away,away,KXIP,619,normal,bat,0,0,7,MP Stoinis,HDPK Dharmasena,CK Nandan,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+RCB,GL,GL,613,513,692,500,0.527272727,0,42,41,0.932,-0.374,959,630.5,0,0,home,away,RCB,620,normal,field,0,144,0,AB de Villiers,AY Dandekar,VK Sharma,,M Chinnaswamy Stadium
+RPS,KKR,RPS,764,610,719,833,0,0.53968254,37,66,0.015,0.106,486.5,559,0,0,away,home,KKR,621,normal,bat,1,0,8,YK Pathan,A Nand Kishore,BNJ Oxenford,,Eden Gardens
+KXIP,SRH,KXIP,662,603,563,650,0.448275862,0.35,47,55,-0.646,0.245,364,825.5,0.3,0.7,away,away,SRH,622,normal,bat,0,0,7,HM Amla,KN Ananthapadmanabhan,M Erasmus,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+MI,DC,DC,659,610,393,580,0.553846154,0.410714286,45,49,-0.146,-0.155,566,959,0.5,0.5,away,away,MI,623,normal,field,0,80,0,KH Pandya,Nitin Menon,CK Nandan,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+KKR,RCB,RCB,610,613,833,692,0.53968254,0.527272727,51,63,0.106,0.932,559,959,0.5,0.5,home,away,RCB,624,normal,field,0,0,9,V Kohli,CB Gaffaney,A Nand Kishore,,Eden Gardens
+DC,RPS,RPS,610,764,580,719,0.410714286,0,28,44,-0.155,0.015,959,486.5,0,0,away,away,RPS,625,normal,field,1,19,0,AB Dinda,Nitin Menon,C ShamshuDCin,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+RCB,KXIP,KXIP,613,662,692,563,0.527272727,0.448275862,63,59,0.932,-0.646,959,364,0.375,0.625,home,away,RCB,626,normal,field,1,82,0,V Kohli,KN Ananthapadmanabhan,M Erasmus,,M Chinnaswamy Stadium
+KKR,GL,GL,610,513,833,500,0.53968254,0,44,55,0.106,-0.374,559,630.5,0,0,away,away,GL,627,normal,field,0,0,6,DR Smith,AK Chaudhary,CK Nandan,,Green Park
+SRH,DC,DC,603,610,650,580,0.35,0.410714286,46,37,0.245,-0.155,825.5,959,0.83,0.17,away,away,DC,628,normal,field,0,0,6,KK Nair,A Nand Kishore,BNJ Oxenford,,Shaheed Veer Narayan Singh International Stadium
+KXIP,RPS,KXIP,662,764,563,719,0.448275862,0,52,44,-0.646,0.015,364,486.5,0,0,away,away,RPS,629,normal,bat,0,0,4,MS Dhoni,HDPK Dharmasena,Nitin Menon,,Dr. Y.S. Rajasekhara ReDCy ACA-VDECA Cricket Stadium
+MI,GL,GL,659,513,393,500,0.553846154,0,49,70,-0.146,-0.374,566,630.5,0,0,away,away,GL,630,normal,field,0,0,6,SK Raina,AK Chaudhary,CK Nandan,,Green Park
+KKR,SRH,SRH,610,603,833,650,0.53968254,0.35,48,48,0.106,0.245,559,825.5,0.7,0.3,home,away,KKR,631,normal,field,0,22,0,YK Pathan,KN Ananthapadmanabhan,M Erasmus,,Eden Gardens
+DC,RCB,RCB,610,613,580,692,0.410714286,0.527272727,43,49,-0.155,0.932,959,959,0.36,0.64,away,away,RCB,632,normal,field,0,0,6,V Kohli,A Nand Kishore,BNJ Oxenford,,Shaheed Veer Narayan Singh International Stadium
+GL,RCB,RCB,513,613,500,692,0,0.527272727,23,31,-0.374,0.932,630.5,959,0,0,away,home,RCB,633,normal,field,0,0,4,AB de Villiers,AK Chaudhary,HDPK Dharmasena,,M Chinnaswamy Stadium
+SRH,KKR,KKR,603,610,650,833,0.35,0.53968254,43,46,0.245,0.106,825.5,559,0.3,0.7,away,away,SRH,634,normal,field,0,22,0,MC Henriques,M Erasmus,C ShamshuDCin,,Feroz Shah Kotla
+GL,SRH,SRH,513,603,500,650,0,0.35,38,46,-0.374,0.245,630.5,825.5,0,0,away,away,SRH,635,normal,field,0,0,4,DA Warner,M Erasmus,CK Nandan,,Feroz Shah Kotla
+SRH,RCB,SRH,603,613,650,692,0.35,0.527272727,59,59,0.245,0.932,825.5,959,0.5,0.5,away,home,SRH,636,normal,bat,0,8,0,BCJ Cutting,HDPK Dharmasena,BNJ Oxenford,,M Chinnaswamy Stadium
+SRH,RCB,RCB,765,477,682,852,0.466666667,0.540983607,59,54,0.599,-1.299,688,464,0.56,0.44,home,away,SRH,1,normal,field,0,35,0,Yuvraj Singh,AY Dandekar,NJ Llong,,"Rajiv Gandhi International Stadium, Uppal"
+MI,RPS,RPS,697,477,644,707,0.554054054,0,61,59,0.784,0.176,592.5,0,0.5,0.5,away,away,RPS,2,normal,field,0,0,7,SPD Smith,A Nand Kishore,S Ravi,,Maharashtra Cricket Association Stadium
+GL,KKR,KKR,650,623,518,560,0.75,0.550724638,52,73,-0.412,0.642,481,691,1,0,away,away,KKR,3,normal,field,0,0,10,CA Lynn,Nitin Menon,CK Nandan,,Saurashtra Cricket Association Stadium
+RPS,KXIP,KXIP,477,637,707,580,0,0.40625,35,56,0.176,-0.009,0,618.5,0.5,0.5,away,home,KXIP,4,normal,field,0,0,6,GJ Maxwell,AK Chaudhary,C ShamshuDCin,,Holkar Cricket Stadium
+RCB,DC,RCB,477,623,852,452,0.540983607,0.4375,41,43,-1.299,-0.512,464,464,0.625,0.375,home,away,RCB,5,normal,bat,0,15,0,KM Jadhav,,,,M Chinnaswamy Stadium
+GL,SRH,SRH,650,765,518,682,0.75,0.466666667,40,59,-0.412,0.599,481,688,0,1,away,home,SRH,6,normal,field,0,0,9,Rashid Khan,A Deshmukh,NJ Llong,,"Rajiv Gandhi International Stadium, Uppal"
+KKR,MI,MI,623,697,560,644,0.550724638,0.554054054,59,49,0.642,0.784,691,592.5,0.28,0.72,away,home,MI,7,normal,field,0,0,4,N Rana,Nitin Menon,CK Nandan,,Wankhede Stadium
+RCB,KXIP,RCB,477,637,852,580,0.540983607,0.40625,23,62,-1.299,-0.009,464,618.5,0.44,0.56,away,home,KXIP,8,normal,bat,0,0,8,AR Patel,AK Chaudhary,C ShamshuDCin,,Holkar Cricket Stadium
+DC,RPS,RPS,623,477,452,707,0.4375,0,62,50,-0.512,0.176,464,0,0,1,away,away,DC,9,normal,field,0,97,0,SV Samson,AY Dandekar,S Ravi,,Maharashtra Cricket Association Stadium
+SRH,MI,MI,765,697,682,644,0.466666667,0.554054054,34,61,0.599,0.784,688,592.5,0.5,0.5,away,home,MI,10,normal,field,0,0,4,JJ Bumrah,Nitin Menon,CK Nandan,,Wankhede Stadium
+KXIP,KKR,KKR,637,623,580,560,0.40625,0.550724638,57,76,-0.009,0.642,618.5,691,0.32,0.68,away,home,KKR,11,normal,field,0,0,8,SP Narine,A Deshmukh,NJ Llong,,Eden Gardens
+RCB,MI,MI,477,697,852,644,0.540983607,0.554054054,41,21,-1.299,0.784,464,592.5,0.42,0.58,home,away,MI,12,normal,field,0,0,4,KA Pollard,KN Ananthapadmanabhan,AK Chaudhary,,M Chinnaswamy Stadium
+RPS,GL,GL,477,650,707,518,0,0.75,64,61,0.176,-0.412,0,481,0,1,away,away,GL,13,normal,field,0,0,7,AJ Tye,A Nand Kishore,S Ravi,,Saurashtra Cricket Association Stadium
+KKR,SRH,SRH,623,765,560,682,0.550724638,0.466666667,40,45,0.642,0.599,691,688,0.67,0.33,home,away,KKR,14,normal,field,0,17,0,RV Uthappa,AY Dandekar,NJ Llong,,Eden Gardens
+DC,KXIP,DC,623,637,452,580,0.4375,0.40625,49,40,-0.512,-0.009,464,618.5,0.44,0.56,away,away,DC,15,normal,bat,0,51,0,CJ Anderson,YC Barde,Nitin Menon,,Feroz Shah Kotla
+GL,MI,MI,650,697,518,644,0.75,0.554054054,46,56,-0.412,0.784,481,592.5,1,0,away,home,MI,16,normal,field,0,0,6,N Rana,A Nand Kishore,S Ravi,,Wankhede Stadium
+RPS,RCB,RCB,477,477,707,852,0,0.540983607,55,42,0.176,-1.299,0,464,0,1,away,home,RPS,17,normal,field,0,27,0,BA Stokes,KN Ananthapadmanabhan,C ShamshuDCin,,M Chinnaswamy Stadium
+DC,KKR,DC,623,623,452,560,0.4375,0.550724638,53,49,-0.512,0.642,464,691,0.41,0.59,away,away,KKR,18,normal,bat,0,0,4,NM Coulter-Nile,Nitin Menon,CK Nandan,,Feroz Shah Kotla
+SRH,KXIP,KXIP,765,637,682,580,0.466666667,0.40625,29,51,0.599,-0.009,688,618.5,0.75,0.25,home,away,SRH,19,normal,field,0,5,0,B Kumar,AY Dandekar,A Deshmukh,,"Rajiv Gandhi International Stadium, Uppal"
+RCB,GL,GL,477,650,852,518,0.540983607,0.75,45,57,-1.299,-0.412,464,481,0.67,0.33,away,away,RCB,20,normal,field,0,21,0,CH Gayle,S Ravi,VK Sharma,,Saurashtra Cricket Association Stadium
+SRH,DC,SRH,765,623,682,452,0.466666667,0.4375,39,56,0.599,-0.512,688,464,0.625,0.375,home,away,SRH,21,normal,bat,0,15,0,KS Williamson,CB Gaffaney,NJ Llong,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,MI,MI,637,697,580,644,0.40625,0.554054054,46,82,-0.009,0.784,618.5,592.5,0.5,0.5,home,away,MI,22,normal,field,0,0,8,JC Buttler,M Erasmus,C ShamshuDCin,,Holkar Cricket Stadium
+KKR,GL,GL,623,650,560,518,0.550724638,0.75,65,72,0.642,-0.412,691,481,0,1,home,away,GL,23,normal,field,0,0,4,SK Raina,CB Gaffaney,Nitin Menon,,Eden Gardens
+MI,DC,DC,697,623,644,452,0.554054054,0.4375,48,23,0.784,-0.512,592.5,464,0.5,0.5,home,away,MI,24,normal,field,0,14,0,MJ McClenaghan,A Nand Kishore,S Ravi,,Wankhede Stadium
+SRH,RPS,RPS,765,477,682,707,0.466666667,0,45,55,0.599,0.176,688,0,0.5,0.5,away,away,RPS,25,normal,field,0,0,6,MS Dhoni,AY Dandekar,A Deshmukh,,Maharashtra Cricket Association Stadium
+KXIP,GL,GL,637,650,580,518,0.40625,0.75,50,50,-0.009,-0.412,618.5,481,0.5,0.5,away,away,KXIP,26,normal,field,0,26,0,HM Amla,AK Chaudhary,M Erasmus,,Saurashtra Cricket Association Stadium
+KKR,RCB,RCB,623,477,560,852,0.550724638,0.540983607,65,39,0.642,-1.299,691,464,0.5,0.5,home,away,KKR,27,normal,field,0,82,0,NM Coulter-Nile,CB Gaffaney,CK Nandan,,Eden Gardens
+RPS,MI,MI,477,697,707,644,0,0.554054054,48,44,0.176,0.784,0,592.5,0.5,0.5,away,home,RPS,28,normal,field,0,3,0,BA Stokes,A Nand Kishore,S Ravi,,Wankhede Stadium
+RPS,KKR,KKR,477,623,707,560,0,0.550724638,57,45,0.176,0.642,0,691,0,1,away,away,KKR,29,normal,field,0,0,7,RV Uthappa,AY Dandekar,NJ Llong,,Maharashtra Cricket Association Stadium
+RCB,GL,GL,477,650,852,518,0.540983607,0.75,35,49,-1.299,-0.412,464,481,0.67,0.33,home,away,GL,30,normal,field,0,0,7,AJ Tye,AK Chaudhary,C ShamshuDCin,,M Chinnaswamy Stadium
+DC,KKR,KKR,623,623,452,560,0.4375,0.550724638,53,47,-0.512,0.642,464,691,0.41,0.59,away,home,KKR,31,normal,field,0,0,7,G Gambhir,NJ Llong,S Ravi,,Eden Gardens
+SRH,KXIP,KXIP,765,637,682,580,0.466666667,0.40625,60,59,0.599,-0.009,688,618.5,0.75,0.25,away,away,SRH,32,normal,field,0,26,0,Rashid Khan,Nitin Menon,CK Nandan,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+RPS,RCB,RCB,477,477,707,852,0,0.540983607,43,39,0.176,-1.299,0,464,0,1,away,away,RPS,33,normal,field,0,61,0,LH Ferguson,KN Ananthapadmanabhan,M Erasmus,,Maharashtra Cricket Association Stadium
+GL,MI,GL,650,697,518,644,0.75,0.554054054,48,61,-0.412,0.784,481,592.5,1,0,away,away,MI,34,tie,bat,0,0,0,KH Pandya,AK Chaudhary,CB Gaffaney,,Saurashtra Cricket Association Stadium
+DC,KXIP,KXIP,623,637,452,580,0.4375,0.40625,25,50,-0.512,-0.009,464,618.5,0.44,0.56,away,away,KXIP,35,normal,field,0,0,10,Sandeep Sharma,YC Barde,CK Nandan,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+SRH,KKR,KKR,765,623,682,560,0.466666667,0.550724638,79,44,0.599,0.642,688,691,0.33,0.67,home,away,SRH,36,normal,field,0,48,0,DA Warner,AY Dandekar,S Ravi,,"Rajiv Gandhi International Stadium, Uppal"
+RCB,MI,RCB,477,697,852,644,0.540983607,0.554054054,52,55,-1.299,0.784,464,592.5,0.42,0.58,away,home,MI,37,normal,bat,0,0,5,RG Sharma,AK Chaudhary,CB Gaffaney,,Wankhede Stadium
+GL,RPS,RPS,650,477,518,707,0.75,0,55,43,-0.412,0.176,481,0,1,0,away,away,RPS,38,normal,field,0,0,5,BA Stokes,M Erasmus,C ShamshuDCin,,Maharashtra Cricket Association Stadium
+SRH,DC,DC,765,623,682,452,0.466666667,0.4375,66,62,0.599,-0.512,688,464,0.625,0.375,away,away,DC,39,normal,field,0,0,6,Mohammed Shami,YC Barde,Nitin Menon,,Feroz Shah Kotla
+KKR,RPS,RPS,623,477,560,707,0.550724638,0,41,74,0.642,0.176,691,0,1,0,home,away,RPS,40,normal,field,0,0,4,RA Tripathi,KN Ananthapadmanabhan,A Nand Kishore,,Eden Gardens
+GL,DC,DC,650,623,518,452,0.75,0.4375,58,63,-0.412,-0.512,481,464,0.5,0.5,away,away,DC,41,normal,field,0,0,7,RR Pant,M Erasmus,Nitin Menon,,Feroz Shah Kotla
+KXIP,RCB,RCB,637,477,580,852,0.40625,0.540983607,35,46,-0.009,-1.299,618.5,464,0.56,0.44,away,home,KXIP,42,normal,field,0,19,0,Sandeep Sharma,CB Gaffaney,C ShamshuDCin,,M Chinnaswamy Stadium
+RPS,SRH,SRH,477,765,707,682,0,0.466666667,35,47,0.176,0.599,0,688,0.5,0.5,away,home,RPS,43,normal,field,0,12,0,JD Unadkat,KN Ananthapadmanabhan,AK Chaudhary,,"Rajiv Gandhi International Stadium, Uppal"
+MI,DC,DC,697,623,644,452,0.554054054,0.4375,60,35,0.784,-0.512,592.5,464,0.5,0.5,away,away,MI,44,normal,field,0,146,0,LMP Simmons,Nitin Menon,CK Nandan,,Feroz Shah Kotla
+RCB,KKR,KKR,477,623,852,560,0.540983607,0.550724638,40,105,-1.299,0.642,464,691,0.5,0.5,home,away,KKR,45,normal,field,0,0,6,SP Narine,AY Dandekar,C ShamshuDCin,,M Chinnaswamy Stadium
+KXIP,GL,GL,637,650,580,518,0.40625,0.75,44,58,-0.009,-0.412,618.5,481,0.5,0.5,away,away,GL,46,normal,field,0,0,6,DR Smith,A Nand Kishore,VK Sharma,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+MI,SRH,MI,697,765,644,682,0.554054054,0.466666667,36,43,0.784,0.599,592.5,688,0.5,0.5,away,home,SRH,47,normal,bat,0,0,7,S Dhawan,KN Ananthapadmanabhan,M Erasmus,,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,KKR,KKR,637,623,580,560,0.40625,0.550724638,41,61,-0.009,0.642,618.5,691,0.32,0.68,away,away,KXIP,48,normal,field,0,14,0,MM Sharma,A Nand Kishore,S Ravi,,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+GL,DC,DC,650,623,518,452,0.75,0.4375,50,64,-0.412,-0.512,481,464,0.5,0.5,away,away,DC,49,normal,field,0,0,2,SS Iyer,YC Barde,AK Chaudhary,,Green Park
+KXIP,MI,MI,637,697,580,644,0.40625,0.554054054,71,68,-0.009,0.784,618.5,592.5,0.5,0.5,away,home,KXIP,50,normal,field,0,7,0,WP Saha,A Deshmukh,A Nand Kishore,,Wankhede Stadium
+DC,RPS,DC,623,477,452,707,0.4375,0,54,53,-0.512,0.176,464,0,0,1,away,away,DC,51,normal,bat,0,7,0,KK Nair,KN Ananthapadmanabhan,CK Nandan,,Feroz Shah Kotla
+GL,SRH,SRH,650,765,518,682,0.75,0.466666667,61,47,-0.412,0.599,481,688,0,1,away,away,SRH,52,normal,field,0,0,8,Mohammed Siraj,AK Chaudhary,Nitin Menon,,Green Park
+MI,KKR,KKR,697,623,644,560,0.554054054,0.550724638,51,53,0.784,0.642,592.5,691,0.72,0.28,away,home,MI,53,normal,field,0,9,0,AT Rayudu,A Nand Kishore,S Ravi,,Eden Gardens
+KXIP,RPS,RPS,637,477,580,707,0.40625,0,32,43,-0.009,0.176,618.5,0,0.5,0.5,away,away,RPS,54,normal,field,0,0,9,JD Unadkat,AY Dandekar,A Deshmukh,,Maharashtra Cricket Association Stadium
+RCB,DC,RCB,477,623,852,452,0.540983607,0.4375,37,42,-1.299,-0.512,464,464,0.625,0.375,away,away,RCB,55,normal,bat,0,10,0,HV Patel,CK Nandan,C ShamshuDCin,,Feroz Shah Kotla
+RPS,MI,MI,477,697,707,644,0,0.554054054,33,42,0.176,0.784,0,592.5,0.5,0.5,away,home,RPS,56,normal,field,0,20,0,Washington Sundar,S Ravi,C ShamshuDCin,,Wankhede Stadium
+SRH,KKR,KKR,765,623,682,560,0.466666667,0.550724638,30,48,0.599,0.642,688,691,0.33,0.67,away,away,KKR,57,normal,field,1,0,7,NM Coulter-Nile,AK Chaudhary,Nitin Menon,,M Chinnaswamy Stadium
+KKR,MI,MI,623,697,560,644,0.550724638,0.554054054,25,36,0.642,0.784,691,592.5,0.28,0.72,away,away,MI,58,normal,field,0,0,6,KV Sharma,NJ Llong,Nitin Menon,,M Chinnaswamy Stadium
+MI,RPS,MI,697,477,644,707,0.554054054,0,32,38,0.784,0.176,592.5,0,0.5,0.5,away,away,MI,59,normal,bat,0,1,0,KH Pandya,NJ Llong,S Ravi,,"Rajiv Gandhi International Stadium, Uppal"
+MI,CSK,CSK,590,648,475,667,0.564705882,0.636363636,40,42,0.317,0.253,737.5,791,0.56,0.44,home,away,CSK,7894,normal,field,0,0,1,DJ Bravo,Chris Gaffaney,A Nanda Kishore,Anil Chaudhary,Wankhede Stadium
+DC,KXIP,KXIP,497,572,696,446,0.458333333,0.411764706,48,73,-0.22,-0.502,653.5,700,0.45,0.55,away,home,KXIP,7895,normal,field,0,0,6,KL Rahul,Rod Tucker,K Ananthapadmanabhan,Nitin Menon,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+RCB,KKR,KKR,722,497,611,657,0.5,0.564102564,57,71,0.129,-0.07,653.5,895.5,0.45,0.55,away,home,KKR,7896,normal,field,0,0,4,SP Narine,C ShamshuDCin,A.D Deshmukh,S Ravi,Eden Gardens
+RR,SRH,SRH,549,621,637,690,0.53968254,0.485714286,51,60,-0.25,0.284,609.5,794,0.57,0.43,away,home,SRH,7897,normal,field,0,0,9,S Dhawan,Nigel Llong,Vineet Kulkarni,O Nandan,"Rajiv Gandhi International Stadium, Uppal"
+KKR,CSK,CSK,497,648,657,667,0.564102564,0.636363636,65,75,-0.07,0.253,895.5,791,0.375,0.625,away,home,CSK,7898,normal,field,0,0,5,SW Billings,Anil Chaudhary,Chris Gaffaney,A Nanda Kishore,"MA Chidambaram Stadium, Chepauk"
+RR,DC,DC,549,497,637,696,0.53968254,0.458333333,51,63,-0.25,-0.22,609.5,653.5,0.625,0.375,home,away,RR,7899,normal,field,1,10,0,SV Samson,K Ananthapadmanabhan,Rod Tucker,Nitin Menon,Sawai Mansingh Stadium
+MI,SRH,SRH,590,621,475,690,0.564705882,0.485714286,59,57,0.317,0.284,737.5,794,0.5,0.5,away,home,SRH,7900,normal,field,0,0,1,Rashid Khan,O Nandan,Nigel Llong,Vineet Kulkarni,"Rajiv Gandhi International Stadium, Uppal"
+KXIP,RCB,RCB,572,722,446,611,0.411764706,0.5,51,42,-0.502,0.129,700,653.5,0.65,0.35,away,away,RCB,7901,normal,field,0,0,4,UT Yadav,S Ravi,A.D Deshmukh,C ShamshuDCin,M Chinnaswamy Stadium
+MI,DC,DC,590,497,475,696,0.564705882,0.458333333,90,53,0.317,-0.22,737.5,653.5,0.55,0.45,home,away,DC,7902,normal,field,0,0,7,JJ Roy,K Ananthapadmanabhan,Nitin Menon,Rod Tucker,Wankhede Stadium
+KKR,SRH,SRH,497,621,657,690,0.564102564,0.485714286,49,50,-0.07,0.284,895.5,794,0.67,0.33,home,away,SRH,7903,normal,field,0,0,5,B Stanlake,A Nanda Kishore,Anil Chaudhary,Chris Gaffaney,Eden Gardens
+RR,RCB,RCB,549,722,637,611,0.53968254,0.5,56,65,-0.25,0.129,609.5,653.5,0.47,0.53,away,away,RR,7904,normal,field,0,19,0,SV Samson,C ShamshuDCin,S Ravi,A.D Deshmukh,M Chinnaswamy Stadium
+KXIP,CSK,CSK,572,648,446,667,0.411764706,0.636363636,76,58,-0.502,0.253,700,791,0.41,0.59,home,away,KXIP,7905,normal,field,0,4,0,CH Gayle,Vineet Kulkarni,O Nandan,Nigel Llong,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+KKR,DC,DC,497,497,657,696,0.564102564,0.458333333,50,62,-0.07,-0.22,895.5,653.5,0.63,0.37,home,away,KKR,7906,normal,field,0,71,0,N Rana,Anil Chaudhary,A Nanda Kishore,Chris Gaffaney,Eden Gardens
+MI,RCB,RCB,590,722,475,611,0.564705882,0.5,71,57,0.317,0.129,737.5,653.5,0.62,0.38,home,away,MI,7907,normal,field,0,46,0,RG Sharma,Rod Tucker,Nitin Menon,K Ananthapadmanabhan,Wankhede Stadium
+RR,KKR,KKR,549,497,637,657,0.53968254,0.564102564,49,53,-0.25,-0.07,609.5,895.5,0.6,0.4,home,away,KKR,7908,normal,field,0,0,7,N Rana,S Ravi,A.D Deshmukh,C ShamshuDCin,Sawai Mansingh Stadium
+KXIP,SRH,KXIP,572,621,446,690,0.411764706,0.485714286,53,42,-0.502,0.284,700,794,0.2,0.8,home,away,KXIP,7909,normal,bat,0,15,0,CH Gayle,Nigel Llong,Anil Chaudhary,Vineet Kulkarni,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+CSK,RR,RR,648,549,667,637,0.636363636,0.53968254,70,37,0.253,-0.25,791,609.5,0.65,0.35,home,away,CSK,7910,normal,field,0,64,0,SR Watson,Nitin Menon,K Ananthapadmanabhan,Rod Tucker,Maharashtra Cricket Association Stadium
+KKR,KXIP,KXIP,497,572,657,446,0.564102564,0.411764706,53,74,-0.07,-0.502,895.5,700,0.7,0.3,home,away,KXIP,7911,normal,field,1,0,9,KL Rahul,C ShamshuDCin,A.D Deshmukh,S Ravi,Eden Gardens
+DC,RCB,RCB,497,722,696,611,0.458333333,0.5,31,44,-0.22,0.129,653.5,653.5,0.33,0.67,away,away,RCB,7912,normal,field,0,0,6,AB de Villiers,Chris Gaffaney,O Nandan,A Nanda Kishore,M Chinnaswamy Stadium
+CSK,SRH,SRH,648,621,667,690,0.636363636,0.485714286,28,41,0.253,0.284,791,794,0.67,0.33,away,home,CSK,7913,normal,field,0,4,0,AT Rayudu,Anil Chaudhary,Vineet Kulkarni,Nigel Llong,"Rajiv Gandhi International Stadium, Uppal"
+MI,RR,MI,590,549,475,637,0.564705882,0.53968254,44,44,0.317,-0.25,737.5,609.5,0.625,0.375,away,home,RR,7914,normal,bat,0,0,3,J Archer,Rod Tucker,K Ananthapadmanabhan,Nitin Menon,Sawai Mansingh Stadium
+KXIP,DC,DC,572,497,446,696,0.411764706,0.458333333,52,52,-0.502,-0.22,700,653.5,0.55,0.45,away,away,KXIP,7915,normal,field,0,4,0,AS Rajpoot,O Nandan,A Nanda Kishore,Chris Gaffaney,Feroz Shah Kotla
+SRH,MI,MI,621,590,690,475,0.485714286,0.564705882,61,23,0.284,0.317,794,737.5,0.5,0.5,away,home,SRH,7916,normal,field,0,31,0,Rashid Khan,C ShamshuDCin,S Ravi,A.D Deshmukh,Wankhede Stadium
+RCB,CSK,CSK,722,648,611,667,0.5,0.636363636,52,56,0.129,0.253,653.5,791,0.37,0.63,away,away,CSK,7917,normal,field,0,0,5,MS Dhoni,Nigel Llong,Virender Kumar Sharma,Anil Chaudhary,M Chinnaswamy Stadium
+SRH,KXIP,KXIP,621,572,690,446,0.485714286,0.411764706,39,44,0.284,-0.502,794,700,0.8,0.2,home,away,SRH,7918,normal,field,0,13,0,AS Rajpoot,O Nandan,Yeshwant Barde,Rod Tucker,"Rajiv Gandhi International Stadium, Uppal"
+DC,KKR,KKR,497,497,696,657,0.458333333,0.564102564,57,51,-0.22,-0.07,653.5,895.5,0.37,0.63,away,away,DC,7919,normal,field,0,55,0,SS Iyer,C ShamshuDCin,S Ravi,A Nanda Kishore,Feroz Shah Kotla
+CSK,MI,MI,648,590,667,475,0.636363636,0.564705882,52,52,0.253,0.317,791,737.5,0.44,0.56,home,away,MI,7920,normal,field,0,0,8,RG Sharma,Chris Gaffaney,Nitin Menon,Anil Dandekar,Maharashtra Cricket Association Stadium
+SRH,RR,SRH,621,549,690,637,0.485714286,0.53968254,39,43,0.284,-0.25,794,609.5,0.43,0.57,away,home,SRH,7921,normal,bat,0,11,0,KS Williamson,Bruce Oxenford,A Nanda Kishore,S Ravi,Sawai Mansingh Stadium
+RCB,KKR,KKR,722,497,611,657,0.5,0.564102564,43,53,0.129,-0.07,653.5,895.5,0.45,0.55,away,away,KKR,7922,normal,field,0,0,6,CA Lynn,Nigel Llong,Anil Chaudhary,Virender Kumar Sharma,M Chinnaswamy Stadium
+CSK,DC,DC,648,497,667,696,0.636363636,0.458333333,57,60,0.253,-0.22,791,653.5,0.69,0.31,home,away,CSK,7923,normal,field,0,13,0,SR Watson,C ShamshuDCin,Anil Dandekar,O Nandan,Maharashtra Cricket Association Stadium
+RCB,MI,MI,722,590,611,475,0.5,0.564705882,44,46,0.129,0.317,653.5,737.5,0.38,0.62,away,away,RCB,7924,normal,field,0,14,0,TG Southee,Marais Erasmus,Nitin Menon,Yeshwant Barde,M Chinnaswamy Stadium
+DC,RR,RR,497,549,696,637,0.458333333,0.53968254,62,81,-0.22,-0.25,653.5,609.5,0.375,0.625,away,away,DC,7925,normal,field,1,4,0,RR Pant,O Nandan,Virender Kumar Sharma,Bruce Oxenford,Feroz Shah Kotla
+CSK,KKR,KKR,648,497,667,657,0.636363636,0.564102564,57,58,0.253,-0.07,791,895.5,0.625,0.375,away,home,KKR,7926,normal,field,0,0,6,SP Narine,Kumar Dharmasena,A.D Deshmukh,Anil Chaudhary,Eden Gardens
+KXIP,MI,MI,572,590,446,475,0.411764706,0.564705882,51,40,-0.502,0.317,700,737.5,0.5,0.5,home,away,MI,7927,normal,field,0,0,6,AS Yadav,S Ravi,Anil Dandekar,C ShamshuDCin,Holkar Cricket Stadium
+RCB,CSK,CSK,722,648,611,667,0.5,0.636363636,50,43,0.129,0.253,653.5,791,0.37,0.63,away,home,CSK,7928,normal,field,0,0,6,RA Jadeja,Nitin Menon,Yeshwant Barde,Marais Erasmus,Maharashtra Cricket Association Stadium
+DC,SRH,DC,497,621,696,690,0.458333333,0.485714286,61,64,-0.22,0.284,653.5,794,0.4,0.6,away,home,SRH,7929,normal,bat,0,0,7,Rashid Khan,Bruce Oxenford,O Nandan,Virender Kumar Sharma,"Rajiv Gandhi International Stadium, Uppal"
+MI,KKR,KKR,590,497,475,657,0.564705882,0.564102564,56,52,0.317,-0.07,737.5,895.5,0.76,0.24,home,away,MI,7930,normal,field,0,13,0,HH Pandya,Kumar Dharmasena,A.D Deshmukh,Anil Chaudhary,Wankhede Stadium
+RR,KXIP,KXIP,549,572,637,446,0.53968254,0.411764706,51,36,-0.25,-0.502,609.5,700,0.6,0.4,away,home,KXIP,7931,normal,field,0,0,6,M Ur Rahman,C ShamshuDCin,S Ravi,Anil Dandekar,Holkar Cricket Stadium
+SRH,RCB,RCB,621,722,690,611,0.485714286,0.5,41,56,0.284,0.129,794,653.5,0.6,0.4,home,away,SRH,7932,normal,field,0,5,0,KS Williamson,Bruce Oxenford,Virender Kumar Sharma,O Nandan,"Rajiv Gandhi International Stadium, Uppal"
+RR,KXIP,RR,549,572,637,446,0.53968254,0.411764706,64,33,-0.25,-0.502,609.5,700,0.6,0.4,home,away,RR,7933,normal,bat,0,15,0,JC Buttler,Marais Erasmus,Nitin Menon,Yeshwant Barde,Sawai Mansingh Stadium
+MI,KKR,KKR,590,497,475,657,0.564705882,0.564102564,47,47,0.317,-0.07,737.5,895.5,0.76,0.24,away,home,MI,7934,normal,field,0,102,0,Ishan Kishan,Anil Chaudhary,K Ananthapadmanabhan,Kumar Dharmasena,Eden Gardens
+DC,SRH,DC,497,621,696,690,0.458333333,0.485714286,39,52,-0.22,0.284,653.5,794,0.4,0.6,away,away,SRH,7935,normal,bat,0,0,9,S Dhawan,C ShamshuDCin,Anil Dandekar,S Ravi,Feroz Shah Kotla
+CSK,RR,CSK,648,549,667,637,0.636363636,0.53968254,59,58,0.253,-0.25,791,609.5,0.65,0.35,away,home,RR,7936,normal,bat,0,0,4,JC Buttler,Marais Erasmus,Yeshwant Barde,Nitin Menon,Sawai Mansingh Stadium
+KKR,KXIP,KXIP,497,572,657,446,0.564102564,0.411764706,59,59,-0.07,-0.502,895.5,700,0.7,0.3,away,home,KKR,7937,normal,field,0,31,0,SP Narine,O Nandan,Virender Kumar Sharma,Bruce Oxenford,Holkar Cricket Stadium
+DC,RCB,RCB,497,722,696,611,0.458333333,0.5,47,63,-0.22,0.129,653.5,653.5,0.33,0.67,away,away,RCB,7938,normal,field,0,0,5,AB de Villiers,Kumar Dharmasena,Anil Chaudhary,K Ananthapadmanabhan,Feroz Shah Kotla
+SRH,CSK,CSK,621,648,690,667,0.485714286,0.636363636,32,53,0.284,0.253,794,791,0.33,0.67,away,home,CSK,7939,normal,field,0,0,8,AT Rayudu,Marais Erasmus,Yeshwant Barde,Anil Dandekar,Maharashtra Cricket Association Stadium
+MI,RR,RR,590,549,475,637,0.564705882,0.53968254,54,59,0.317,-0.25,737.5,609.5,0.625,0.375,home,away,RR,7940,normal,field,0,0,7,JC Buttler,Nitin Menon,S Ravi,C ShamshuDCin,Wankhede Stadium
+KXIP,RCB,RCB,572,722,446,611,0.411764706,0.5,48,68,-0.502,0.129,700,653.5,0.65,0.35,home,away,RCB,7941,normal,field,0,0,10,UT Yadav,Bruce Oxenford,Virender Kumar Sharma,O Nandan,Holkar Cricket Stadium
+RR,KKR,KKR,549,497,637,657,0.53968254,0.564102564,69,52,-0.25,-0.07,609.5,895.5,0.6,0.4,away,home,KKR,7942,normal,field,0,0,6,Kuldeep Yadav,Kumar Dharmasena,Anil Chaudhary,Vineet Kulkarni,Eden Gardens
+MI,KXIP,KXIP,590,572,475,446,0.564705882,0.411764706,63,58,0.317,-0.502,737.5,700,0.5,0.5,home,away,MI,7943,normal,field,0,3,0,JJ Bumrah,Marais Erasmus,Nitin Menon,Yeshwant Barde,Wankhede Stadium
+RCB,SRH,SRH,722,621,611,690,0.5,0.485714286,44,56,0.129,0.284,653.5,794,0.4,0.6,away,away,RCB,7944,normal,field,0,14,0,AB de Villiers,S Ravi,Anil Dandekar,C ShamshuDCin,M Chinnaswamy Stadium
+DC,CSK,CSK,497,648,696,667,0.458333333,0.636363636,43,45,-0.22,0.253,653.5,791,0.31,0.69,away,away,DC,7945,normal,field,0,34,0,HV Patel,Kumar Dharmasena,Vineet Kulkarni,O Nandan,Feroz Shah Kotla
+RR,RCB,RR,549,722,637,611,0.53968254,0.5,50,56,-0.25,0.129,609.5,653.5,0.47,0.53,home,away,RR,7946,normal,bat,0,30,0,S Gopal,Bruce Oxenford,Virender Kumar Sharma,C ShamshuDCin,Sawai Mansingh Stadium
+SRH,KKR,SRH,621,497,690,657,0.485714286,0.564102564,68,70,0.284,-0.07,794,895.5,0.33,0.67,home,away,KKR,7947,normal,bat,0,0,5,CA Lynn,Anil Chaudhary,S Ravi,Anil Dandekar,"Rajiv Gandhi International Stadium, Uppal"
+DC,MI,DC,497,590,696,475,0.458333333,0.564705882,49,59,-0.22,0.317,653.5,737.5,0.45,0.55,away,away,DC,7948,normal,bat,0,11,0,A Mishra,Kumar Dharmasena,O Nandan,Vineet Kulkarni,Feroz Shah Kotla
+KXIP,CSK,CSK,572,648,446,667,0.411764706,0.636363636,32,35,-0.502,0.253,700,791,0.41,0.59,away,home,CSK,7949,normal,field,0,0,5,L Ngidi,Nitin Menon,Yeshwant Barde,Marais Erasmus,Maharashtra Cricket Association Stadium
+SRH,CSK,CSK,621,648,690,667,0.485714286,0.636363636,47,34,0.284,0.253,794,791,0.33,0.67,away,away,CSK,7950,normal,field,0,0,2,F du Plessis,Marais Erasmus,C ShamshuDCin,S Ravi,Wankhede Stadium
+KKR,RR,RR,497,549,657,637,0.564102564,0.53968254,53,52,-0.07,-0.25,895.5,609.5,0.4,0.6,home,away,KKR,7951,normal,field,0,25,0,AD Russell,Nitin Menon,Anil Chaudhary,Kumar Dharmasena,Eden Gardens
+SRH,KKR,KKR,621,497,690,657,0.485714286,0.564102564,47,69,0.284,-0.07,794,895.5,0.33,0.67,away,home,SRH,7952,normal,field,0,14,0,Rashid Khan,Nitin Menon,Kumar Dharmasena,Anil Chaudhary,Eden Gardens
+SRH,CSK,CSK,621,648,690,667,0.485714286,0.636363636,45,37,0.284,0.253,794,791,0.33,0.67,away,away,CSK,7953,normal,field,0,0,8,SR Watson,Marais Erasmus,S Ravi,Nitin Menon,Wankhede Stadium
+RCB,CSK,CSK,641,658,569,700,0.506493506,0.649350649,35,17,-0.607,0.131,560.5,764,0.33,0.67,away,home,CSK,11137,normal,field,0,0,7,Harbhajan Singh,Bruce Oxenford,Anil Dandekar,Nitin Menon,M. A. Chidambaram Stadium
+SRH,KKR,KKR,610,589,661,406,0.5,0.563218391,58,47,0.577,0.028,694.5,756,0.4,0.6,away,home,KKR,11138,normal,field,0,0,6,AD Russell,Chris Gaffaney,Anil Chaudhary,Vineet Kulkarni,Eden Gardens
+DC,MI,MI,537,616,810,759,0,0.555555556,47,48,0.044,0.421,677,830,0.5,0.5,away,home,DC,11139,normal,field,0,37,0,RR Pant,S Ravi,Yeshwant Barde,O Nandan,Wankhede Stadium
+KXIP,RR,RR,656,743,446,608,0.426666667,0.536231884,35,64,-0.251,-0.449,657,568,0.41,0.59,away,home,KXIP,11140,normal,field,0,14,0,CH Gayle,C ShamshuDCin,KN Anantapadmanabhan,Bruce Oxenford,Sawai Mansingh Stadium
+DC,CSK,DC,537,658,810,700,0,0.649350649,45,62,0.044,0.131,677,764,0.33,0.67,away,away,CSK,11141,normal,bat,0,0,6,SR Watson,Marais Erasmus,Nitin Menon,Anil Dandekar,Feroz Shah Kotla Ground
+KKR,KXIP,KXIP,589,656,406,446,0.563218391,0.426666667,54,53,0.028,-0.251,756,657,0.65,0.35,home,away,KKR,11142,normal,field,0,28,0,AD Russell,Anil Chaudhary,Vineet Kulkarni,Chris Gaffaney,Eden Gardens
+MI,RCB,RCB,616,641,759,569,0.555555556,0.506493506,52,60,0.421,-0.607,830,560.5,0.61,0.39,away,away,MI,11143,normal,field,0,6,0,JJ Bumrah,S Ravi,O Nandan,Yeshwant Barde,M. Chinnaswamy Stadium
+RR,SRH,RR,743,610,608,661,0.536231884,0.5,36,74,-0.449,0.577,568,694.5,0.44,0.56,away,home,SRH,11144,normal,bat,0,0,5,Rashid Khan,Bruce Oxenford,C ShamshuDCin,KN Anantapadmanabhan,Rajiv Gandhi Intl. Cricket Stadium
+MI,KXIP,KXIP,616,656,759,446,0.555555556,0.426666667,66,38,0.421,-0.251,830,657,0.55,0.45,away,home,KXIP,11145,normal,field,0,0,8,MA Agarwal,Vineet Kulkarni,Chris Gaffaney,Anil Chaudhary,IS Bindra Stadium
+KKR,DC,DC,589,537,406,810,0.563218391,0,37,46,0.028,0.044,756,677,0.62,0.38,away,away,DC,11146,tie,field,0,0,0,P Shaw,Anil Dandekar,Nitin Menon,Marais Erasmus,Feroz Shah Kotla Ground
+SRH,RCB,RCB,610,641,661,569,0.5,0.506493506,59,34,0.577,-0.607,694.5,560.5,0.58,0.42,home,away,SRH,11147,normal,field,0,118,0,J Bairstow,S Ravi,KN Anantapadmanabhan,C ShamshuDCin,Rajiv Gandhi Intl. Cricket Stadium
+CSK,RR,RR,658,743,700,608,0.649350649,0.536231884,29,48,0.131,-0.449,764,568,0.63,0.37,home,away,CSK,11148,normal,field,0,8,0,MS Dhoni,O Nandan,Yeshwant Barde,Bruce Oxenford,M. A. Chidambaram Stadium
+KXIP,DC,DC,656,537,446,810,0.426666667,0,54,54,-0.251,0.044,657,677,0.59,0.41,home,away,KXIP,11149,normal,field,0,14,0,S Curran,Anil Chaudhary,Chris Gaffaney,Vineet Kulkarni,IS Bindra Stadium
+RCB,RR,RR,641,743,569,608,0.506493506,0.536231884,51,61,-0.607,-0.449,560.5,568,0.47,0.53,away,home,RR,11150,normal,field,0,0,7,S Gopal,Marais Erasmus,Anil Dandekar,Nitin Menon,Sawai Mansingh Stadium
+MI,CSK,CSK,616,658,759,700,0.555555556,0.649350649,42,36,0.421,0.131,830,764,0.54,0.46,home,away,MI,11151,normal,field,0,37,0,HH Pandya,Bruce Oxenford,Rod Tucker,Yeshwant Barde,Wankhede Stadium
+DC,SRH,SRH,537,610,810,661,0,0.5,37,71,0.044,0.577,677,694.5,0.33,0.67,away,away,SRH,11152,normal,field,0,0,5,J Bairstow,C ShamshuDCin,KN Anantapadmanabhan,S Ravi,Feroz Shah Kotla Ground
+RCB,KKR,KKR,641,589,569,406,0.506493506,0.563218391,53,66,-0.607,0.028,560.5,756,0.41,0.59,away,away,KKR,11153,normal,field,0,0,5,AD Russell,Anil Chaudhary,Chris Gaffaney,O Nandan,M. Chinnaswamy Stadium
+CSK,KXIP,CSK,658,656,700,446,0.649350649,0.426666667,55,47,0.131,-0.251,764,657,0.58,0.42,home,away,CSK,11309,normal,bat,0,22,0,Harbhajan Singh,KN Ananthapadmanabhan,Rod Tucker,C ShamshuDCin,M. A. Chidambaram Stadium
+MI,SRH,SRH,616,610,759,661,0.555555556,0.5,30,41,0.421,0.577,830,694.5,0.42,0.58,away,home,MI,11310,normal,field,0,40,0,A Joseph,Anil Dandekar,Nitin Menon,Marais Erasmus,Rajiv Gandhi Intl. Cricket Stadium
+RCB,DC,DC,641,537,569,810,0.506493506,0,43,60,-0.607,0.044,560.5,677,0.67,0.33,away,away,DC,11311,normal,field,0,0,4,K Rabada,S Ravi,Yeshwant Barde,O Nandan,M. Chinnaswamy Stadium
+RR,KKR,KKR,743,589,608,406,0.536231884,0.563218391,28,67,-0.449,0.028,568,756,0.5,0.5,home,away,KKR,11312,normal,field,0,0,8,H Gurney,Chris Gaffaney,Anil Chaudhary,Bruce Oxenford,Sawai Mansingh Stadium
+SRH,KXIP,KXIP,610,656,661,446,0.5,0.426666667,35,38,0.577,-0.251,694.5,657,0.75,0.25,away,home,KXIP,11313,normal,field,0,0,6,KL Rahul,Marais Erasmus,Anil Dandekar,Nitin Menon,IS Bindra Stadium
+KKR,CSK,CSK,589,658,406,700,0.563218391,0.649350649,33,42,0.028,0.131,756,764,0.39,0.61,away,home,CSK,11314,normal,field,0,0,7,DL Chahar,Rod Tucker,C ShamshuDCin,Ulhas Gandhe,M. A. Chidambaram Stadium
+KXIP,MI,MI,656,616,446,759,0.426666667,0.555555556,50,50,-0.251,0.421,657,830,0.45,0.55,away,home,MI,11315,normal,field,0,0,3,KA Pollard,Yeshwant Barde,S Ravi,O Nandan,Wankhede Stadium
+RR,CSK,CSK,743,658,608,700,0.536231884,0.649350649,60,24,-0.449,0.131,568,764,0.37,0.63,home,away,CSK,11316,normal,field,0,0,4,MS Dhoni,Bruce Oxenford,Ulhas Gandhe,Chris Gaffaney,Sawai Mansingh Stadium
+KKR,DC,DC,589,537,406,810,0.563218391,0,42,57,0.028,0.044,756,677,0.62,0.38,home,away,DC,11317,normal,field,0,0,7,S Dhawan,Yeshwant Barde,O Nandan,Rod Tucker,Eden Gardens
+MI,RR,RR,616,743,759,608,0.555555556,0.536231884,57,60,0.421,-0.449,830,568,0.55,0.45,home,away,RR,11318,normal,field,0,0,4,JC Buttler,Nitin Menon,Nanda Kishore,Marais Erasmus,Wankhede Stadium
+KXIP,RCB,RCB,656,641,446,569,0.426666667,0.506493506,60,63,-0.251,-0.607,657,560.5,0.55,0.45,home,away,RCB,11319,normal,field,0,0,8,AB de Villiers,S Ravi,Ulhas Gandhe,Nigel Llong,IS Bindra Stadium
+KKR,CSK,CSK,589,658,406,700,0.563218391,0.649350649,53,44,0.028,0.131,756,764,0.39,0.61,home,away,CSK,11320,normal,field,0,0,5,Imran Tahir,Rod Tucker,O Nandan,Yeshwant Barde,Eden Gardens
+DC,SRH,SRH,537,610,810,661,0,0.5,53,41,0.044,0.577,677,694.5,0.33,0.67,away,home,DC,11321,normal,field,0,39,0,K Paul,Anil Chaudhary,Bruce Oxenford,Chris Gaffaney,Rajiv Gandhi Intl. Cricket Stadium
+RCB,MI,MI,641,616,569,759,0.506493506,0.555555556,50,69,-0.607,0.421,560.5,830,0.39,0.61,away,home,MI,11322,normal,field,0,0,5,SL Malinga,Marais Erasmus,Nitin Menon,Nanda Kishore,Wankhede Stadium
+KXIP,RR,RR,656,743,446,608,0.426666667,0.536231884,43,62,-0.251,-0.449,657,568,0.41,0.59,home,away,KXIP,11323,normal,field,0,12,0,R Ashwin,Anil Chaudhary,Vineet Kulkarni,S Ravi,IS Bindra Stadium
+CSK,SRH,CSK,658,610,700,661,0.649350649,0.5,44,69,0.131,0.577,764,694.5,0.8,0.2,away,home,SRH,11324,normal,bat,0,0,6,DA Warner,Ian Gould,Ulhas Gandhe,C ShamshuDCin,Rajiv Gandhi Intl. Cricket Stadium
+MI,DC,MI,616,537,759,810,0.555555556,0,59,48,0.421,0.044,830,677,0.5,0.5,away,away,MI,11325,normal,bat,0,40,0,HH Pandya,Nigel Llong,Bruce Oxenford,Anil Chaudhary,Feroz Shah Kotla Ground
+RCB,KKR,KKR,641,589,569,406,0.506493506,0.563218391,44,41,-0.607,0.028,560.5,756,0.41,0.59,away,home,RCB,11326,normal,field,0,10,0,V Kohli,Ian Gould,Nitin Menon,Anil Dandekar,Eden Gardens
+MI,RR,RR,616,743,759,608,0.555555556,0.536231884,52,65,0.421,-0.449,830,568,0.55,0.45,away,home,RR,11327,normal,field,0,0,5,SPD Smith,S Ravi,Yeshwant Barde,O Nandan,Sawai Mansingh Stadium
+KXIP,DC,DC,656,537,446,810,0.426666667,0,50,60,-0.251,0.044,657,677,0.59,0.41,away,away,DC,11328,normal,field,0,0,5,SS Iyer,Ulhas Gandhe,C ShamshuDCin,Bruce Oxenford,Feroz Shah Kotla Ground
+KKR,SRH,SRH,589,610,406,661,0.563218391,0.5,62,76,0.028,0.577,756,694.5,0.6,0.4,away,home,SRH,11329,normal,field,0,0,9,K Ahmed,Nitin Menon,Nigel Llong,Ian Gould,Rajiv Gandhi Intl. Cricket Stadium
+RCB,CSK,CSK,641,658,569,700,0.506493506,0.649350649,50,38,-0.607,0.131,560.5,764,0.33,0.67,away,away,RCB,11330,normal,field,0,1,0,PA Patel,Vineet Kulkarni,Rod Tucker,Anil Chaudhary,M. Chinnaswamy Stadium
+RR,DC,DC,743,537,608,810,0.536231884,0,52,59,-0.449,0.044,568,677,0.61,0.39,home,away,DC,11331,normal,field,0,0,6,RR Pant,S Ravi,Nanda Kishore,Yeshwant Barde,Sawai Mansingh Stadium
+SRH,CSK,CSK,610,658,661,700,0.5,0.649350649,56,49,0.577,0.131,694.5,764,0.2,0.8,away,home,CSK,11332,normal,field,0,0,6,SR Watson,Nigel Llong,Anil Chaudhary,Vineet Kulkarni,M. A. Chidambaram Stadium
+RCB,KXIP,KXIP,641,656,569,446,0.506493506,0.426666667,75,71,-0.607,-0.251,560.5,657,0.45,0.55,away,away,RCB,11333,normal,field,0,17,0,AB de Villiers,Bruce Oxenford,C ShamshuDCin,Rod Tucker,M. Chinnaswamy Stadium
+KKR,RR,RR,589,743,406,608,0.563218391,0.536231884,37,55,0.028,-0.449,756,568,0.5,0.5,home,away,RR,11334,normal,field,0,0,3,VR Aaron,Ian Gould,Anil Dandekar,Nitin Menon,Eden Gardens
+MI,CSK,CSK,616,658,759,700,0.555555556,0.649350649,46,40,0.421,0.131,830,764,0.54,0.46,away,home,MI,11335,normal,field,0,46,0,RG Sharma,Nigel Llong,Anil Chaudhary,Vineet Kulkarni,M. A. Chidambaram Stadium
+SRH,RR,RR,610,743,661,608,0.5,0.536231884,53,61,0.577,-0.449,694.5,568,0.56,0.44,away,home,RR,11336,normal,field,0,0,7,JD Unadkat,Yeshwant Barde,Nand Kishore,Sundaram Ravi,Sawai Mansingh Stadium
+DC,RCB,DC,537,641,810,569,0,0.506493506,61,66,0.044,-0.607,677,560.5,0.33,0.67,away,away,DC,11337,normal,bat,0,16,0,S Dhawan,Bruce Oxenford,KN Ananthapadmanabhan,C ShamshuDCin,Feroz Shah Kotla Ground
+KKR,MI,MI,589,616,406,759,0.563218391,0.555555556,50,42,0.028,0.421,756,830,0.22,0.78,home,away,KKR,11338,normal,field,0,34,0,AD Russell,Ian Gould,Nitin Menon,Anil Dandekar,Eden Gardens
+SRH,KXIP,KXIP,610,656,661,446,0.5,0.426666667,89,47,0.577,-0.251,694.5,657,0.75,0.25,home,away,SRH,11339,normal,field,0,45,0,DA Warner,S Ravi,O Nandan,Nanda Kishore,Rajiv Gandhi Intl. Cricket Stadium
+RCB,RR,RR,641,743,569,608,0.506493506,0.536231884,65,42,-0.607,-0.449,560.5,568,0.47,0.53,away,away,,11340,no result,field,0,0,0,,Nigel Llong,Ulhas Gandhe,Anil Chaudhary,M. Chinnaswamy Stadium
+CSK,DC,DC,658,537,700,810,0.649350649,0,28,59,0.131,0.044,764,677,0.67,0.33,home,away,CSK,11341,normal,field,0,80,0,MS Dhoni,Anil Dandekar,Nitin Menon,Ian Gould,M. A. Chidambaram Stadium
+MI,SRH,MI,616,610,759,661,0.555555556,0.5,45,60,0.421,0.577,830,694.5,0.42,0.58,home,away,MI,11342,tie,bat,0,0,0,JJ Bumrah,S Ravi,O Nandan,Nanda Kishore,Wankhede Stadium
+KXIP,KKR,KKR,656,589,446,406,0.426666667,0.563218391,41,63,-0.251,0.028,657,756,0.35,0.65,home,away,KKR,11343,normal,field,0,0,7,S Gill,Bruce Oxenford,C ShamshuDCin,KN Ananthapadmanabhan,IS Bindra Stadium
+RR,DC,RR,743,537,608,810,0.536231884,0,31,50,-0.449,0.044,568,677,0.61,0.39,away,away,DC,11344,normal,bat,0,0,5,A Mishra,Ian Gould,Anil Dandekar,Nitin Menon,Feroz Shah Kotla Ground
+SRH,RCB,RCB,610,641,661,569,0.5,0.506493506,53,53,0.577,-0.607,694.5,560.5,0.58,0.42,away,away,RCB,11345,normal,field,0,0,4,S Hetmyer,Nigel Llong,Anil Chaudhary,Ulhas Gandhe,M. Chinnaswamy Stadium
+CSK,KXIP,KXIP,658,656,700,446,0.649350649,0.426666667,44,75,0.131,-0.251,764,657,0.58,0.42,away,home,KXIP,11346,normal,field,0,0,6,KL Rahul,KN Ananthapadmanabhan,C ShamshuDCin,Bruce Oxenford,IS Bindra Stadium
+KKR,MI,MI,589,616,406,759,0.563218391,0.555555556,51,48,0.028,0.421,756,830,0.22,0.78,away,home,MI,11347,normal,field,0,0,9,HH Pandya,Nanda Kishore,O Nandan,S Ravi,Wankhede Stadium
+CSK,MI,CSK,658,616,700,759,0.649350649,0.555555556,33,47,0.131,0.421,764,830,0.46,0.54,home,away,MI,11412,normal,bat,0,0,6,AS Yadav,Nigel Llong,Nitin Menon,Ian Gould,M. A. Chidambaram Stadium
+SRH,DC,DC,610,537,661,810,0.5,0,54,56,0.577,0.044,694.5,677,0.67,0.33,away,away,DC,11413,normal,field,0,0,2,RR Pant,,,,ACA-VDECA Stadium
+DC,CSK,CSK,537,658,810,700,0,0.649350649,42,42,0.044,0.131,677,764,0.33,0.67,away,away,CSK,11414,normal,field,0,0,6,F du Plessis,Sundaram Ravi,Bruce Oxenford,Chettithody ShamshuDCin,ACA-VDECA Stadium
+MI,CSK,MI,616,658,759,700,0.555555556,0.649350649,46,54,0.421,0.131,830,764,0.54,0.46,away,away,MI,11415,normal,bat,0,1,0,JJ Bumrah,Nitin Menon,Ian Gould,Nigel Llong,Rajiv Gandhi Intl. Cricket Stadium
