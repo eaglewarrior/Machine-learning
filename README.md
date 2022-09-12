@@ -5,7 +5,7 @@ This repo contains data preprocessing steps need to be known by begineers
 
 
 For every ML beginner python is recommended ,this repo is full of ML python algorithm.
-# Contributing Guidelines for Hacktoberfest2021
+# Contributing Guidelines for Hacktoberfest2022
 
 1. Star it
 2. Fork the repo
@@ -20,6 +20,12 @@ For every ML beginner python is recommended ,this repo is full of ML python algo
     b. Finance -stocks etc
 
     c. Retail or CPG
+    
+    d. Image classifciation
+    
+    e. Time series 
+    
+ Only code like .py are not accepted please push proper jupyter (.ipynb) files with problem statement and solution analysis.
 
 Python packages used : numpy,pandas,matploit,sklearn,statsmodels,keras,nltk,........continues will be added more.
 
