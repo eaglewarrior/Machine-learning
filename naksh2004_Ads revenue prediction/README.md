@@ -1,4 +1,4 @@
-# Predict-an-Ad-s-Success-Hackerearth-Machine-Learning-Challenge
+# Predict-an-Ad-s-Success-Machine-Learning-Challenge
 This is a binary classification problem where you need to predict whether an ad buy will lead to a netgain.
 
 The holiday season is just around the corner—Christmas trees have been decorated, lights and wreaths hung, streets all decked up, Santa costumes rented out, and holiday cards in the mailbox. In light of this holiday cheer, retail brands, big and small, want to earn considerable profits, and therefore, are investing significantly in advertising. These brands have approached an advertising agency to plan and execute ad campaigns that will help them increase the footfall in their stores.
