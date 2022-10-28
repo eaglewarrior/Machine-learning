@@ -10,7 +10,7 @@ dataset = pd.read_csv('Data.csv')
 X = dataset.iloc[:, :-1].values#we take all the lines we take all coluumn except last one independent country,age etc
 y = dataset.iloc[:, 3].values#we take all lines but only last column it is dependent variable the purchased 
 # Splitting the dataset into the Training set and Test set
-#from sklearn.cross_validation import train_test_split
+#from sklearn.model_selection import train_test_split
 #X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
 
 # Feature Scaling
