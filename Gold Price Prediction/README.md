@@ -5,6 +5,7 @@ Dataset Link : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 
 <h1 align='center'> WORKFLOW OF THE PROJECT<br></h1>
 
+
 ```mermaid
 flowchart TD
 
